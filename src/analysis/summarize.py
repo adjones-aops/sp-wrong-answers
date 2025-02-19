@@ -3,7 +3,7 @@ import pandas as pd
 
 def summarize_wrong_answers(row):
     """
-    Creates a single string summarizing the top wrong answers, e.g.:
+    Creates a single string summarizing the top three wrong answers, e.g.:
     '1) [0,1] (3%), 2) [0,1,2,3] (3%), 3) [0,1,5,6] (2%)'
     Uses the individual %failed1, %failed2, %failed3 values.
     """
@@ -24,19 +24,19 @@ def build_summary_table(df):
       - num_responses
       - %failed, %giveup, %trigger_goto (if present)
       - %failed1, failed1_response, %failed2, failed2_response, %failed3, failed3_response (if present)
-      - wrong_sum (the sum of %failed1, %failed2, %failed3)
-      - Top Wrong Answers (a single string)
+      - %wrong_combined (the sum of %failed1, %failed2, %failed3)
+      - top three wrong answers (a single string)
     """
     df_copy = df.copy()
 
-    # If wrong_sum isn't already computed, compute it
-    if "wrong_sum" not in df_copy.columns:
-        df_copy["wrong_sum"] = (
+    # If %wrong_combined isn't already computed, compute it
+    if "%wrong_combined" not in df_copy.columns:
+        df_copy["%wrong_combined"] = (
             df_copy["%failed1"].fillna(0) + df_copy["%failed2"].fillna(0) + df_copy["%failed3"].fillna(0)
         )
 
-    # Create the 'Top Wrong Answers' column
-    df_copy["Top Wrong Answers"] = df_copy.apply(summarize_wrong_answers, axis=1)
+    # Create the 'top three wrong answers' column
+    df_copy["top three wrong answers"] = df_copy.apply(summarize_wrong_answers, axis=1)
 
     # Define the columns we want to keep (if they exist in df)
     desired_cols = [
@@ -52,8 +52,8 @@ def build_summary_table(df):
         "failed2_response",
         "%failed3",
         "failed3_response",
-        "wrong_sum",
-        "Top Wrong Answers",
+        "%wrong_combined",
+        "top three wrong answers",
     ]
 
     # Only select columns that actually exist in the DataFrame
@@ -77,18 +77,18 @@ if __name__ == "__main__":
     # 1. Load your cleaned CSV file from data/processed
     df = pd.read_csv("data/processed/cleaned_data.csv")
 
-    # 2. Compute wrong_sum if not already computed
-    df["wrong_sum"] = df["%failed1"].fillna(0) + df["%failed2"].fillna(0) + df["%failed3"].fillna(0)
+    # 2. Compute %wrong_combined if not already computed
+    df["%wrong_combined"] = df["%failed1"].fillna(0) + df["%failed2"].fillna(0) + df["%failed3"].fillna(0)
 
-    # 3. Filter out rows with zero wrong_sum (optional) and those >= 99 (bogus)
-    df = df[df["wrong_sum"] > 0]
-    df = df[df["wrong_sum"] < 99]
+    # 3. Filter out rows with zero %wrong_combined (optional) and those >= 99 (bogus)
+    df = df[df["%wrong_combined"] > 0]
+    df = df[df["%wrong_combined"] < 99]
 
     # 4. Filter out problems in the bottom 25% by num_responses (optional)
     df = filter_by_num_responses_percentile(df, percentile=0.25)
 
-    # 5. Sort the remaining rows by wrong_sum in descending order (optional)
-    df = df.sort_values(by="wrong_sum", ascending=False)
+    # 5. Sort the remaining rows by %wrong_combined in descending order (optional)
+    df = df.sort_values(by="%wrong_combined", ascending=False)
 
     # 6. Build the summary table
     summary_table = build_summary_table(df)

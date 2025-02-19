@@ -1,55 +1,63 @@
-import pandas as pd
 import streamlit as st
+import pandas as pd
+from pathlib import Path
+from src.utils.dashboard_helpers import summarize_wrong_answers, filter_data, build_column_toggles
 
-from src.analysis.summarize import build_summary_table
-
-# Define a mapping from course names to their cleaned data file paths
+# Course file mapping (with updated file names)
 COURSE_FILES = {
     "Prealgebra 1": "data/processed/prealgebra_1_data_cleaned.csv",
     "Prealgebra 2": "data/processed/prealgebra_2_data_cleaned.csv",
-    "Algebra A": "data/processed/algebra_a_data_cleaned.csv",
+    "Algebra A":     "data/processed/algebra_a_data_cleaned.csv",
 }
 
-st.set_page_config(layout="wide")
+def load_and_rename_data(course_file: str) -> pd.DataFrame:
+    """
+    Loads CSV and creates the 'top three wrong answers' column.
+    """
+    df = pd.read_csv(course_file)
+    # Always create top three wrong answers
+    df["top three wrong answers"] = df.apply(summarize_wrong_answers, axis=1)
+    return df
 
-# Sidebar: Course Picker
-st.sidebar.title("Dashboard Filters")
-selected_course = st.sidebar.selectbox("Select Course", list(COURSE_FILES.keys()))
+def select_course() -> str:
+    st.sidebar.header("Dashboard Filters")
+    selected = st.sidebar.selectbox("Select Course", list(COURSE_FILES.keys()))
+    return selected
 
-# Load the corresponding data file
-data_file = COURSE_FILES[selected_course]
-df = pd.read_csv(data_file)
+def main():
+    st.set_page_config(layout="wide")
+    st.title("Common Mistakes Dashboard")
+    
+    # Course selection
+    selected_course = select_course()
+    course_file = COURSE_FILES[selected_course]
+    
+    # Load data
+    df = load_and_rename_data(course_file)
+    
+    # Sidebar filter: Minimum responses
+    max_responses = int(df["num_responses"].max()) if "num_responses" in df.columns else 100
+    min_attempts = st.sidebar.slider("Minimum Number of Responses", 0, max_responses, 30)
+    
+    # Filter data
+    df = filter_data(df, min_attempts)
+    
+    # Sidebar: Sorting option (if desired)
+    sort_option = st.sidebar.selectbox("Sort by", options=["None", "num_responses", "%failed", "%wrong_combined"], index=0)
+    if sort_option != "None" and sort_option in df.columns:
+        df = df.sort_values(by=sort_option, ascending=False)
+    
+    # Build column toggles from our helper in dashboard_helpers
+    columns_to_display = build_column_toggles(df, st.sidebar)
+    
+    st.header(f"Summary for {selected_course}")
+    if df.empty:
+        st.warning("No data available after filtering. Please adjust your filters.")
+    else:
+        st.dataframe(df[columns_to_display])
+    
+    st.header("Visualizations")
+    st.write("Add interactive charts here that respond to the selected filters.")
 
-# Sidebar: Additional filters
-min_attempts = st.sidebar.slider("Minimum Number of Responses", 0, int(df["num_responses"].max()), 30)
-show_extra_columns = st.sidebar.checkbox("Show extra columns (%failed, %giveup)", value=False)
-
-# Optionally filter out bogus wrong_sum entries if computed already
-if "wrong_sum" in df.columns:
-    df = df[df["wrong_sum"] < 99]
-
-# Apply a filter based on the minimum number of responses
-df = df[df["num_responses"] >= min_attempts]
-
-# Compute wrong_sum if not already computed
-if "wrong_sum" not in df.columns:
-    df["wrong_sum"] = df["%failed1"].fillna(0) + df["%failed2"].fillna(0) + df["%failed3"].fillna(0)
-
-# Build a summary table
-summary_table = build_summary_table(df)
-
-# Main view: Display table
-st.header(f"Summary for {selected_course}")
-if show_extra_columns:
-    st.dataframe(summary_table)
-else:
-    # Display a simpler version (e.g., only showing document_name, pointer, num_responses, Top Wrong Answers)
-    st.dataframe(summary_table[["document_name", "pointer", "num_responses", "Top Wrong Answers"]])
-
-# Optionally, add an expander for extra details
-with st.expander("Show full data"):
-    st.dataframe(df)
-
-# Further visualizations can be added below (e.g., charts based on the summary metrics)
-st.header("Visualizations")
-st.write("Here you can add interactive charts that slice the data by the selected filters.")
+if __name__ == "__main__":
+    main()
