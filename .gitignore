@@ -1,0 +1,70 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments (adjust if you use a different folder name)
+env/
+.venv/
+ENV/
+venv/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.coverage
+.coverage.*
+.cache/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Mypy and Pyre caches
+.mypy_cache/
+.dmypy.json
+.pyre/
+
+# VSCode settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# MacOS system files
+.DS_Store
+
+# Streamlit config (if you have any)
+.streamlit/
+
+# Data files
+# Keep raw CSV files in version control
+data/raw/*.csv
+# Ignore all other files in data/raw (if any)
+data/raw/*
+!data/raw/*.csv
+
+# Generated/processed data – these are re-generated so ignore them
+data/processed/*
+
+# Notebook outputs (if not version controlled)
+notebooks/*.html

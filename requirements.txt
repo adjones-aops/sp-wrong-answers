@@ -1,0 +1,10 @@
+pandas
+pytest
+matplotlib
+seaborn
+streamlit
+watchdog
+black
+isort
+flake8
+pre-commit
