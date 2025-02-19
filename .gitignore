@@ -56,15 +56,5 @@ pip-delete-this-directory.txt
 # Streamlit config (if you have any)
 .streamlit/
 
-# Data files
-# Keep raw CSV files in version control
-data/raw/*.csv
-# Ignore all other files in data/raw (if any)
-data/raw/*
-!data/raw/*.csv
-
-# Generated/processed data – these are re-generated so ignore them
-data/processed/*
-
 # Notebook outputs (if not version controlled)
 notebooks/*.html

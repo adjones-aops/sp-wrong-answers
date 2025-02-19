@@ -1,85 +1,48 @@
-import os
-
-import matplotlib.pyplot as plt
 import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+import streamlit as st
 
 
-def load_cleaned_data():
-    filepath = os.path.join("data", "processed", "cleaned_data.csv")
-    return pd.read_csv(filepath)
-
-
-def get_worst_problems(df, percentile=0.95):
+def create_bubble_chart(df: pd.DataFrame) -> go.Figure:
     """
-    Returns a DataFrame of only the worst problems, defined by the given percentile
-    of %failed. E.g. percentile=0.90 -> top 10% of problems by %failed.
+    Creates a bubble chart where:
+      - x-axis: '%wrong_combined'
+      - y-axis: 'num_responses'
+      - bubble size: 'total_fails' = (%failed / 100) * num_responses
+      - color: 'document_name' if available
+      - hover_data: includes 'pointer' and 'top three wrong answers'
+    Returns the Plotly figure.
     """
-    threshold = df["%failed"].quantile(percentile)
-    return df[df["%failed"] >= threshold]
+    required_cols = {"%failed", "num_responses", "%wrong_combined"}
+    missing = required_cols - set(df.columns)
+    if missing:
+        raise ValueError(f"Missing columns for bubble chart: {missing}")
+
+    # Compute total_fails as the actual number of fails
+    df = df.copy()
+    df["total_fails"] = (df["%failed"].fillna(0) / 100) * df["num_responses"].fillna(0)
+
+    fig = px.scatter(
+        df,
+        x="%wrong_combined",
+        y="num_responses",
+        size="total_fails",
+        color="document_name" if "document_name" in df.columns else None,
+        hover_data=["pointer", "top three wrong answers"],
+        title="Bubble Chart: Wrong % vs # of Responses (Bubble size = total fails)",
+        labels={"%wrong_combined": "Combined Wrong %", "num_responses": "Number of Attempts"},
+    )
+    fig.update_traces(marker=dict(sizemin=2, sizemode="area", sizeref=2.0 * max(df["total_fails"]) / (40.0**2)))
+    return fig
 
 
-def process_failed_responses(df):
-    """Explode the multiple responses into rows."""
-    response_columns = ["failed1_response", "failed2_response", "failed3_response"]
-    for col in response_columns:
-        df[col] = df[col].astype(str).str.replace(r"[\[\]\"]", "", regex=True)
-        df[col] = df[col].str.split(",")
-        df = df.explode(col)
-    return df
-
-
-def group_rare_responses(df, top_n=10):
+def show_bubble_chart(df: pd.DataFrame):
     """
-    Replace responses outside the top_n most common with 'Other'.
-    Assumes the exploded column is named 'failed_response' if we do a melt
-    or we rename columns accordingly.
+    Calls create_bubble_chart and then renders the figure with Streamlit.
     """
-    if "failed_response" not in df.columns:
-        df = df.rename(columns={"failed1_response": "failed_response"})
-    response_counts = df["failed_response"].value_counts()
-    top_responses = response_counts.index[:top_n]
-    df["failed_response"] = df["failed_response"].where(df["failed_response"].isin(top_responses), "Other")
-    return df
-
-
-def plot_stacked_bar_chart(df):
-    """Creates a stacked bar chart of common failure responses per question."""
-
-    # If we haven't melted yet, let's pivot on pointer + failed_response
-    failure_counts = df.groupby(["pointer", "failed_response"]).size().unstack(fill_value=0)
-
-    # Convert counts to percentages
-    failure_percentages = failure_counts.div(failure_counts.sum(axis=1), axis=0) * 100
-
-    # Escape dollar signs
-    failure_percentages.columns = failure_percentages.columns.str.replace(r"\$", r"\\$", regex=True)
-
-    # Plot
-    ax = failure_percentages.plot(kind="bar", stacked=True, figsize=(16, 6), colormap="viridis")
-    ax.set_ylabel("Percentage of Failures")
-    ax.set_xlabel("Question (Pointer)")
-    ax.set_title("Distribution of Failed Responses (Worst Problems Only)")
-    ax.legend(title="Incorrect Response", bbox_to_anchor=(1.0, 1.0))
-
-    plt.tight_layout()
-    plt.show()
-
-
-def main():
-    df = load_cleaned_data()
-
-    # 1) Filter to worst problems (top 10% by %failed)
-    worst_df = get_worst_problems(df, percentile=0.90)
-
-    # 2) Explode the failure responses
-    worst_df = process_failed_responses(worst_df)
-
-    # 3) Group rare responses
-    worst_df = group_rare_responses(worst_df, top_n=10)
-
-    # 4) Plot
-    plot_stacked_bar_chart(worst_df)
-
-
-if __name__ == "__main__":
-    main()
+    try:
+        fig = create_bubble_chart(df)
+        st.plotly_chart(fig, use_container_width=True)
+    except ValueError as e:
+        st.info(str(e))
