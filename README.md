@@ -1,4 +1,7 @@
 # Common Mistakes Dashboard
+<p align="center">
+  <img src="assets/dashboard.png" width="600px">
+</p>
 
 **Common Mistakes Dashboard** is an interactive data visualization project designed to analyze common student mistakes in self-paced math courses. The project processes raw CSV data from multiple courses (e.g., Prealgebra 1, Prealgebra 2, Algebra A), cleans it, and provides an interactive Streamlit dashboard for exploring the data.
 
