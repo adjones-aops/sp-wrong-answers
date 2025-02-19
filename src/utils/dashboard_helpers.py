@@ -17,17 +17,20 @@ def summarize_wrong_answers(row):
 
 def filter_data(df: pd.DataFrame, min_attempts: int) -> pd.DataFrame:
     """
-    Filters data based on a minimum number of responses.
-    Also computes %wrong_combined if not present, then filters out bogus rows.
+    Filters data based on a minimum number of responses and removes bogus rows.
+    Computes a combined wrong percentage and filters out rows where it is 99% or higher.
     """
+    # Ensure we work on a copy to avoid SettingWithCopyWarning.
+    df = df.copy()
+
     if "num_responses" in df.columns:
         df = df[df["num_responses"] >= min_attempts]
-    if "%wrong_combined" not in df.columns:
-        df["%wrong_combined"] = df["%failed1"].fillna(0) + df["%failed2"].fillna(0) + df["%failed3"].fillna(0)
-    # Remove rows where %wrong_combined is 99% or more (probably bogus)
+
+    # Use .loc to explicitly assign to a new column.
+    df.loc[:, "%wrong_combined"] = df["%failed1"].fillna(0) + df["%failed2"].fillna(0) + df["%failed3"].fillna(0)
+
+    # Filter out rows where the combined wrong percentage is 99% or higher.
     df = df[df["%wrong_combined"] < 99]
-    # Remove rows where %failed is 100% (probably bogus)
-    df = df[df["%failed"] < 100]
     return df
 
 

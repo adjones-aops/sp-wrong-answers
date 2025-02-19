@@ -44,10 +44,15 @@ def test_build_summary_table():
         "document_name",
         "pointer",
         "num_responses",
-        "wrong_sum",
-        "Top Wrong Answers",
+        "%failed",
+        "%giveup",
+        "%trigger_goto",
+        "%wrong_combined",
+        "top three wrong answers",
     ]:
         assert col in summary_table.columns
-    # Verify that wrong_sum is computed correctly (20+10+5 and 30+15+10)
-    expected_wrong_sum = [35, 55]
-    pd.testing.assert_series_equal(summary_table["wrong_sum"], pd.Series(expected_wrong_sum, name="wrong_sum"))
+    # Verify that %wrong_combined is computed correctly (20+10+5 and 30+15+10)
+    expected_wrong_combined = [35, 55]
+    pd.testing.assert_series_equal(
+        summary_table["%wrong_combined"], pd.Series(expected_wrong_combined, name="%wrong_combined")
+    )
