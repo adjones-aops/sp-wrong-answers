@@ -31,6 +31,8 @@ def filter_data(df: pd.DataFrame, min_attempts: int) -> pd.DataFrame:
 
     # Filter out rows where the combined wrong percentage is 99% or higher.
     df = df[df["%wrong_combined"] < 99]
+
+    df = df[df["%failed"] < 100]
     return df
 
 

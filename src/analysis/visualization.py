@@ -30,7 +30,7 @@ def create_bubble_chart(df: pd.DataFrame) -> go.Figure:
         size="total_fails",
         color="document_name" if "document_name" in df.columns else None,
         hover_data=["pointer", "top three wrong answers"],
-        title="Bubble Chart: Wrong % vs # of Responses (Bubble size = total fails)",
+        title="Bubble Chart: Combined Wrong % vs # of Responses (Bubble size = total fails)",
         labels={"%wrong_combined": "Combined Wrong %", "num_responses": "Number of Attempts"},
     )
     fig.update_traces(marker=dict(sizemin=2, sizemode="area", sizeref=2.0 * max(df["total_fails"]) / (40.0**2)))
