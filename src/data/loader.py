@@ -51,7 +51,7 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    filename = "prealgebra_2_data.csv"
+    filename = "prealgebra_1_data.csv"
     df = load_csv_data(filename)
     df = clean_data(df)
 

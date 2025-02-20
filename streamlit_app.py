@@ -9,12 +9,17 @@ COURSE_FILES = {
     "Prealgebra 1": "data/processed/prealgebra_1_data_cleaned.csv",
     "Prealgebra 2": "data/processed/prealgebra_2_data_cleaned.csv",
     "Algebra A": "data/processed/algebra_a_data_cleaned.csv",
+    "Counting and Probability": "data/processed/counting_and_probability_data_cleaned.csv",
+    "Algebra B": "data/processed/algebra_b_data_cleaned.csv",
 }
 
+# Define course links and URL prefixes. We use the inactive new collection links.
 COURSE_LINK_PREFIX = {
     "Prealgebra 1": "https://www.aops.com/crypt/composite/519/",
     "Prealgebra 2": "https://www.aops.com/crypt/composite/520/",
     "Algebra A": "https://www.aops.com/crypt/composite/518/",
+    "Counting and Probability": "https://www.aops.com/crypt/composite/561/",
+    "Algebra B": "https://www.aops.com/crypt/composite/562/",
 }
 
 
@@ -69,6 +74,9 @@ def main():
         "Minimum Number of Responses", min_value=0, max_value=max_responses, value=30, key="min_attempts"
     )
     df = filter_data(df, min_attempts)
+
+    # Round every numeric column to 1 decimal place.
+    df = df.round(1)
 
     # 4) Build the list of columns to display using the helper.
     # The helper returns ["document_name", "pointer", "num_responses", "top three wrong answers"]
