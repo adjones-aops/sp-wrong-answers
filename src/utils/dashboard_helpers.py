@@ -11,7 +11,8 @@ def summarize_wrong_answers(row):
         pct = row.get(f"%failed{i}", 0)
         resp = row.get(f"failed{i}_response", "")
         if pd.notna(pct) and pct > 0:
-            items.append(f"{i}) {resp} ({pct}%)")
+            pct_rounded = f"{pct:.0f}"
+            items.append(f"{i}) {resp} ({pct_rounded}%)")
     return ", ".join(items)
 
 

@@ -1,0 +1,1281 @@
+document_id,document_name,version,pointer,num_responses,%failed,%giveup,%trigger_goto,%failed1,failed1_response,%failed2,failed2_response,%failed3,failed3_response,course
+9298,What's a Writing Problem?,23,body3MultiAnswerProblem,27,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+9298,What's a Writing Problem?,23,body4MultiAnswerProblem,27,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+9298,What's a Writing Problem?,23,body5MultiAnswerProblem,27,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+9298,What's a Writing Problem?,23,body6MultiAnswerProblem,27,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+9745,Welcome,39,body13MultiAnswerProblem,2675,43.925233644859816,0.0,0.0,14.953271028037385,"[0,1,2,4,5]",10.280373831775702,"[0,1,2,3,5]",4.672897196261682,"[0,1,2,5]",Algebra B
+9745,Welcome,39,body22MultiAnswerProblem,1200,10.416666666666666,0.0,0.0,10.416666666666666,[1],0.0,,0.0,,Algebra B
+9745,Welcome,39,body23MultiAnswerProblem,1200,52.083333333333336,0.0,0.0,52.083333333333336,[0],0.0,,0.0,,Algebra B
+9745,Welcome,39,body24MultiAnswerProblem,1200,18.75,0.0,0.0,18.75,[0],0.0,,0.0,,Algebra B
+9745,Welcome,39,body25MultiAnswerProblem,1200,6.25,0.0,0.0,6.25,[1],0.0,,0.0,,Algebra B
+9745,Welcome,39,body3MultiAnswerProblem,1575,15.873015873015872,0.0,0.0,7.936507936507937,[3],6.349206349206349,[1],1.5873015873015872,[0],Algebra B
+9745,Welcome,39,body4body23MultiAnswerProblem,2475,39.39393939393939,1.0101010101010102,0.0,18.181818181818183,"[0,1,2,3,4,5]",4.040404040404041,[6],2.0202020202020203,[0],Algebra B
+10330,Class Forum,15,body1MultiAnswerProblem,75,66.66666666666667,0.0,0.0,33.333333333333336,"[0,1,2,3,4,5]",33.333333333333336,"[0,1,2,3]",0.0,,Algebra B
+11295,Expanding,19,body10ShortAnswerProblem,852,26.760563380281692,0.0,73.2394366197183,8.450704225352112,"""4x^2 + 5x + 15""",2.816901408450704,"""x^2+5x+3x+15""",2.816901408450704,"""x^2+16x+15""",Algebra B
+11295,Expanding,19,body12MathjaxBlank,132,27.272727272727273,54.54545454545455,0.0,18.181818181818183,"[""5"",""3""]",9.090909090909092,"[""x"",""3""]",0.0,,Algebra B
+11295,Expanding,19,body13ShortAnswerProblem,168,42.857142857142854,28.571428571428573,0.0,14.285714285714286,"""7""",7.142857142857143,"""x^2+3x + 5x+15""",7.142857142857143,"""x^4 + 14""",Algebra B
+11295,Expanding,19,body20ShortAnswerProblem,864,23.61111111111111,8.333333333333334,0.0,4.166666666666667,"""x^2+8x+12""",4.166666666666667,"""x^2-6x+12""",2.7777777777777777,"""x^2-8+12""",Algebra B
+11295,Expanding,19,body23ShortAnswerProblem,612,13.72549019607843,11.764705882352942,0.0,9.803921568627452,"""-x^2""",1.96078431372549,"""1""",1.96078431372549,"""x^2""",Algebra B
+11295,Expanding,19,body26MathjaxBlank,540,0.0,2.2222222222222223,2.2222222222222223,0.0,,0.0,,0.0,,Algebra B
+11295,Expanding,19,body30ShortAnswerProblem,864,22.22222222222222,0.0,0.0,8.333333333333334,"""x^2 + 18x + 9""",5.555555555555555,"""x^2+9""",2.7777777777777777,"""x""",Algebra B
+11295,Expanding,19,body32ShortAnswerProblem,816,20.58823529411765,4.411764705882353,0.0,2.9411764705882355,"""6a^2-6a-8""",2.9411764705882355,"""6^2-6a-8""",1.4705882352941178,"""6a^2+16a+-8""",Algebra B
+11295,Expanding,19,body36ShortAnswerProblem,936,35.8974358974359,6.410256410256411,0.0,7.6923076923076925,"""c^3+3c^2-5c+2""",3.8461538461538463,"""c^3+2c^2-9c+2""",2.5641025641025643,"""c^3 + -9c + 2c^2+ 2""",Algebra B
+11295,Expanding,19,body38ShortAnswerProblem,84,14.285714285714286,0.0,0.0,14.285714285714286,"""t^2+-7t+1""",0.0,,0.0,,Algebra B
+11295,Expanding,19,body5ShortAnswerProblem,816,22.058823529411764,13.235294117647058,0.0,8.823529411764707,"""idk""",4.411764705882353,"""x+3""",4.411764705882353,"""1x(1x+3)""",Algebra B
+11295,Expanding,19,body7ShortAnswerProblem,528,2.272727272727273,0.0,0.0,2.272727272727273,"""5x """,0.0,,0.0,,Algebra B
+11296,Sums and Products of Roots,60,body10MathjaxBlank,432,25.0,13.88888888888889,2.7777777777777777,19.444444444444443,"[""-5"",""-66""]",2.7777777777777777,"[""5"",""66""]",2.7777777777777777,"[""-5"",""66""]",Algebra B
+11296,Sums and Products of Roots,60,body11MultiAnswerProblem,372,9.67741935483871,0.0,0.0,9.67741935483871,[1],0.0,,0.0,,Algebra B
+11296,Sums and Products of Roots,60,body14ShortAnswerProblem,1116,55.913978494623656,17.204301075268816,26.881720430107528,8.602150537634408,"""(x+r)(x+s)""",6.451612903225806,"""x^2+(r+s)x+rs""",4.301075268817204,"""r+s = rs""",Algebra B
+11296,Sums and Products of Roots,60,body16MathjaxBlank,144,8.333333333333334,50.0,0.0,8.333333333333334,"[""-r"",""-s""]",0.0,,0.0,,Algebra B
+11296,Sums and Products of Roots,60,body17ShortAnswerProblem,468,35.8974358974359,15.384615384615383,2.5641025641025643,10.256410256410255,"""x^2 -xs-xr -rs""",5.128205128205129,"""x^2 -sx-rx-rs""",2.5641025641025643,"""x^2+(r+s)x+rs""",Algebra B
+11296,Sums and Products of Roots,60,body19MultiAnswerProblem,552,34.78260869565217,0.0,0.0,17.391304347826086,[0],8.695652173913043,[3],8.695652173913043,[2],Algebra B
+11296,Sums and Products of Roots,60,body1ShortAnswerProblem,672,41.07142857142857,7.142857142857143,0.0,10.714285714285714,"""27""",5.357142857142857,"""12""",5.357142857142857,"""5""",Algebra B
+11296,Sums and Products of Roots,60,body20MultiAnswerProblem,384,21.875,0.0,0.0,9.375,[2],6.25,[3],6.25,[0],Algebra B
+11296,Sums and Products of Roots,60,body21MultiAnswerProblem,444,24.324324324324323,0.0,0.0,10.81081081081081,[1],8.108108108108109,[3],5.405405405405405,[0],Algebra B
+11296,Sums and Products of Roots,60,body22MultiAnswerProblem,348,13.79310344827586,0.0,0.0,6.896551724137931,[1],3.4482758620689653,[3],3.4482758620689653,[0],Algebra B
+11296,Sums and Products of Roots,60,body24ShortAnswerProblem,696,44.827586206896555,6.896551724137931,0.0,15.517241379310343,"""-""",8.620689655172415,"""1""",8.620689655172415,"""-20""",Algebra B
+11296,Sums and Products of Roots,60,body25ShortAnswerProblem,456,15.789473684210526,7.894736842105263,0.0,5.2631578947368425,"""20""",5.2631578947368425,"""1""",2.6315789473684212,"""-20""",Algebra B
+11296,Sums and Products of Roots,60,body26ShortAnswerProblem,480,30.0,20.0,0.0,5.0,"""1""",2.5,"""1,-20""",2.5,"""5,-4""",Algebra B
+11296,Sums and Products of Roots,60,body28MultiAnswerProblem,840,48.57142857142857,0.0,0.0,28.571428571428573,[1],20.0,[0],0.0,,Algebra B
+11296,Sums and Products of Roots,60,body30ShortAnswerProblem,912,55.26315789473684,14.473684210526317,0.0,6.578947368421052,"""1/2, -2""",5.2631578947368425,"""1,-4""",2.6315789473684212,"""-1,-2""",Algebra B
+11296,Sums and Products of Roots,60,body31ShortAnswerProblem,540,35.55555555555556,8.88888888888889,0.0,4.444444444444445,"""-5""",4.444444444444445,"""-3/2""",4.444444444444445,"""1/2""",Algebra B
+11296,Sums and Products of Roots,60,body32ShortAnswerProblem,372,9.67741935483871,6.451612903225806,0.0,3.225806451612903,"""123""",3.225806451612903,"""2/5""",3.225806451612903,"""1""",Algebra B
+11296,Sums and Products of Roots,60,body34MultiAnswerProblem,480,27.5,0.0,0.0,17.5,[2],10.0,[1],0.0,,Algebra B
+11296,Sums and Products of Roots,60,body36MathjaxBlank,480,27.5,5.0,0.0,7.5,"[""5/2"",""3/2""]",7.5,"[""-5/2"",""3/2""]",5.0,"[""3/2"",""5/2""]",Algebra B
+11296,Sums and Products of Roots,60,body38ShortAnswerProblem,408,23.529411764705884,11.764705882352942,0.0,5.882352941176471,"""1""",5.882352941176471,"""x""",2.9411764705882355,"""321""",Algebra B
+11296,Sums and Products of Roots,60,body39MathjaxBlank,504,30.952380952380953,19.047619047619047,0.0,9.523809523809524,"[""a/b"",""a/c""]",9.523809523809524,"[""b"",""c""]",4.761904761904762,"[""1/2 b"",""1/2 c""]",Algebra B
+11296,Sums and Products of Roots,60,body3ShortAnswerProblem,384,12.5,0.0,0.0,3.125,"""5""",3.125,"""21""",3.125,"""29""",Algebra B
+11296,Sums and Products of Roots,60,body41ShortAnswerProblem,600,30.0,12.0,0.0,6.0,"""b/a""",4.0,"""-b/a+c/a""",4.0,"""-b/a, c/a""",Algebra B
+11296,Sums and Products of Roots,60,body42ShortAnswerProblem,324,7.407407407407407,7.407407407407407,0.0,3.703703703703704,"""23""",3.703703703703704,"""8""",0.0,,Algebra B
+11296,Sums and Products of Roots,60,body44ShortAnswerProblem,672,44.642857142857146,7.142857142857143,0.0,12.5,"""1""",8.928571428571429,"""/3""",5.357142857142857,"""-4""",Algebra B
+11296,Sums and Products of Roots,60,body45ShortAnswerProblem,420,17.142857142857142,5.714285714285714,0.0,8.571428571428571,"""4/3""",5.714285714285714,"""1""",2.857142857142857,"""-4""",Algebra B
+11296,Sums and Products of Roots,60,body46ShortAnswerProblem,576,39.583333333333336,18.75,0.0,8.333333333333334,"""1,-3/2""",4.166666666666667,"""2/3, -3/2""",4.166666666666667,"""4/3,1""",Algebra B
+11296,Sums and Products of Roots,60,body49ShortAnswerProblem,1044,83.9080459770115,0.0,16.091954022988507,14.942528735632184,"""-13/7""",10.344827586206897,"""13/7""",9.195402298850574,"""7/13""",Algebra B
+11296,Sums and Products of Roots,60,body50MultiAnswerProblem,384,43.75,0.0,0.0,21.875,[3],12.5,[2],9.375,[0],Algebra B
+11296,Sums and Products of Roots,60,body52ShortAnswerProblem,456,47.36842105263158,13.157894736842104,0.0,10.526315789473683,"""13""",7.894736842105263,"""-13/7""",7.894736842105263,"""1/2""",Algebra B
+11296,Sums and Products of Roots,60,body53ShortAnswerProblem,288,25.0,16.666666666666668,0.0,4.166666666666667,"""26""",4.166666666666667,"""0""",4.166666666666667,"""-2""",Algebra B
+11296,Sums and Products of Roots,60,body54ShortAnswerProblem,408,44.11764705882353,14.705882352941176,0.0,5.882352941176471,"""2/7""",5.882352941176471,"""13/7""",5.882352941176471,"""1/3""",Algebra B
+11296,Sums and Products of Roots,60,body5ShortAnswerProblem,900,53.333333333333336,16.0,0.0,14.666666666666666,"""4""",5.333333333333333,"""23""",5.333333333333333,"""23+s""",Algebra B
+11296,Sums and Products of Roots,60,body9ShortAnswerProblem,804,46.26865671641791,19.402985074626866,0.0,5.970149253731344,"""-11,-6""",5.970149253731344,"""21""",4.477611940298507,"""8""",Algebra B
+11297,Completing the Square II,38,body11MathjaxBlank,384,12.5,15.625,21.875,2.34375,"[""$\\text{add }$"",""25/2""]",2.34375,"[""$\\text{add }$"",""50/4""]",2.34375,"[""$\\text{subtract }$"",""4""]",Algebra B
+11297,Completing the Square II,38,body12MathjaxBlank,540,55.55555555555556,15.555555555555555,0.0,6.666666666666667,"[""$\\text{add }$"",""20""]",6.666666666666667,"[""$\\text{add }$"",""100""]",5.0,"[""$\\text{subtract }$"",""5x""]",Algebra B
+11297,Completing the Square II,38,body13MathjaxBlank,312,23.076923076923077,19.23076923076923,0.0,8.653846153846153,"[""-5"",""59"",""2""]",2.8846153846153846,"[""2"",""59"",""5""]",2.8846153846153846,"[""-5"",""59"",""2""]",Algebra B
+11297,Completing the Square II,38,body14MathjaxBlank,144,41.666666666666664,8.333333333333334,0.0,6.25,"[""$\\text{add }$"",""1.25""]",6.25,"[""$\\text{subtract }$"",""5/2""]",6.25,"[""$\\text{add }$"",""25""]",Algebra B
+11297,Completing the Square II,38,body15MathjaxBlank,84,0.0,28.571428571428573,0.0,0.0,,0.0,,0.0,,Algebra B
+11297,Completing the Square II,38,body17MathjaxBlank,228,31.57894736842105,0.0,0.0,11.842105263157896,"[""1"",""2"",""2""]",7.894736842105263,"[""2"",""2"",""2""]",3.9473684210526314,"[""-1"",""2"",""2""]",Algebra B
+11297,Completing the Square II,38,body18MathjaxBlank,144,0.0,50.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11297,Completing the Square II,38,body19MathjaxBlank,108,66.66666666666667,0.0,0.0,16.666666666666668,"[""1"",""1"",""2""]",16.666666666666668,"[""1"",""2"",""2""]",8.333333333333334,"[""-1"",""3"",""4""]",Algebra B
+11297,Completing the Square II,38,body19MathjaxBlankhints1trigger0ShortAnswerProblem,168,35.714285714285715,14.285714285714286,14.285714285714286,10.714285714285714,"""1""",5.357142857142857,"""0""",5.357142857142857,"""divide by 2""",Algebra B
+11297,Completing the Square II,38,body1MathjaxBlank,540,20.0,4.444444444444445,2.2222222222222223,6.666666666666667,"[""6""]",3.3333333333333335,"[""4""]",2.2222222222222223,"[""6""]",Algebra B
+11297,Completing the Square II,38,body20MathjaxBlank,132,27.272727272727273,54.54545454545455,0.0,6.818181818181818,"[""1"",""1"",""-2""]",6.818181818181818,"[""2"",""2"",""2""]",6.818181818181818,"[""-2"",""2"",""2""]",Algebra B
+11297,Completing the Square II,38,body22MathjaxBlank,48,50.0,50.0,0.0,18.75,"[""-1"",""2"",""3"",""4""]",18.75,"[""-1"",""4"",""3"",""4""]",6.25,"[""-1"",""2"",""3"",""4""]",Algebra B
+11297,Completing the Square II,38,body2MathjaxBlank,504,16.666666666666668,7.142857142857143,0.0,3.5714285714285716,"[""2a""]",1.7857142857142858,"[""ab^2""]",1.7857142857142858,"[""ab""]",Algebra B
+11297,Completing the Square II,38,body3MathjaxBlank,888,45.945945945945944,29.72972972972973,1.351351351351351,7.094594594594595,"[""-12"",""252"",""18""]",7.094594594594595,"[""2"",""7"",""3""]",4.054054054054054,"[""-6"",""39"",""3""]",Algebra B
+11297,Completing the Square II,38,body4MathjaxBlank,744,41.935483870967744,14.516129032258064,0.0,8.46774193548387,"[""$\\text{divide by }$"",""9""]",4.838709677419355,"[""$\\text{subtract }$"",""10""]",3.629032258064516,"[""$\\text{divide by }$"",""3""]",Algebra B
+11297,Completing the Square II,38,body5ShortAnswerProblem,996,56.626506024096386,9.63855421686747,0.0,9.939759036144578,"""4""",7.228915662650603,"""-1""",3.6144578313253017,"""0""",Algebra B
+11297,Completing the Square II,38,body5ShortAnswerProblemhints1trigger1ShortAnswerProblem,252,38.095238095238095,19.047619047619047,0.0,10.714285714285714,"""8""",3.5714285714285716,"""0""",3.5714285714285716,"""24""",Algebra B
+11297,Completing the Square II,38,body5ShortAnswerProblemhints1trigger2ShortAnswerProblem,540,60.0,37.77777777777778,0.0,10.0,"""-4""",10.0,"""4""",5.0,"""ba""",Algebra B
+11297,Completing the Square II,38,body5ShortAnswerProblemhints1trigger3ShortAnswerProblem,432,50.0,47.22222222222222,0.0,12.5,"""16""",4.166666666666667,"""4""",4.166666666666667,"""16""",Algebra B
+11297,Completing the Square II,38,body6MathjaxBlank,816,52.94117647058823,25.0,0.0,6.617647058823529,"[""-11"",""2"",""-6"",""4""]",6.617647058823529,"[""-11"",""2"",""-7"",""   ""]",6.617647058823529,"[""-11"",""2"",""-7"",""4""]",Algebra B
+11297,Completing the Square II,38,body7MathjaxBlank,492,26.82926829268293,19.51219512195122,29.26829268292683,7.317073170731708,"[""$\\text{subtract }$"",""5""]",2.4390243902439024,"[""$\\text{subtract }$"",""5""]",1.829268292682927,"[""$\\text{multiply by }$"",""2x""]",Algebra B
+11297,Completing the Square II,38,body8MathjaxBlank,552,39.130434782608695,19.565217391304348,0.0,8.152173913043478,"[""2"",""19"",""3""]",3.260869565217391,"[""-2"",""11"",""3""]",3.260869565217391,"[""2"",""11"",""3""]",Algebra B
+11297,Completing the Square II,38,body9body6MultiAnswerProblem,288,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11318,Introduction to Quadratics,23,body12ShortAnswerProblem,1152,39.583333333333336,11.458333333333334,0.0,10.416666666666666,"""2.5""",4.166666666666667,"""5/2""",2.0833333333333335,"""-2.5""",Algebra B
+11318,Introduction to Quadratics,23,body18MultiAnswerProblem,756,30.15873015873016,0.0,0.0,9.523809523809524,[1],7.936507936507937,[0],6.349206349206349,[3],Algebra B
+11318,Introduction to Quadratics,23,body21ShortAnswerProblem,1488,54.83870967741935,16.129032258064516,0.0,15.32258064516129,"""0""",6.451612903225806,"""1000000000""",6.451612903225806,"""-0""",Algebra B
+11318,Introduction to Quadratics,23,body23ShortAnswerProblem,684,21.05263157894737,22.80701754385965,0.0,8.771929824561404,"""0""",3.508771929824561,"""2""",1.7543859649122806,"""4,--4""",Algebra B
+11318,Introduction to Quadratics,23,body25ShortAnswerProblem,612,39.21568627450981,0.0,60.78431372549019,13.72549019607843,"""0""",3.92156862745098,"""0, 8/3""",1.96078431372549,"""5/3, 3""",Algebra B
+11318,Introduction to Quadratics,23,body26MultiAnswerProblem,192,31.25,0.0,0.0,25.0,[2],6.25,[0],0.0,,Algebra B
+11318,Introduction to Quadratics,23,body27ShortAnswerProblem,408,35.294117647058826,32.35294117647059,0.0,14.705882352941176,"""3^2+8""",5.882352941176471,"""1""",5.882352941176471,"""9""",Algebra B
+11318,Introduction to Quadratics,23,body31MultiAnswerProblem,1008,41.666666666666664,0.0,0.0,17.857142857142858,[2],13.095238095238097,[0],10.714285714285714,[3],Algebra B
+11318,Introduction to Quadratics,23,body33MultiAnswerProblem,444,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11318,Introduction to Quadratics,23,body6ShortAnswerProblem,840,68.57142857142857,1.4285714285714286,30.0,40.0,"""3""",4.285714285714286,"""x=3,-3""",4.285714285714286,"""x^2+1-10""",Algebra B
+11318,Introduction to Quadratics,23,body7MathjaxBlank,348,6.896551724137931,3.4482758620689653,0.0,3.4482758620689653,"[""3""]",3.4482758620689653,"[""=3""]",0.0,,Algebra B
+11330,Squares of Binomials,25,body10ShortAnswerProblem,576,33.333333333333336,2.0833333333333335,0.0,8.333333333333334,"""a^2+2a+4""",8.333333333333334,"""a^2+4+2a""",8.333333333333334,"""a^4+4a+2""",Algebra B
+11330,Squares of Binomials,25,body11ShortAnswerProblem,540,35.55555555555556,2.2222222222222223,0.0,17.77777777777778,"""a^2+6a+6""",8.88888888888889,"""a^2+9a+9""",2.2222222222222223,"""1""",Algebra B
+11330,Squares of Binomials,25,body13ShortAnswerProblem,324,7.407407407407407,3.703703703703704,0.0,3.703703703703704,"""1""",3.703703703703704,"""a^2+22+121""",0.0,,Algebra B
+11330,Squares of Binomials,25,body14MathjaxBlank,456,18.42105263157895,10.526315789473683,0.0,5.2631578947368425,"[""2"",""b^2""]",2.6315789473684212,"[""2b"",""b""]",2.6315789473684212,"[""2"",""b""]",Algebra B
+11330,Squares of Binomials,25,body16ShortAnswerProblem,324,7.407407407407407,0.0,0.0,3.703703703703704,"""a^2 + 2ab + b62""",3.703703703703704,"""a""",0.0,,Algebra B
+11330,Squares of Binomials,25,body17MathjaxBlank,300,0.0,8.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11330,Squares of Binomials,25,body19ShortAnswerProblem,576,35.416666666666664,10.416666666666666,0.0,10.416666666666666,"""u^2 + 12uv + 9v^2""",4.166666666666667,"""4u^2 + 6uv + 6uv + 9v^2""",4.166666666666667,"""4u^2+12ux+9v^2""",Algebra B
+11330,Squares of Binomials,25,body20ShortAnswerProblem,408,17.647058823529413,11.764705882352942,0.0,8.823529411764707,"""0""",2.9411764705882355,"""16a^2 -+ 16a^2""",2.9411764705882355,"""a""",Algebra B
+11330,Squares of Binomials,25,body22ShortAnswerProblem,648,51.851851851851855,0.0,48.148148148148145,16.666666666666668,"""yes""",14.814814814814817,"""(x-5)^2""",3.703703703703704,"""(x-5^2""",Algebra B
+11330,Squares of Binomials,25,body23ShortAnswerProblem,96,37.5,62.5,0.0,12.5,"""no""",12.5,"""a""",12.5,"""h9""",Algebra B
+11330,Squares of Binomials,25,body24ShortAnswerProblem,132,54.54545454545455,45.45454545454545,0.0,27.272727272727273,"""2""",9.090909090909092,"""h9""",9.090909090909092,"""a""",Algebra B
+11330,Squares of Binomials,25,body25ShortAnswerProblem,96,37.5,25.0,0.0,12.5,"""a""",12.5,"""-5""",12.5,"""m0""",Algebra B
+11330,Squares of Binomials,25,body26ShortAnswerProblem,708,52.54237288135593,6.779661016949152,0.0,8.474576271186441,"""no""",6.779661016949152,"""p+0.5""",6.779661016949152,"""4p+1""",Algebra B
+11330,Squares of Binomials,25,body27ShortAnswerProblem,384,18.75,12.5,0.0,9.375,"""n + 4""",3.125,"""n+4""",3.125,"""(n+4)""",Algebra B
+11330,Squares of Binomials,25,body30MathjaxBlank,324,7.407407407407407,18.51851851851852,0.0,7.407407407407407,"[""5000.5"",""5000.5""]",0.0,,0.0,,Algebra B
+11330,Squares of Binomials,25,body31ShortAnswerProblem,576,43.75,12.5,0.0,6.25,"""10.1""",6.25,"""101""",6.25,"""110""",Algebra B
+11330,Squares of Binomials,25,body3ShortAnswerProblem,540,28.88888888888889,13.333333333333334,0.0,6.666666666666667,"""1100""",4.444444444444445,"""1221""",2.2222222222222223,"""10200""",Algebra B
+11330,Squares of Binomials,25,body4ShortAnswerProblem,492,19.51219512195122,7.317073170731708,0.0,4.878048780487805,"""100201""",2.4390243902439024,"""102001""",2.4390243902439024,"""1023201""",Algebra B
+11330,Squares of Binomials,25,body9ShortAnswerProblem,540,35.55555555555556,2.2222222222222223,0.0,11.11111111111111,"""a^2+1""",8.88888888888889,"""2a+2""",8.88888888888889,"""a^2+1a""",Algebra B
+11382,Factoring Monic Quadratics,21,body11MultiAnswerProblem,768,28.125,0.0,0.0,18.75,[1],9.375,[0],0.0,,Algebra B
+11382,Factoring Monic Quadratics,21,body13MultiAnswerProblem,852,30.985915492957748,0.0,0.0,16.901408450704224,[1],14.084507042253522,[0],0.0,,Algebra B
+11382,Factoring Monic Quadratics,21,body16ShortAnswerProblem,948,37.9746835443038,29.11392405063291,0.0,3.797468354430379,"""clup*spade""",2.5316455696202533,"""1""",2.5316455696202533,"""11""",Algebra B
+11382,Factoring Monic Quadratics,21,body18MathjaxBlank,516,2.3255813953488373,20.930232558139537,0.0,2.3255813953488373,"[""2"",""14""]",0.0,,0.0,,Algebra B
+11382,Factoring Monic Quadratics,21,body20ShortAnswerProblem,828,36.231884057971016,13.043478260869565,0.0,5.797101449275362,"""1""",4.3478260869565215,"""5, 15""",4.3478260869565215,"""(x+5)(x+15""",Algebra B
+11382,Factoring Monic Quadratics,21,body22ShortAnswerProblem,852,36.61971830985915,9.859154929577464,0.0,5.633802816901408,"""1""",4.225352112676056,"""(x-5)(x+6)""",4.225352112676056,"""(x-6)(x+5)""",Algebra B
+11382,Factoring Monic Quadratics,21,body24ShortAnswerProblem,768,31.25,17.1875,0.0,6.25,"""1""",4.6875,"""2""",3.125,"""09""",Algebra B
+11382,Factoring Monic Quadratics,21,body26ShortAnswerProblem,396,33.333333333333336,0.0,66.66666666666667,15.151515151515152,"""-50,-60""",9.090909090909092,"""50 60""",3.0303030303030303,"""0""",Algebra B
+11382,Factoring Monic Quadratics,21,body27body1ShortAnswerProblem,504,45.23809523809524,35.714285714285715,0.0,7.142857142857143,"""2""",4.761904761904762,"""-500, -600""",4.761904761904762,""".""",Algebra B
+11382,Factoring Monic Quadratics,21,body28body1ShortAnswerProblem,432,41.666666666666664,25.0,0.0,11.11111111111111,"""1""",5.555555555555555,""",./""",5.555555555555555,"""0,60""",Algebra B
+11382,Factoring Monic Quadratics,21,body28body4ShortAnswerProblem,336,28.571428571428573,25.0,0.0,7.142857142857143,"""1""",3.5714285714285716,"""3""",3.5714285714285716,"""50,60,0""",Algebra B
+11382,Factoring Monic Quadratics,21,body6MathjaxBlank,864,23.61111111111111,19.444444444444443,1.3888888888888888,11.11111111111111,"[""2""]",1.3888888888888888,"[""1""]",1.3888888888888888,"[""6""]",Algebra B
+11382,Factoring Monic Quadratics,21,body8MathjaxBlank,1044,42.52873563218391,22.988505747126435,0.0,4.597701149425287,"[""6"",""8""]",3.4482758620689653,"[""1"",""8""]",3.4482758620689653,"[""7"",""8""]",Algebra B
+11388,Difference of Squares,27,body11MultiAnswerProblem,528,45.45454545454545,0.0,0.0,22.727272727272727,[3],15.909090909090908,[2],6.818181818181818,[0],Algebra B
+11388,Difference of Squares,27,body12ShortAnswerProblem,264,9.090909090909092,4.545454545454546,0.0,4.545454545454546,"""1""",4.545454545454546,"""r^2 - 10^2""",0.0,,Algebra B
+11388,Difference of Squares,27,body15MultiAnswerProblem,324,18.51851851851852,0.0,0.0,7.407407407407407,[0],7.407407407407407,[2],3.703703703703704,[3],Algebra B
+11388,Difference of Squares,27,body16ShortAnswerProblem,240,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11388,Difference of Squares,27,body19ShortAnswerProblem,240,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11388,Difference of Squares,27,body24MathjaxBlank,264,9.090909090909092,9.090909090909092,0.0,4.545454545454546,"[""(a+b)(a-b)""]",4.545454545454546,"[""(a-b)(a+b)""]",0.0,,Algebra B
+11388,Difference of Squares,27,body25MathjaxBlank,264,4.545454545454546,18.181818181818183,0.0,4.545454545454546,"[""a^2 -""]",0.0,,0.0,,Algebra B
+11388,Difference of Squares,27,body26MathjaxBlank,252,0.0,19.047619047619047,0.0,0.0,,0.0,,0.0,,Algebra B
+11388,Difference of Squares,27,body27MultiAnswerProblem,336,14.285714285714286,0.0,0.0,7.142857142857143,[0],7.142857142857143,[2],0.0,,Algebra B
+11388,Difference of Squares,27,body29ShortAnswerProblem,312,15.384615384615383,0.0,0.0,3.8461538461538463,"""(5t-6)^2""",3.8461538461538463,"""(5+6)(5-6)""",3.8461538461538463,"""5t-6""",Algebra B
+11388,Difference of Squares,27,body31ShortAnswerProblem,288,16.666666666666668,4.166666666666667,0.0,4.166666666666667,"""(10t+1)(10t-1)""",4.166666666666667,"""1""",4.166666666666667,"""(10u-1)(10u+1_""",Algebra B
+11388,Difference of Squares,27,body33MultiAnswerProblem,432,36.111111111111114,0.0,63.888888888888886,22.22222222222222,[0],13.88888888888889,[2],0.0,,Algebra B
+11388,Difference of Squares,27,body35ShortAnswerProblem,264,9.090909090909092,4.545454545454546,0.0,4.545454545454546,"""(50-1)(50+1)""",4.545454545454546,"""30""",0.0,,Algebra B
+11388,Difference of Squares,27,body40MathjaxBlank,228,36.8421052631579,0.0,63.1578947368421,10.526315789473683,"[""25"",""24""]",5.2631578947368425,"[""32"",""1""]",5.2631578947368425,"[""7"",""4""]",Algebra B
+11388,Difference of Squares,27,body41MultiAnswerProblem,228,47.36842105263158,0.0,0.0,15.789473684210526,[1],10.526315789473683,[3],10.526315789473683,"[0,3]",Algebra B
+11388,Difference of Squares,27,body43MathjaxBlank,108,11.11111111111111,22.22222222222222,66.66666666666667,11.11111111111111,"[""32"",""-1""]",0.0,,0.0,,Algebra B
+11388,Difference of Squares,27,body6ShortAnswerProblem,312,15.384615384615383,3.8461538461538463,0.0,3.8461538461538463,"""r^2 - 20 + 100""",3.8461538461538463,"""ahhhh""",3.8461538461538463,"""r^2 - 20x + 100""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body0body4MultiAnswerProblem,228,94.73684210526316,0.0,5.2631578947368425,78.94736842105263,[0],15.789473684210526,[1],0.0,,Algebra B
+11392,Simon's Favorite Factoring Trick,23,body10ShortAnswerProblem,72,33.333333333333336,50.0,0.0,16.666666666666668,"""o""",16.666666666666668,"""1""",0.0,,Algebra B
+11392,Simon's Favorite Factoring Trick,23,body11ShortAnswerProblem,96,50.0,50.0,0.0,25.0,"""o""",12.5,"""(p-9)(8+3)""",12.5,"""1""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body14ShortAnswerProblem,300,20.0,0.0,0.0,12.0,"""35""",4.0,"""-2""",4.0,"""5""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body15ShortAnswerProblem,108,44.44444444444444,55.55555555555556,0.0,11.11111111111111,"""o""",11.11111111111111,"""(2x+10)(x+y)""",11.11111111111111,"""k""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body16MultiAnswerProblem,108,44.44444444444444,0.0,55.55555555555556,22.22222222222222,[0],11.11111111111111,[3],11.11111111111111,[1],Algebra B
+11392,Simon's Favorite Factoring Trick,23,body17MathjaxBlank,60,0.0,100.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11392,Simon's Favorite Factoring Trick,23,body18ShortAnswerProblem,84,28.571428571428573,42.857142857142854,0.0,14.285714285714286,"""o""",14.285714285714286,"""y""",0.0,,Algebra B
+11392,Simon's Favorite Factoring Trick,23,body20ShortAnswerProblem,180,53.333333333333336,0.0,0.0,6.666666666666667,"""(-8, 48), (-7, 29), (29, -7), (48, -8)""",6.666666666666667,"""0""",6.666666666666667,"""(10,12)(29,11)""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body21MathjaxBlank,180,13.333333333333334,60.0,0.0,6.666666666666667,"[""$-$"",""10"",""$+$"",""9""]",6.666666666666667,"[""$+$"",""9"",""$-$"",""-10""]",0.0,,Algebra B
+11392,Simon's Favorite Factoring Trick,23,body22ShortAnswerProblem,168,21.428571428571427,21.428571428571427,0.0,7.142857142857143,"""mn+9n-10m-90""",7.142857142857143,"""my-10+9n-90""",7.142857142857143,"""k""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body23MultiAnswerProblem,300,40.0,0.0,60.0,16.0,[0],16.0,[2],8.0,[1],Algebra B
+11392,Simon's Favorite Factoring Trick,23,body24ShortAnswerProblem,36,66.66666666666667,0.0,0.0,33.333333333333336,"""(7,29),(10,12),(31,11),(-8,48)""",33.333333333333336,"""(7,29),(10,12),(31,11)""",0.0,,Algebra B
+11392,Simon's Favorite Factoring Trick,23,body25MultiAnswerProblem,336,57.142857142857146,0.0,42.857142857142854,21.428571428571427,[1],14.285714285714286,[2],10.714285714285714,[0],Algebra B
+11392,Simon's Favorite Factoring Trick,23,body26ShortAnswerProblem,288,54.166666666666664,16.666666666666668,0.0,8.333333333333334,"""1""",8.333333333333334,"""28, 19""",4.166666666666667,"""-8,-7""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body27ShortAnswerProblem,204,35.294117647058826,17.647058823529413,0.0,5.882352941176471,"""38,1""",5.882352941176471,"""2""",5.882352941176471,"""(38, 1)""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body28ShortAnswerProblem,180,26.666666666666668,26.666666666666668,0.0,13.333333333333334,"""1""",6.666666666666667,"""(27,11)""",6.666666666666667,"""(-8,48)""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body2ShortAnswerProblem,96,50.0,0.0,0.0,12.5,"""(3d+8)(b+4)""",12.5,"""(b+4)(3d+4)""",12.5,"""(b+4)(3d+2)""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body3ShortAnswerProblem,300,16.0,20.0,0.0,8.0,"""3(bd+4d)""",4.0,"""3d(b+4）""",4.0,"""3d""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body4ShortAnswerProblem,252,14.285714285714286,33.333333333333336,0.0,4.761904761904762,"""6x""",4.761904761904762,"""尸""",4.761904761904762,"""1""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body5ShortAnswerProblem,348,31.03448275862069,31.03448275862069,0.0,17.24137931034483,"""huh""",6.896551724137931,"""o""",3.4482758620689653,"""1""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body8ShortAnswerProblem,228,15.789473684210526,0.0,0.0,5.2631578947368425,"""(p-q)(8q+3)""",5.2631578947368425,"""(p−9)(8q+3) ​  """,5.2631578947368425,"""(p-q)(8q-3)(8q+3)""",Algebra B
+11392,Simon's Favorite Factoring Trick,23,body9ShortAnswerProblem,72,33.333333333333336,50.0,0.0,16.666666666666668,"""1""",16.666666666666668,"""i""",0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body12ShortAnswerProblem,48,50.0,0.0,0.0,50.0,"""let $a$ and $b$ be the roots of the quadratic $2x^2 - 8x + 7 = 0.$ compute $a^3 + b^3.$3""",0.0,,0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body13MathjaxBlank,12,0.0,100.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body14ShortAnswerProblem,36,33.333333333333336,66.66666666666667,0.0,33.333333333333336,"""d""",0.0,,0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body16body1MultiAnswerProblem,240,0.0,0.0,5.0,0.0,,0.0,,0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body18ShortAnswerProblem,456,44.73684210526316,0.0,55.26315789473684,5.2631578947368425,"""7""",2.6315789473684212,"""√7/7""",2.6315789473684212,"""sqrt(7/4)""",Algebra B
+11393,Rationalizing the Denominator,39,body19ShortAnswerProblem,108,22.22222222222222,77.77777777777777,0.0,11.11111111111111,"""1""",11.11111111111111,"""2sqrt(7)""",0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body1MultiAnswerProblem,228,26.31578947368421,0.0,73.6842105263158,15.789473684210526,[0],10.526315789473683,[2],0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body20MathjaxBlank,24,0.0,50.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body21ShortAnswerProblem,108,22.22222222222222,77.77777777777777,0.0,11.11111111111111,"""98sqrt(7)""",11.11111111111111,"""1""",0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body23ShortAnswerProblem,408,73.52941176470588,0.0,26.470588235294116,11.764705882352942,"""8+2sqrt(7)""",5.882352941176471,"""18sqrt7/11""",5.882352941176471,""" \\(8-2\\sqrt{7}\\).""",Algebra B
+11393,Rationalizing the Denominator,39,body25ShortAnswerProblem,264,22.727272727272727,22.727272727272727,0.0,13.636363636363637,"""1""",9.090909090909092,"""898""",0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body27ShortAnswerProblem,408,44.11764705882353,32.35294117647059,0.0,8.823529411764707,"""8-2sqrt7""",5.882352941176471,"""8-2sqrt(7)""",5.882352941176471,"""a""",Algebra B
+11393,Rationalizing the Denominator,39,body28MathjaxBlank,228,10.526315789473683,47.36842105263158,15.789473684210526,5.2631578947368425,"[""8-√7"",""1""]",5.2631578947368425,"[""2(4-sqrt(7))"",""9""]",0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body29ShortAnswerProblem,240,35.0,30.0,0.0,10.0,"""2-8sqrt(7)""",5.0,"""8-2sqrt(7)""",5.0,"""4""",Algebra B
+11393,Rationalizing the Denominator,39,body32ShortAnswerProblem,300,32.0,0.0,68.0,8.0,"""6sqrt(11) - 6sqrt(5)""",8.0,"""6(sqrt(11)+sqrt(5))/16""",4.0,"""sqrt(11)-sqrt(5""",Algebra B
+11393,Rationalizing the Denominator,39,body34ShortAnswerProblem,144,50.0,50.0,0.0,16.666666666666668,"""sqrt(11)+sqrt(5)""",16.666666666666668,"""z""",8.333333333333334,"""5""",Algebra B
+11393,Rationalizing the Denominator,39,body35MathjaxBlank,84,14.285714285714286,85.71428571428571,0.0,14.285714285714286,"[""3"",""3""]",0.0,,0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body36ShortAnswerProblem,108,33.333333333333336,55.55555555555556,0.0,11.11111111111111,"""1""",11.11111111111111,"""9898""",11.11111111111111,"""12""",Algebra B
+11393,Rationalizing the Denominator,39,body39ShortAnswerProblem,528,56.81818181818182,0.0,43.18181818181818,9.090909090909092,"""sqrt(4)-1""",6.818181818181818,"""2sqrt2+3+2sqrt3""",6.818181818181818,"""2sqrt2+1+2sqrt3""",Algebra B
+11393,Rationalizing the Denominator,39,body3MultiAnswerProblem,228,52.63157894736842,0.0,47.36842105263158,36.8421052631579,[2],15.789473684210526,[0],0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body42ShortAnswerProblem,228,26.31578947368421,31.57894736842105,0.0,10.526315789473683,"""a""",10.526315789473683,"""1""",5.2631578947368425,"""sqrt(2)-1""",Algebra B
+11393,Rationalizing the Denominator,39,body43ShortAnswerProblem,420,42.857142857142854,34.285714285714285,0.0,8.571428571428571,"""(sqrt2-1)/3""",5.714285714285714,"""1""",2.857142857142857,"""sqrt2-1/3""",Algebra B
+11393,Rationalizing the Denominator,39,body45ShortAnswerProblem,144,33.333333333333336,50.0,0.0,16.666666666666668,"""w""",8.333333333333334,""";""",8.333333333333334,"""1""",Algebra B
+11393,Rationalizing the Denominator,39,body46ShortAnswerProblem,144,33.333333333333336,50.0,0.0,8.333333333333334,"""i""",8.333333333333334,"""w""",8.333333333333334,"""3-2""",Algebra B
+11393,Rationalizing the Denominator,39,body48ShortAnswerProblem,120,30.0,50.0,0.0,20.0,"""1""",10.0,"""a""",0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body49ShortAnswerProblem,156,46.15384615384615,38.46153846153846,0.0,15.384615384615383,"""1/sqrt5""",7.6923076923076925,"""w""",7.6923076923076925,"""1""",Algebra B
+11393,Rationalizing the Denominator,39,body52MathjaxBlank,288,91.66666666666669,0.0,0.0,16.666666666666668,"[""sqrt2+1"",""sqrt3+sqrt2"",""2+sqrt3""]",16.666666666666668,"[""sqrt2-sqrt1"",""sqrt3-sqrt2"",""sqrt4-sqrt3""]",12.5,"[""sqrt2-1"",""sqrt3-sqrt2"",""sqrt4-sqrt3""]",Algebra B
+11393,Rationalizing the Denominator,39,body53ShortAnswerProblem,48,25.0,50.0,0.0,25.0,"""w""",0.0,,0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body5MultiAnswerProblem,228,21.05263157894737,0.0,78.94736842105263,21.05263157894737,[1],0.0,,0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body6MultiAnswerProblem,228,52.63157894736842,0.0,47.36842105263158,36.8421052631579,[1],15.789473684210526,[2],0.0,,Algebra B
+11393,Rationalizing the Denominator,39,body9ShortAnswerProblem,648,46.2962962962963,0.0,0.0,11.11111111111111,"""6sqrt(3)/3""",3.703703703703704,"""6√3/3""",3.703703703703704,"""sqrt6(3)""",Algebra B
+11402,i,39,body10ShortAnswerProblem,564,34.04255319148936,10.638297872340424,0.0,14.893617021276595,"""1""",6.382978723404255,"""-1""",2.127659574468085,"""-x^2""",Algebra B
+11402,i,39,body11ShortAnswerProblem,816,52.94117647058823,14.705882352941176,0.0,4.411764705882353,"""isqrt(7)""",4.411764705882353,"""7i""",2.9411764705882355,"""sqrt(7i), -sqrt(7i)""",Algebra B
+11402,i,39,body12ShortAnswerProblem,624,40.38461538461539,3.8461538461538463,0.0,11.538461538461538,"""i""",9.615384615384617,"""1""",5.769230769230769,"""-1""",Algebra B
+11402,i,39,body13ShortAnswerProblem,480,30.0,0.0,0.0,12.5,"""i""",5.0,"""-1(i)^2""",5.0,"""-1i^2""",Algebra B
+11402,i,39,body14MathjaxBlank,468,30.76923076923077,0.0,0.0,7.6923076923076925,"[""i"",""1"",""-i"",""1""]",5.128205128205129,"[""-i"",""-1"",""i"",""1""]",2.5641025641025643,"[""i"",""-1"",""i"",""1""]",Algebra B
+11402,i,39,body15MathjaxBlank,12,0.0,100.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11402,i,39,body21ShortAnswerProblem,420,22.857142857142858,2.857142857142857,0.0,8.571428571428571,"""-1""",8.571428571428571,"""1""",2.857142857142857,"""-i""",Algebra B
+11402,i,39,body22ShortAnswerProblem,396,12.12121212121212,0.0,0.0,9.090909090909092,"""-1""",3.0303030303030303,"""250""",0.0,,Algebra B
+11402,i,39,body23ShortAnswerProblem,372,19.35483870967742,0.0,0.0,9.67741935483871,"""-1""",6.451612903225806,"""1""",3.225806451612903,"""i""",Algebra B
+11402,i,39,body24ShortAnswerProblem,60,60.0,20.0,0.0,40.0,"""154""",20.0,"""152""",0.0,,Algebra B
+11402,i,39,body25ShortAnswerProblem,60,60.0,0.0,0.0,20.0,"""1""",20.0,"""i""",20.0,"""-1""",Algebra B
+11402,i,39,body26ShortAnswerProblem,624,44.23076923076923,0.0,0.0,17.307692307692307,"""-i""",9.615384615384617,"""1/-i""",5.769230769230769,"""-1/i""",Algebra B
+11402,i,39,body27ShortAnswerProblem,48,50.0,0.0,0.0,25.0,"""223""",25.0,"""220""",0.0,,Algebra B
+11402,i,39,body28ShortAnswerProblem,48,50.0,25.0,0.0,25.0,"""1""",25.0,"""-1""",0.0,,Algebra B
+11402,i,39,body5ShortAnswerProblem,744,46.774193548387096,1.6129032258064515,0.0,12.903225806451612,"""-i^2""",11.290322580645162,"""-1""",8.064516129032258,"""i""",Algebra B
+11402,i,39,body6ShortAnswerProblem,864,52.77777777777778,8.333333333333334,0.0,9.72222222222222,"""-1""",5.555555555555555,"""i""",4.166666666666667,"""1/sqrt(-1)""",Algebra B
+11402,i,39,body7ShortAnswerProblem,504,28.571428571428573,4.761904761904762,0.0,11.904761904761903,"""9""",9.523809523809524,"""-3""",2.380952380952381,"""1""",Algebra B
+11402,i,39,body8ShortAnswerProblem,24,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11402,i,39,body9ShortAnswerProblem,516,30.232558139534884,0.0,0.0,25.58139534883721,"""9""",2.3255813953488373,"""-9i""",2.3255813953488373,"""9i""",Algebra B
+11420,Factoring Non-monic Quadratics,29,body12ShortAnswerProblem,624,28.846153846153847,13.461538461538462,0.0,5.769230769230769,"""18x^2 +4""",3.8461538461538463,"""(3x+4)(3y+1)""",3.8461538461538463,"""vidk""",Algebra B
+11420,Factoring Non-monic Quadratics,29,body16MultiAnswerProblem,1056,51.13636363636363,0.0,0.0,27.272727272727273,[1],23.863636363636363,[2],0.0,,Algebra B
+11420,Factoring Non-monic Quadratics,29,body18ShortAnswerProblem,516,16.27906976744186,13.953488372093023,0.0,2.3255813953488373,"""(y+3)(y+3)""",2.3255813953488373,"""(y+4)(y+6)""",2.3255813953488373,"""(4x+1)(3x+2)""",Algebra B
+11420,Factoring Non-monic Quadratics,29,body19body1MultiAnswerProblem,540,24.444444444444443,0.0,0.0,24.444444444444443,[1],0.0,,0.0,,Algebra B
+11420,Factoring Non-monic Quadratics,29,body1MathjaxBlank,1260,57.142857142857146,8.571428571428571,0.0,9.523809523809524,"[""3"",""8""]",5.714285714285714,"[""4"",""8""]",5.714285714285714,"[""6"",""8""]",Algebra B
+11420,Factoring Non-monic Quadratics,29,body21body1MultiAnswerProblem,444,10.81081081081081,0.0,0.0,8.108108108108109,[0],2.702702702702702,[2],0.0,,Algebra B
+11420,Factoring Non-monic Quadratics,29,body21body4MultiAnswerProblem,360,13.333333333333334,0.0,0.0,13.333333333333334,[0],0.0,,0.0,,Algebra B
+11420,Factoring Non-monic Quadratics,29,body22body1MultiAnswerProblem,492,17.073170731707318,0.0,0.0,17.073170731707318,[1],0.0,,0.0,,Algebra B
+11420,Factoring Non-monic Quadratics,29,body24ShortAnswerProblem,444,35.13513513513514,0.0,64.86486486486487,8.108108108108109,"""400x^2 +60-40""",2.702702702702702,"""(5x-2)(4x-1)""",2.702702702702702,"""(4x + 1)(5x - 2)""",Algebra B
+11420,Factoring Non-monic Quadratics,29,body25MultiAnswerProblem,336,53.57142857142857,0.0,0.0,28.571428571428573,[0],14.285714285714286,[3],10.714285714285714,[1],Algebra B
+11420,Factoring Non-monic Quadratics,29,body26ShortAnswerProblem,252,38.095238095238095,23.80952380952381,0.0,14.285714285714286,"""-y^2-6y""",4.761904761904762,"""(y+5)(y+8)""",4.761904761904762,"""2""",Algebra B
+11420,Factoring Non-monic Quadratics,29,body28MultiAnswerProblem,120,10.0,0.0,0.0,10.0,[0],0.0,,0.0,,Algebra B
+11420,Factoring Non-monic Quadratics,29,body29ShortAnswerProblem,156,23.076923076923077,30.76923076923077,0.0,7.6923076923076925,"""4(5+2)""",7.6923076923076925,"""35""",7.6923076923076925,"""1""",Algebra B
+11420,Factoring Non-monic Quadratics,29,body30body2MultiAnswerProblem,180,26.666666666666668,0.0,0.0,26.666666666666668,[1],0.0,,0.0,,Algebra B
+11420,Factoring Non-monic Quadratics,29,body34body1ShortAnswerProblem,672,55.357142857142854,7.142857142857143,0.0,8.928571428571429,"""(3z-5)(2z+3)""",7.142857142857143,"""-5/3,3/2""",3.5714285714285716,"""5/2,-3/2""",Algebra B
+11420,Factoring Non-monic Quadratics,29,body34body1ShortAnswerProblemhints0trigger1MathjaxBlank,240,15.0,50.0,0.0,10.0,"[""0""]",5.0,"[""6z^2-z-15=0""]",0.0,,Algebra B
+11420,Factoring Non-monic Quadratics,29,body4ShortAnswerProblem,660,20.0,3.636363636363636,0.0,5.454545454545454,"""5,3""",3.636363636363636,"""9""",1.818181818181818,"""(y + 2)(y + 4)""",Algebra B
+11420,Factoring Non-monic Quadratics,29,body6ShortAnswerProblem,660,56.36363636363637,0.0,43.63636363636363,5.454545454545454,"""(2x+1)(2x+15)""",3.636363636363636,"""(2x+5)(2x+3)""",3.636363636363636,"""(4x + 15)(1x + 1)""",Algebra B
+11420,Factoring Non-monic Quadratics,29,body7MultiAnswerProblem,396,45.45454545454545,0.0,0.0,21.21212121212121,[0],15.151515151515152,[1],9.090909090909092,[3],Algebra B
+11420,Factoring Non-monic Quadratics,29,body9ShortAnswerProblem,300,48.0,16.0,0.0,8.0,"""9""",8.0,"""((x^2)+5)((x^2)+3)""",8.0,"""y^2+8y+15""",Algebra B
+11445,Complex Number Arithmetic I,38,body10ShortAnswerProblem,48,25.0,25.0,0.0,25.0,"""0""",0.0,,0.0,,Algebra B
+11445,Complex Number Arithmetic I,38,body11ShortAnswerProblem,108,55.55555555555556,44.44444444444444,0.0,22.22222222222222,"""14-36i""",11.11111111111111,"""14-44i""",11.11111111111111,"""4""",Algebra B
+11445,Complex Number Arithmetic I,38,body13ShortAnswerProblem,540,46.666666666666664,17.77777777777778,0.0,11.11111111111111,"""12i-24i^2""",4.444444444444445,"""4+24i""",4.444444444444445,"""4-24""",Algebra B
+11445,Complex Number Arithmetic I,38,body17ShortAnswerProblem,444,48.648648648648646,0.0,0.0,5.405405405405405,"""3+15i""",5.405405405405405,"""3-15i""",2.702702702702702,"""11-13i""",Algebra B
+11445,Complex Number Arithmetic I,38,body18ShortAnswerProblem,96,37.5,50.0,0.0,12.5,"""8""",12.5,"""2*-3+2*-5i""",12.5,"""0""",Algebra B
+11445,Complex Number Arithmetic I,38,body19ShortAnswerProblem,228,73.6842105263158,21.05263157894737,0.0,15.789473684210526,"""-3i-5i^2""",10.526315789473683,"""-8i^2""",10.526315789473683,"""-8i^3""",Algebra B
+11445,Complex Number Arithmetic I,38,body20ShortAnswerProblem,120,50.0,40.0,0.0,10.0,"""-32i-36""",10.0,"""1-13i""",10.0,"""-32i-60""",Algebra B
+11445,Complex Number Arithmetic I,38,body23ShortAnswerProblem,372,45.16129032258065,0.0,0.0,9.67741935483871,"""36""",9.67741935483871,"""9-25i""",6.451612903225806,"""9-25i^2""",Algebra B
+11445,Complex Number Arithmetic I,38,body24ShortAnswerProblem,84,14.285714285714286,14.285714285714286,0.0,14.285714285714286,"""0""",0.0,,0.0,,Algebra B
+11445,Complex Number Arithmetic I,38,body25ShortAnswerProblem,204,58.8235294117647,29.41176470588235,0.0,23.529411764705884,"""15i-25i^2""",11.764705882352942,"""40i""",11.764705882352942,"""-15i+25i""",Algebra B
+11445,Complex Number Arithmetic I,38,body26ShortAnswerProblem,180,53.333333333333336,20.0,0.0,13.333333333333334,"""34+i""",13.333333333333334,"""34i""",6.666666666666667,"""34+0i""",Algebra B
+11445,Complex Number Arithmetic I,38,body28ShortAnswerProblem,408,61.76470588235294,0.0,0.0,8.823529411764707,"""a^2+b""",5.882352941176471,"""a^2-bi^2""",5.882352941176471,"""a^2+bi^2""",Algebra B
+11445,Complex Number Arithmetic I,38,body29ShortAnswerProblem,240,40.0,15.0,0.0,10.0,"""a^2=bia""",5.0,"""9""",5.0,"""a^2+b^2""",Algebra B
+11445,Complex Number Arithmetic I,38,body30ShortAnswerProblem,312,57.69230769230769,34.61538461538461,0.0,11.538461538461538,"""bia-bi^2""",7.6923076923076925,"""bia+b""",3.8461538461538463,"""bia-b^2i^2""",Algebra B
+11445,Complex Number Arithmetic I,38,body31ShortAnswerProblem,264,50.0,27.272727272727273,0.0,9.090909090909092,"""ab^2-abi^2""",9.090909090909092,"""ab^2""",4.545454545454546,"""a^2b^2+a^2+b^2+a^2b^2""",Algebra B
+11445,Complex Number Arithmetic I,38,body3ShortAnswerProblem,336,21.428571428571427,0.0,0.0,7.142857142857143,"""50-25i""",3.5714285714285716,"""6-41i-44i^2""",3.5714285714285716,"""-2""",Algebra B
+11445,Complex Number Arithmetic I,38,body4ShortAnswerProblem,60,40.0,40.0,0.0,20.0,"""9""",20.0,"""0""",0.0,,Algebra B
+11445,Complex Number Arithmetic I,38,body5ShortAnswerProblem,60,40.0,40.0,0.0,40.0,"""0""",0.0,,0.0,,Algebra B
+11445,Complex Number Arithmetic I,38,body6ShortAnswerProblem,492,36.58536585365854,12.195121951219512,0.0,14.634146341463415,"""13-2i""",9.75609756097561,"""13+8i""",4.878048780487805,"""0""",Algebra B
+11445,Complex Number Arithmetic I,38,body8ShortAnswerProblem,372,32.25806451612903,0.0,0.0,6.451612903225806,"""-19 -44i""",6.451612903225806,"""-24+26i""",3.225806451612903,"""-14-3i""",Algebra B
+11445,Complex Number Arithmetic I,38,body9ShortAnswerProblem,72,33.333333333333336,16.666666666666668,0.0,16.666666666666668,"""0""",16.666666666666668,"""2*5+2*(-2i)""",0.0,,Algebra B
+11446,Complex Number Arithmetic II,32,body10ShortAnswerProblem,504,42.857142857142854,28.571428571428573,0.0,4.761904761904762,"""22""",4.761904761904762,"""52+26sqrt(3)""",2.380952380952381,"""kk""",Algebra B
+11446,Complex Number Arithmetic II,32,body11MathjaxBlank,300,28.0,0.0,0.0,16.0,"[""3""]",4.0,"[""-2/3""]",4.0,"[""-""]",Algebra B
+11446,Complex Number Arithmetic II,32,body12ShortAnswerProblem,96,62.5,25.0,0.0,12.5,"""0""",12.5,"""4+2xi+6i+3xi^2""",12.5,"""4+2xi+6i=3x""",Algebra B
+11446,Complex Number Arithmetic II,32,body13ShortAnswerProblem,108,66.66666666666667,33.333333333333336,0.0,22.22222222222222,"""0""",22.22222222222222,"""3""",11.11111111111111,"""1""",Algebra B
+11446,Complex Number Arithmetic II,32,body14ShortAnswerProblem,420,60.0,0.0,0.0,11.428571428571429,"""52-78i""",5.714285714285714,"""52-78i/4-9i""",5.714285714285714,"""(52-26i)/7""",Algebra B
+11446,Complex Number Arithmetic II,32,body15ShortAnswerProblem,120,20.0,20.0,0.0,10.0,"""0""",10.0,"""52--78i""",0.0,,Algebra B
+11446,Complex Number Arithmetic II,32,body16ShortAnswerProblem,240,55.0,15.0,0.0,10.0,"""4""",10.0,"""4-9i^2""",10.0,"""-5""",Algebra B
+11446,Complex Number Arithmetic II,32,body17ShortAnswerProblem,132,18.181818181818183,27.272727272727273,0.0,9.090909090909092,"""46""",9.090909090909092,"""0""",0.0,,Algebra B
+11446,Complex Number Arithmetic II,32,body19ShortAnswerProblem,264,22.727272727272727,0.0,0.0,4.545454545454546,"""(4+15i)/5""",4.545454545454546,"""50/-7""",4.545454545454546,"""5""",Algebra B
+11446,Complex Number Arithmetic II,32,body20ShortAnswerProblem,96,37.5,37.5,0.0,12.5,"""23\\""",12.5,"""0""",12.5,"""3-4i""",Algebra B
+11446,Complex Number Arithmetic II,32,body21ShortAnswerProblem,24,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11446,Complex Number Arithmetic II,32,body22ShortAnswerProblem,120,60.0,40.0,0.0,20.0,"""58-75i""",10.0,"""44-75i""",10.0,"""54-72i-3i-4i^2""",Algebra B
+11446,Complex Number Arithmetic II,32,body23ShortAnswerProblem,120,60.0,30.0,0.0,20.0,"""9+16i""",20.0,"""9-16i""",10.0,"""9-16i^2""",Algebra B
+11446,Complex Number Arithmetic II,32,body24ShortAnswerProblem,48,25.0,25.0,0.0,25.0,"""1""",0.0,,0.0,,Algebra B
+11446,Complex Number Arithmetic II,32,body3ShortAnswerProblem,312,7.6923076923076925,3.8461538461538463,0.0,3.8461538461538463,"""0""",3.8461538461538463,"""36-27i""",0.0,,Algebra B
+11446,Complex Number Arithmetic II,32,body5ShortAnswerProblem,456,50.0,0.0,0.0,10.526315789473683,"""2+7/i""",7.894736842105263,"""7/i+2""",5.2631578947368425,"""7i+2""",Algebra B
+11446,Complex Number Arithmetic II,32,body6MathjaxBlank,252,57.142857142857146,23.80952380952381,0.0,9.523809523809524,"[""i^2"",""i""]",9.523809523809524,"[""i"",""i""]",9.523809523809524,"[""i^2"",""i^2""]",Algebra B
+11459,Sum and Difference of Cubes,75,body0body1MultiAnswerProblem,240,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11459,Sum and Difference of Cubes,75,body17ShortAnswerProblem,744,48.38709677419355,8.064516129032258,43.54838709677419,8.064516129032258,"""x^3 - 2x - 4""",6.451612903225806,"""x^3 -2""",6.451612903225806,"""x^3 + 4""",Algebra B
+11459,Sum and Difference of Cubes,75,body26MathjaxBlank,432,27.77777777777778,16.666666666666668,55.55555555555556,8.333333333333334,"[""6"",""9""]",5.555555555555555,"[""3"",""7""]",2.7777777777777777,"["" "",""9""]",Algebra B
+11459,Sum and Difference of Cubes,75,body28MathjaxBlank,48,25.0,25.0,0.0,25.0,"[""7""]",0.0,,0.0,,Algebra B
+11459,Sum and Difference of Cubes,75,body29MathjaxBlank,36,0.0,33.333333333333336,0.0,0.0,,0.0,,0.0,,Algebra B
+11459,Sum and Difference of Cubes,75,body34MathjaxBlank,372,22.580645161290324,3.225806451612903,74.19354838709677,12.903225806451612,"[""4"",""4"",""16""]",3.225806451612903,"[""4"",""4"",""35""]",3.225806451612903,"[""5"",""20"",""5""]",Algebra B
+11459,Sum and Difference of Cubes,75,body42MultiAnswerProblem,372,22.580645161290324,0.0,77.41935483870968,16.129032258064516,[1],6.451612903225806,[0],0.0,,Algebra B
+11459,Sum and Difference of Cubes,75,body44ShortAnswerProblem,420,34.285714285714285,11.428571428571429,0.0,5.714285714285714,"""(x-y)(x^2+x-y+y^2)""",5.714285714285714,"""(x+y)(x^2-xy+y^2)""",5.714285714285714,"""(x-y)(x^2-xy+y^2)""",Algebra B
+11459,Sum and Difference of Cubes,75,body51ShortAnswerProblem,492,70.73170731707317,0.0,29.26829268292683,9.75609756097561,"""$(x_y)(x^2+xy+y^2)$""",9.75609756097561,"""$(x-y)(x^2+xy+y^2)$""",9.75609756097561,"""$(x+y)(x^2+xy+y^2)$""",Algebra B
+11459,Sum and Difference of Cubes,75,body52MathjaxBlank,492,51.21951219512195,48.78048780487805,0.0,14.634146341463415,"[""-(y^3)""]",14.634146341463415,"[""(-y^3)""]",9.75609756097561,"[""-y^3""]",Algebra B
+11459,Sum and Difference of Cubes,75,body69ShortAnswerProblem,456,34.21052631578947,5.2631578947368425,60.526315789473685,5.2631578947368425,"""(4-x)(16-4x+x^2)""",2.6315789473684212,"""() whvv()""",2.6315789473684212,"""14""",Algebra B
+11459,Sum and Difference of Cubes,75,body76ShortAnswerProblem,1068,65.1685393258427,12.359550561797754,22.471910112359552,7.865168539325842,"""2(u^3+27)""",6.741573033707865,"""(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)""",6.741573033707865,"""(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(cbrt(2)u-cbrt(54))(cbrt(2)u^2+54cbrt(2)u+-cbrt(54)^2)(",Algebra B
+11459,Sum and Difference of Cubes,75,body77body1MultiAnswerProblem,108,22.22222222222222,0.0,77.77777777777777,11.11111111111111,[2],11.11111111111111,[0],0.0,,Algebra B
+11459,Sum and Difference of Cubes,75,body82ShortAnswerProblem,504,38.095238095238095,11.904761904761903,50.0,11.904761904761903,"""(2a-3)(4a^2 - 12a + 9)""",7.142857142857143,"""(2a-3)(4a^2-6a+9)""",4.761904761904762,"""n""",Algebra B
+11459,Sum and Difference of Cubes,75,body86ShortAnswerProblem,624,48.07692307692308,15.384615384615383,36.53846153846154,11.538461538461538,"""59837""",9.615384615384617,"""11""",5.769230769230769,"""7""",Algebra B
+11459,Sum and Difference of Cubes,75,body87body1MultiAnswerProblem,96,37.5,0.0,0.0,25.0,[0],12.5,[2],0.0,,Algebra B
+11459,Sum and Difference of Cubes,75,body8ShortAnswerProblem,468,38.46153846153846,5.128205128205129,56.41025641025641,10.256410256410255,"""x^3 + x^2 -1x^2 -1""",5.128205128205129,"""x^3 + 1 """,2.5641025641025643,"""a""",Algebra B
+11460,Completing the Square I,57,body11MathjaxBlank,408,0.0,2.9411764705882355,11.764705882352942,0.0,,0.0,,0.0,,Algebra B
+11460,Completing the Square I,57,body13MathjaxBlank,1008,21.428571428571427,27.38095238095238,1.1904761904761905,4.464285714285714,"[""-5"",""11"",""-5"",""11""]",2.6785714285714284,"[""6"",""0"",""-6"",""0""]",2.6785714285714284,"[""6"",""10"",""6"",""10""]",Algebra B
+11460,Completing the Square I,57,body15MathjaxBlank,1392,50.0,22.41379310344828,0.0,9.051724137931034,"[""1"",""-1""]",4.525862068965517,"[""1"",""-1/3""]",3.8793103448275863,"[""2"",""-1""]",Algebra B
+11460,Completing the Square I,57,body18MathjaxBlank,696,41.37931034482759,0.0,58.62068965517241,9.051724137931034,"[""10"",""-6""]",6.4655172413793105,"[""2"",""-2""]",6.4655172413793105,"[""4"",""-4""]",Algebra B
+11460,Completing the Square I,57,body19MathjaxBlank,180,20.0,13.333333333333334,0.0,10.0,"[""4""]",5.0,"[""8""]",3.3333333333333335,"[""4""]",Algebra B
+11460,Completing the Square I,57,body21MathjaxBlank,204,29.41176470588235,35.294117647058826,35.294117647058826,4.411764705882353,"[""+6"",""-6""]",4.411764705882353,"[""-6"",""10""]",4.411764705882353,"[""+8"",""-8""]",Algebra B
+11460,Completing the Square I,57,body26MathjaxBlank,1464,60.65573770491803,12.295081967213116,0.0,6.147540983606557,"[""2+sqrt(13)"",""2-sqrt(13)""]",3.6885245901639343,"[""-2+sqrt(13)"",""2+sqrt(13)""]",3.0737704918032787,"[""-2+sqrt(13)"",""2-sqrt(13)""]",Algebra B
+11460,Completing the Square I,57,body33MultiAnswerProblem,456,10.526315789473683,0.0,2.6315789473684212,5.921052631578948,[2],1.9736842105263157,[1],1.9736842105263157,[2],Algebra B
+11460,Completing the Square I,57,body34MathjaxBlank,528,18.181818181818183,9.090909090909092,0.0,6.818181818181818,"[""2"",""2"",""2""]",3.409090909090909,"[""-1"",""1"",""1""]",2.272727272727273,"[""2"",""2"",""2""]",Algebra B
+11460,Completing the Square I,57,body37ShortAnswerProblem,684,35.08771929824562,7.017543859649122,57.89473684210526,10.526315789473683,"""6""",5.2631578947368425,"""36""",3.9473684210526314,"""13""",Algebra B
+11460,Completing the Square I,57,body38MultiAnswerProblem,72,50.0,0.0,0.0,25.0,[1],12.5,[0],8.333333333333334,[1],Algebra B
+11460,Completing the Square I,57,body3MathjaxBlank,768,18.75,6.25,0.0,8.203125,"[""6"",""6""]",3.515625,"[""1"",""6""]",2.734375,"[""6"",""6""]",Algebra B
+11460,Completing the Square I,57,body41MathjaxBlank,492,41.46341463414634,0.0,58.53658536585366,5.487804878048781,"[""-3"",""-3""]",5.487804878048781,"[""11"",""11""]",3.658536585365854,"[""sqrt6-3"",""sqrt6+3""]",Algebra B
+11460,Completing the Square I,57,body42MultiAnswerProblem,228,36.8421052631579,0.0,0.0,15.789473684210526,[0],11.842105263157896,[1],5.2631578947368425,[0],Algebra B
+11460,Completing the Square I,57,body43MultiAnswerProblem,192,43.75,0.0,6.25,18.75,[2],14.0625,[1],6.25,[2],Algebra B
+11460,Completing the Square I,57,body44MathjaxBlank,168,28.571428571428573,64.28571428571429,0.0,10.714285714285714,"[""x+3-sqrt(5)"",""x-3-sqrt(5)""]",5.357142857142857,"[""-3"",""-3""]",5.357142857142857,"[""sqrt5-3"",""sqrt5+3""]",Algebra B
+11460,Completing the Square I,57,body47MathjaxBlank,1140,58.94736842105263,25.26315789473684,0.0,2.3684210526315788,"[""-4-2i"",""-4+2i""]",2.3684210526315788,"[""10"",""-2""]",2.3684210526315788,"[""sqrt(-4)+4"",""-sqrt(-4)+4""]",Algebra B
+11460,Completing the Square I,57,body49MathjaxBlank,792,39.39393939393939,22.727272727272727,0.0,4.545454545454546,"[""sqrt(3/4)+5"",""-sqrt(3/4)-5""]",4.545454545454546,"[""sqrt(13/4)-2.5"",""-sqrt(13/4)-2.5""]",4.545454545454546,"[""sqrt(3/4)"",""-sqrt(3/4)-5""]",Algebra B
+11460,Completing the Square I,57,body49MathjaxBlankhints2trigger1MathjaxBlank,252,19.047619047619047,57.142857142857146,0.0,7.142857142857143,"[""25/2""]",3.5714285714285716,"[""5""]",3.5714285714285716,"[""25/4""]",Algebra B
+11460,Completing the Square I,57,body53MultiAnswerProblem,528,29.545454545454547,0.0,0.0,17.045454545454547,[0],5.681818181818182,[0],5.113636363636363,[2],Algebra B
+11460,Completing the Square I,57,body55MathjaxBlank,576,31.25,6.25,0.0,12.5,"[""${\\color{magenta}b}^2$""]",10.9375,"[""$\\frac{{\\color{magenta}b}}{2}$""]",4.166666666666667,"[""${\\color{magenta}b}^2$""]",Algebra B
+11460,Completing the Square I,57,body5MultiAnswerProblem,2412,99.50248756218906,0.0,0.4975124378109453,29.104477611940297,[3],19.77611940298507,[0],14.552238805970148,[2],Algebra B
+11460,Completing the Square I,57,body8MathjaxBlank,564,10.638297872340424,12.76595744680851,76.59574468085107,4.787234042553192,"[""2""]",3.1914893617021276,"[""8""]",1.5957446808510638,"[""2""]",Algebra B
+11496,Using the Quadratic Formula,45,body10ShortAnswerProblem,120,40.0,20.0,0.0,10.0,"""1""",10.0,"""0""",10.0,"""2(1)""",Algebra B
+11496,Using the Quadratic Formula,45,body12ShortAnswerProblem,120,30.0,40.0,0.0,10.0,"""86/2""",10.0,"""0""",10.0,"""5+9/2,5-9/2""",Algebra B
+11496,Using the Quadratic Formula,45,body13ShortAnswerProblem,120,40.0,20.0,0.0,30.0,"""2""",10.0,"""0""",0.0,,Algebra B
+11496,Using the Quadratic Formula,45,body16MathjaxBlank,420,57.142857142857146,0.0,42.857142857142854,14.285714285714286,"[""(6 - (4) sqrt(15))/4"",""(6 + (4) sqrt (15))/""]",14.285714285714286,"[""(6 - (4) sqrt(15))/4"",""(6+(4) sqrt (15))/4""]",5.714285714285714,"[""(3-sqrt15)/2"",""(3+sqrt(15)/2""]",Algebra B
+11496,Using the Quadratic Formula,45,body17MathjaxBlank,132,18.181818181818183,27.272727272727273,0.0,18.181818181818183,"[""2"",""-6"",""3""]",0.0,,0.0,,Algebra B
+11496,Using the Quadratic Formula,45,body18MathjaxBlank,192,25.0,56.25,0.0,6.25,"[""-6"",""60"",""4""]",6.25,"[""-2"",""28"",""4""]",6.25,"[""6"",""36+24"",""4""]",Algebra B
+11496,Using the Quadratic Formula,45,body19ShortAnswerProblem,324,55.55555555555556,29.62962962962963,0.0,7.407407407407407,"""(6+sqrt(60))/4""",3.703703703703704,"""(6+4*sqrt(15))/4""",3.703703703703704,"""(6-4sqrt(15))/4""",Algebra B
+11496,Using the Quadratic Formula,45,body20ShortAnswerProblem,252,42.857142857142854,33.333333333333336,0.0,19.047619047619047,"""(3 - sqrt(15))/4""",4.761904761904762,"""(2-sqrt15)/2""",4.761904761904762,"""(""",Algebra B
+11496,Using the Quadratic Formula,45,body24MathjaxBlank,516,67.44186046511628,0.0,32.55813953488372,11.627906976744184,"[""?1"",""-?1""]",4.651162790697675,"[""?1"",""i""]",4.651162790697675,"[""√1"",""-√1""]",Algebra B
+11496,Using the Quadratic Formula,45,body26ShortAnswerProblem,264,40.90909090909091,27.272727272727273,0.0,9.090909090909092,"""0""",9.090909090909092,"""5""",4.545454545454546,"""gmaaster""",Algebra B
+11496,Using the Quadratic Formula,45,body28MathjaxBlank,348,55.172413793103445,13.79310344827586,0.0,20.689655172413794,"[""6"",""136"",""10""]",13.79310344827586,"[""36"",""64"",""10""]",13.79310344827586,"[""36"",""136"",""10""]",Algebra B
+11496,Using the Quadratic Formula,45,body2MathjaxBlank,384,6.25,15.625,0.0,3.125,"[""-b"",""b^2+4ac"",""2a""]",3.125,"[""b/2a"",""b^2-4ac"",""2a""]",0.0,,Algebra B
+11496,Using the Quadratic Formula,45,body30MathjaxBlank,192,25.0,25.0,0.0,12.5,"[""8"",""-8""]",6.25,"[""-8"",""-8""]",6.25,"[""4i"",""-4i""]",Algebra B
+11496,Using the Quadratic Formula,45,body31ShortAnswerProblem,276,47.82608695652174,21.73913043478261,0.0,13.043478260869565,"""(3-4i)/5""",4.3478260869565215,"""gmaas""",4.3478260869565215,"""14/10""",Algebra B
+11496,Using the Quadratic Formula,45,body32ShortAnswerProblem,192,37.5,25.0,0.0,6.25,"""3/2-4/5i""",6.25,"""y""",6.25,"""(3 i 4i) / 5""",Algebra B
+11496,Using the Quadratic Formula,45,body36MathjaxBlank,192,37.5,0.0,62.5,6.25,"[""6+2sqrt(6)"",""6-2sqrt(6)""]",6.25,"[""2"",""-2""]",6.25,"[""27/5"",""3/5""]",Algebra B
+11496,Using the Quadratic Formula,45,body38ShortAnswerProblem,276,43.47826086956522,30.434782608695652,0.0,8.695652173913043,"""y""",8.695652173913043,"""6/2""",4.3478260869565215,"""1""",Algebra B
+11496,Using the Quadratic Formula,45,body39ShortAnswerProblem,636,71.69811320754717,18.867924528301888,0.0,7.547169811320755,"""xy=3""",5.660377358490566,"""y=6-x""",5.660377358490566,"""xy=6""",Algebra B
+11496,Using the Quadratic Formula,45,body40MathjaxBlank,120,60.0,0.0,40.0,30.0,"[""0"",""6""]",10.0,"[""6"",""-6""]",10.0,"[""6-sqrt98/2"",""6+sqrt98/2""]",Algebra B
+11496,Using the Quadratic Formula,45,body41ShortAnswerProblem,384,65.625,34.375,0.0,12.5,"""6x - x^2 = 3""",9.375,"""x^2 - 6x + 3""",9.375,"""6x - x^2 - 3 = 0""",Algebra B
+11496,Using the Quadratic Formula,45,body42ShortAnswerProblem,168,28.571428571428573,42.857142857142854,0.0,7.142857142857143,"""b""",7.142857142857143,"""0""",7.142857142857143,"""(-1+sqrt(11))/2, (-1-sqrt(11))/2""",Algebra B
+11496,Using the Quadratic Formula,45,body45ShortAnswerProblem,408,32.35294117647059,26.470588235294116,0.0,2.9411764705882355,"""2""",2.9411764705882355,"""1,2""",2.9411764705882355,""",""",Algebra B
+11496,Using the Quadratic Formula,45,body4MathjaxBlank,276,21.73913043478261,0.0,78.26086956521739,8.695652173913043,"[""8"",""-3""]",4.3478260869565215,"[""5-4sqrt5/2"",""5+4sqrt5/2""]",4.3478260869565215,"[""14"",""-4""]",Algebra B
+11496,Using the Quadratic Formula,45,body5MathjaxBlank,84,14.285714285714286,57.142857142857146,0.0,14.285714285714286,"[""x^2"",""-5x"",""14""]",0.0,,0.0,,Algebra B
+11496,Using the Quadratic Formula,45,body8ShortAnswerProblem,144,41.666666666666664,8.333333333333334,0.0,25.0,"""-5""",8.333333333333334,"""4""",8.333333333333334,"""0""",Algebra B
+11496,Using the Quadratic Formula,45,body9ShortAnswerProblem,180,53.333333333333336,20.0,0.0,6.666666666666667,"""14""",6.666666666666667,"""25-56""",6.666666666666667,"""0""",Algebra B
+11511,Introduction to Complex Numbers,38,body12SelectGraph,312,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11511,Introduction to Complex Numbers,38,body14SelectGraph,504,26.19047619047619,14.285714285714286,0.0,7.142857142857143,"[[-1,-3]]",7.142857142857143,"[[3,-1]]",4.761904761904762,"[[1,3]]",Algebra B
+11511,Introduction to Complex Numbers,38,body14SelectGraphgive-up-trigger0SelectGraph,48,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11511,Introduction to Complex Numbers,38,body15SelectGraph,444,24.324324324324323,18.91891891891892,0.0,8.108108108108109,"[75,159]",2.702702702702702,[75],2.702702702702702,"[75,171]",Algebra B
+11511,Introduction to Complex Numbers,38,body15SelectGraphgive-up-trigger0SelectGraph,60,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11511,Introduction to Complex Numbers,38,body16SelectGraph,552,39.130434782608695,10.869565217391305,0.0,17.391304347826086,"[33,34,35,36,37,38,39,40,41,42,43]",6.521739130434782,[38],4.3478260869565215,"[5,16,27,33,34,35,36,37,38,39,40,41,42,43,49,60,71]",Algebra B
+11511,Introduction to Complex Numbers,38,body16SelectGraphgive-up-trigger0SelectGraph,60,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11511,Introduction to Complex Numbers,38,body17SelectGraph,732,54.09836065573771,21.311475409836067,1.639344262295082,8.19672131147541,"[4,15,26,37,48,59,70]",6.557377049180328,"[44,45,46,47,48,50,51,52,53,54]",4.918032786885246,"[49,50,51,52,53,54]",Algebra B
+11511,Introduction to Complex Numbers,38,body17SelectGraphgive-up-trigger0SelectGraph,108,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11511,Introduction to Complex Numbers,38,body18SelectGraph,516,37.2093023255814,20.930232558139537,0.0,11.627906976744184,"[4,31,85,112]",4.651162790697675,"[4,8,31,33,83,85,108,112]",4.651162790697675,"[31,85]",Algebra B
+11511,Introduction to Complex Numbers,38,body18SelectGraphgive-up-trigger0SelectGraph,96,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11511,Introduction to Complex Numbers,38,body19SelectGraph,732,59.01639344262295,18.0327868852459,0.0,6.557377049180328,"[16,22,28,36,106,114,120,126]",3.278688524590164,"[6,16,22,67,75,120,126,136]",3.278688524590164,"[16,126]",Algebra B
+11511,Introduction to Complex Numbers,38,body19SelectGraphgive-up-trigger0SelectGraph,120,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11511,Introduction to Complex Numbers,38,body22SelectGraph,288,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+11511,Introduction to Complex Numbers,38,body4MultiAnswerProblem,780,46.15384615384615,6.153846153846154,0.0,18.46153846153846,[1],7.6923076923076925,[2],7.6923076923076925,"[0,1,2]",Algebra B
+11511,Introduction to Complex Numbers,38,body5MultiAnswerProblem,696,43.10344827586207,8.620689655172415,0.0,15.517241379310343,[1],12.06896551724138,[0],6.896551724137931,[2],Algebra B
+11511,Introduction to Complex Numbers,38,body6MultiAnswerProblem,684,43.85964912280702,1.7543859649122806,0.0,19.29824561403509,"[0,1]",7.017543859649122,[0],5.2631578947368425,[2],Algebra B
+11511,Introduction to Complex Numbers,38,body7body1MultiAnswerProblem,588,32.6530612244898,0.0,67.34693877551021,18.367346938775512,[0],14.285714285714286,[2],0.0,,Algebra B
+11511,Introduction to Complex Numbers,38,body9MathjaxBlank,732,47.540983606557376,11.475409836065571,0.0,27.868852459016395,"[""2"",""-5i""]",16.39344262295082,"[""2"",""5i""]",1.639344262295082,"[""2-5"",""i""]",Algebra B
+22993,Chapter 11 Feedback,2,body2MultiAnswerProblem,42,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+22993,Chapter 11 Feedback,2,body3ShortAnswerProblem,42,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+22994,Chapter 12 Feedback,2,body2MultiAnswerProblem,60,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+22994,Chapter 12 Feedback,2,body3ShortAnswerProblem,60,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23006,Introduction to Parabolas,28,body11SelectGraph,228,31.57894736842105,3.508771929824561,0.0,5.2631578947368425,"[[1,1],[2,4]]",3.508771929824561,"[[0,0],[1,1],[2,5]]",3.508771929824561,"[[2,4],[3,9]]",Algebra B
+23006,Introduction to Parabolas,28,body11SelectGraphgive-up-trigger3DynamicGraph,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23006,Introduction to Parabolas,28,body21MultiAnswerProblem,260,40.0,0.0,0.7692307692307693,26.923076923076923,[1],13.076923076923077,[0],0.0,,Algebra B
+23006,Introduction to Parabolas,28,body22MultiAnswerProblem,200,32.0,0.0,0.0,11.0,[3],5.0,[1],5.0,[0],Algebra B
+23006,Introduction to Parabolas,28,body24MathjaxBlank,164,20.73170731707317,2.4390243902439024,1.2195121951219512,8.536585365853659,"[""3.8""]",2.4390243902439024,"[""28.88""]",2.4390243902439024,"[""4""]",Algebra B
+23006,Introduction to Parabolas,28,body26MathjaxBlank,138,10.144927536231885,2.898550724637681,1.4492753623188406,2.898550724637681,"[""1""]",2.898550724637681,"[""2""]",1.4492753623188406,"[""x""]",Algebra B
+23006,Introduction to Parabolas,28,body28SelectGraph,130,6.153846153846154,1.5384615384615383,0.0,3.076923076923077,[1],1.5384615384615383,[7],1.5384615384615383,[2],Algebra B
+23006,Introduction to Parabolas,28,body30MultiAnswerProblem,126,4.761904761904762,0.0,0.0,3.1746031746031744,"[0,2]",1.5873015873015872,[1],0.0,,Algebra B
+23006,Introduction to Parabolas,28,body31MultiAnswerProblem,138,7.246376811594203,0.0,92.7536231884058,4.3478260869565215,[1],2.898550724637681,[0],0.0,,Algebra B
+23006,Introduction to Parabolas,28,body32MultiAnswerProblem,128,6.25,0.0,93.75,6.25,[0],0.0,,0.0,,Algebra B
+23006,Introduction to Parabolas,28,body6SelectGraph,260,40.76923076923077,13.076923076923077,0.0,3.076923076923077,"[[1,0]]",3.076923076923077,"[[1,0],[2,2]]",3.076923076923077,"[[0,0],[0,3]]",Algebra B
+23006,Introduction to Parabolas,28,body6SelectGraphgive-up-trigger4DynamicGraph,16,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23006,Introduction to Parabolas,28,body6SelectGraphoptions1trigger1DynamicGraph,104,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body10MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body11MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body12MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body14MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body15MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body17ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body18ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""9""",0.0,,0.0,,Algebra B
+23065,Transformations,36,body20MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body27DynamicGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body28MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body39DynamicGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body40ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body41ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body42DynamicGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body43MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body44ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body45ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body4MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body5DynamicGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body7DynamicGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23065,Transformations,36,body9DynamicGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23646,Mysterious Machines,43,body17MultiAnswerProblem,32,12.5,0.0,87.5,6.25,[0],6.25,[1],0.0,,Algebra B
+23646,Mysterious Machines,43,body20MultiAnswerProblem,62,45.16129032258065,0.0,0.0,19.35483870967742,[2],12.903225806451612,[0],12.903225806451612,[1],Algebra B
+23646,Mysterious Machines,43,body23MultiAnswerProblem,62,54.83870967741935,9.67741935483871,0.0,9.67741935483871,"[1,2]",9.67741935483871,"[0,1,3]",6.451612903225806,[0],Algebra B
+23646,Mysterious Machines,43,body26MultiAnswerProblem,50,40.0,0.0,0.0,12.0,"[0,1]",12.0,[3],8.0,"[0,1,2,3]",Algebra B
+23646,Mysterious Machines,43,body27body2MultiAnswerProblem,26,15.384615384615383,0.0,84.61538461538461,7.6923076923076925,[0],7.6923076923076925,[2],0.0,,Algebra B
+23646,Mysterious Machines,43,body29MultiAnswerProblem,110,70.9090909090909,0.0,0.0,16.363636363636363,"[1,2,3]",10.909090909090908,"[2,3]",10.909090909090908,[1],Algebra B
+23646,Mysterious Machines,43,body4ShortAnswerProblem,72,69.44444444444444,0.0,30.555555555555557,13.88888888888889,"""3x+1""",11.11111111111111,"""x^2 + 3""",5.555555555555555,"""1+3x""",Algebra B
+23646,Mysterious Machines,43,body5MultiAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+23646,Mysterious Machines,43,body9body2ShortAnswerProblem,30,6.666666666666667,0.0,0.0,6.666666666666667,"""69""",0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body0body1MultiAnswerProblem,36,16.666666666666668,0.0,0.0,16.666666666666668,[2],0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body10body2MultiAnswerProblem,38,42.10526315789474,0.0,0.0,26.31578947368421,[1],15.789473684210526,[0],0.0,,Algebra B
+23750,Algebra with Functions,33,body11ShortAnswerProblem,22,18.181818181818183,0.0,0.0,9.090909090909092,"""9b^2-12b""",9.090909090909092,"""3b^2-4""",0.0,,Algebra B
+23750,Algebra with Functions,33,body12MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body14MathjaxBlank,8,50.0,0.0,0.0,50.0,"[""-3""]",0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body15MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body16ShortAnswerProblem,6,33.333333333333336,33.333333333333336,0.0,33.333333333333336,"""(3b-4)(3b+4)""",0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body17ShortAnswerProblem,26,15.384615384615383,0.0,0.0,7.6923076923076925,"""x^2-2x+1""",7.6923076923076925,"""x^2 + 2 + 1""",0.0,,Algebra B
+23750,Algebra with Functions,33,body19ShortAnswerProblem,28,14.285714285714286,0.0,0.0,14.285714285714286,"""3""",0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body20ShortAnswerProblem,58,44.827586206896555,0.0,0.0,17.24137931034483,"""31""",17.24137931034483,"""43""",6.896551724137931,"""3019""",Algebra B
+23750,Algebra with Functions,33,body21body2MathjaxBlank,4,50.0,50.0,0.0,50.0,"[""1"",""22""]",0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body22body1ShortAnswerProblem,6,66.66666666666667,33.333333333333336,0.0,33.333333333333336,"""4""",33.333333333333336,"""10""",0.0,,Algebra B
+23750,Algebra with Functions,33,body23ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body24ShortAnswerProblem,52,69.23076923076923,0.0,0.0,11.538461538461538,"""7""",7.6923076923076925,"""-6""",7.6923076923076925,"""5""",Algebra B
+23750,Algebra with Functions,33,body28body1ShortAnswerProblem,8,50.0,25.0,0.0,25.0,"""a^ + a + 2""",25.0,"""x=>2""",0.0,,Algebra B
+23750,Algebra with Functions,33,body29ShortAnswerProblem,12,66.66666666666667,0.0,0.0,16.666666666666668,"""6, -3""",16.666666666666668,"""-6, 3""",16.666666666666668,"""-7,4""",Algebra B
+23750,Algebra with Functions,33,body2ShortAnswerProblem,24,8.333333333333334,0.0,0.0,8.333333333333334,"""6""",0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body33ShortAnswerProblem,20,10.0,0.0,0.0,10.0,"""10""",0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body34ShortAnswerProblem,38,52.63157894736842,5.2631578947368425,0.0,10.526315789473683,"""-3c+2b+a""",10.526315789473683,"""ab+2bc-3ca""",10.526315789473683,"""2b-3c+a""",Algebra B
+23750,Algebra with Functions,33,body35ShortAnswerProblem,24,25.0,16.666666666666668,58.333333333333336,8.333333333333334,"""positive""",8.333333333333334,"""what""",8.333333333333334,"""5, 8""",Algebra B
+23750,Algebra with Functions,33,body37ShortAnswerProblem,24,25.0,0.0,0.0,16.666666666666668,"""0""",8.333333333333334,"""-1""",0.0,,Algebra B
+23750,Algebra with Functions,33,body38ShortAnswerProblem,30,40.0,6.666666666666667,0.0,13.333333333333334,"""5""",13.333333333333334,"""13/3""",6.666666666666667,"""2/a""",Algebra B
+23750,Algebra with Functions,33,body3ShortAnswerProblem,22,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body4MultiAnswerProblem,66,48.48484848484848,0.0,51.51515151515152,24.24242424242424,[2],15.151515151515152,[0],9.090909090909092,[3],Algebra B
+23750,Algebra with Functions,33,body5body1MultiAnswerProblem,20,20.0,0.0,80.0,20.0,[1],0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body7ShortAnswerProblem,44,31.818181818181817,22.727272727272727,0.0,22.727272727272727,"""4/9""",4.545454545454546,"""9/4""",4.545454545454546,"""9""",Algebra B
+23750,Algebra with Functions,33,body8ShortAnswerProblem,30,6.666666666666667,33.333333333333336,0.0,6.666666666666667,"""61""",0.0,,0.0,,Algebra B
+23750,Algebra with Functions,33,body9ShortAnswerProblem,20,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23882,Domain,44,body10ShortAnswerProblem,36,27.77777777777778,0.0,0.0,16.666666666666668,"""[$\\infty$]""",5.555555555555555,"""($\\infty$)""",5.555555555555555,"""$\\mathbb{r}$""",Algebra B
+23882,Domain,44,body10ShortAnswerProblemtrigger1MathjaxBlank,22,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23882,Domain,44,body11body0ShortAnswerProblem,76,18.42105263157895,0.0,0.0,7.894736842105263,"""0""",5.2631578947368425,"""6""",2.6315789473684212,"""4, 6""",Algebra B
+23882,Domain,44,body12ShortAnswerProblem,48,50.0,0.0,0.0,12.5,"""all positive resl numbers""",8.333333333333334,"""positive""",8.333333333333334,"""integers""",Algebra B
+23882,Domain,44,body13MultiAnswerProblem,86,53.48837209302326,0.0,0.0,44.18604651162791,"[0,2,3,4]",2.3255813953488373,"[2,3,6,7]",2.3255813953488373,"[2,6,7]",Algebra B
+23882,Domain,44,body14MultiAnswerProblem,42,4.761904761904762,0.0,0.0,4.761904761904762,[1],0.0,,0.0,,Algebra B
+23882,Domain,44,body15ShortAnswerProblem,70,11.428571428571429,5.714285714285714,0.0,5.714285714285714,"""no""",2.857142857142857,"""2e""",2.857142857142857,"""e(x)=2x""",Algebra B
+23882,Domain,44,body16MultiAnswerProblem,154,59.74025974025974,0.0,0.0,31.16883116883117,[0],25.974025974025977,[1],2.5974025974025974,[2],Algebra B
+23882,Domain,44,body18MultiAnswerProblem,116,46.55172413793103,0.0,0.0,36.206896551724135,[1],6.896551724137931,[3],1.7241379310344829,[4],Algebra B
+23882,Domain,44,body19ShortAnswerProblem,112,44.642857142857146,35.714285714285715,0.0,33.92857142857143,"""all numbers other than -5""",1.7857142857142858,"""all real numbers""",1.7857142857142858,"""(-inf, -5) u (5, inf)""",Algebra B
+23882,Domain,44,body20ShortAnswerProblem,76,71.05263157894737,0.0,0.0,50.0,"""(-inf, inf)""",7.894736842105263,"""($\\infty$, 0]""",2.6315789473684212,"""($\\infty$, 0)""",Algebra B
+23882,Domain,44,body21MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23882,Domain,44,body22ShortAnswerProblem,38,5.2631578947368425,94.73684210526316,0.0,5.2631578947368425,"""all positive numbers""",0.0,,0.0,,Algebra B
+23882,Domain,44,body25ShortAnswerProblem,92,80.43478260869566,0.0,0.0,43.47826086956522,"""0""",13.043478260869565,"""(0, 1)""",6.521739130434782,"""[0, inf)""",Algebra B
+23882,Domain,44,body26body1DragDropMathjax,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23882,Domain,44,body27DragDropMathjax,8,25.0,0.0,0.0,25.0,"[""0: 0"",""1: 5"",""2: 3""]",0.0,,0.0,,Algebra B
+23882,Domain,44,body28DragDropMathjax,8,25.0,0.0,25.0,25.0,"[""0: 2"",""1: 1""]",0.0,,0.0,,Algebra B
+23882,Domain,44,body29ShortAnswerProblem,70,48.57142857142857,45.714285714285715,0.0,45.714285714285715,"""(0,1)""",2.857142857142857,"""1""",0.0,,Algebra B
+23882,Domain,44,body32body2ShortAnswerProblem,54,51.851851851851855,7.407407407407407,0.0,18.51851851851852,"""22""",11.11111111111111,"""11""",7.407407407407407,"""10""",Algebra B
+23882,Domain,44,body33ShortAnswerProblem,80,82.5,0.0,0.0,7.5,"""4r""",7.5,"""8r""",7.5,"""2(r+b)""",Algebra B
+23882,Domain,44,body35ShortAnswerProblem,22,63.63636363636363,18.181818181818183,0.0,27.272727272727273,"""20-r""",18.181818181818183,"""20-2r""",9.090909090909092,"""(20-2r)/2""",Algebra B
+23882,Domain,44,body36ShortAnswerProblem,14,42.857142857142854,0.0,0.0,28.571428571428573,"""r(20-r)""",14.285714285714286,"""r(20-r)=20""",0.0,,Algebra B
+23882,Domain,44,body37body1ShortAnswerProblem,84,76.19047619047619,2.380952380952381,0.0,9.523809523809524,"""(0,5)""",7.142857142857143,"""(0,10)""",4.761904761904762,"""2""",Algebra B
+23882,Domain,44,body38ShortAnswerProblem,48,62.5,16.666666666666668,0.0,4.166666666666667,"""5 sqrt 3""",4.166666666666667,"""9""",4.166666666666667,"""(5-4sqrt(3))/2""",Algebra B
+23882,Domain,44,body3ShortAnswerProblem,20,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23882,Domain,44,body6body1ShortAnswerProblem,168,64.28571428571429,1.1904761904761905,0.0,9.523809523809524,"""[$\\infty$, -5)""",9.523809523809524,"""($\\infty$, -5]""",4.761904761904762,"""[$\\infty$, -5]""",Algebra B
+23882,Domain,44,body7ShortAnswerProblem,20,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23882,Domain,44,body8body1ShortAnswerProblem,78,66.66666666666667,5.128205128205129,0.0,7.6923076923076925,"""($\\infty$, 2) u (2, 3) u (3, $\\infty$)""",7.6923076923076925,"""(-$\\infty, 2) u (3, $\\infty$)""",7.6923076923076925,"""($\\infty$, 2) u (3, $\\infty$)""",Algebra B
+23882,Domain,44,body9ShortAnswerProblem,24,8.333333333333334,0.0,0.0,8.333333333333334,"""3, 2""",0.0,,0.0,,Algebra B
+23883,Range,48,body0body1MultiAnswerProblem,34,35.294117647058826,0.0,0.0,17.647058823529413,[0],11.764705882352942,[1],5.882352941176471,[2],Algebra B
+23883,Range,48,body10ShortAnswerProblem,32,18.75,0.0,0.0,6.25,"""no""",6.25,"""845""",6.25,"""5,-5""",Algebra B
+23883,Range,48,body11ShortAnswerProblem,24,25.0,0.0,0.0,8.333333333333334,"""sqrt-5""",8.333333333333334,"""sqrt5""",8.333333333333334,"""i""",Algebra B
+23883,Range,48,body12ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23883,Range,48,body14ShortAnswerProblem,32,43.75,6.25,0.0,12.5,"""{4, inf}""",6.25,"""[0, 4]u]4, inf)""",6.25,"""[0, 4] u (4, inf)""",Algebra B
+23883,Range,48,body15ShortAnswerProblem,300,90.0,4.666666666666667,0.0,6.666666666666667,"""a^2+4""",6.666666666666667,"""x^2+4""",4.666666666666667,"""g(a)""",Algebra B
+23883,Range,48,body17body2MultiAnswerProblem,30,20.0,0.0,0.0,13.333333333333334,[1],6.666666666666667,[0],0.0,,Algebra B
+23883,Range,48,body18body3MultiAnswerProblem,88,65.9090909090909,0.0,0.0,13.636363636363637,"[2,3]",9.090909090909092,"[0,1,2,3,4]",6.818181818181818,[2],Algebra B
+23883,Range,48,body19ShortAnswerProblem,54,85.18518518518519,0.0,0.0,14.814814814814817,"""(0, -$\\infty$] u ($\\infty$, 0)""",14.814814814814817,"""(0, -$infty$] u [$\\infty$, 0)""",14.814814814814817,"""(-$\\infty$, 0) u (0, $\\infty$)""",Algebra B
+23883,Range,48,body1body3MultiAnswerProblem,38,36.8421052631579,0.0,0.0,21.05263157894737,"[0,2,4,5,6]",5.2631578947368425,"[0,2,4,5]",5.2631578947368425,"[0,1,2,4,5,7]",Algebra B
+23883,Range,48,body20ShortAnswerProblem,54,66.66666666666667,11.11111111111111,0.0,14.814814814814817,"""(2 sqrt 5)/2""",14.814814814814817,"""sqrt 5""",14.814814814814817,"""1+ sqrt5/2""",Algebra B
+23883,Range,48,body21ShortAnswerProblem,18,11.11111111111111,0.0,0.0,11.11111111111111,"""1 + sqrt3""",0.0,,0.0,,Algebra B
+23883,Range,48,body22ShortAnswerProblem,70,74.28571428571429,8.571428571428571,0.0,11.428571428571429,"""solving the equation""",11.428571428571429,"""x^2/(x+1)=-2""",11.428571428571429,"""completing the square""",Algebra B
+23883,Range,48,body23ShortAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23883,Range,48,body24body2MultiAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23883,Range,48,body25MultiAnswerProblem,12,16.666666666666668,0.0,0.0,16.666666666666668,[1],0.0,,0.0,,Algebra B
+23883,Range,48,body26MathjaxBlank,12,16.666666666666668,0.0,16.666666666666668,16.666666666666668,"[""a^2-4a""]",0.0,,0.0,,Algebra B
+23883,Range,48,body27ShortAnswerProblem,16,25.0,0.0,0.0,12.5,"""a^2-4a""",12.5,"""-a^2 - 4a""",0.0,,Algebra B
+23883,Range,48,body28MultiAnswerProblem,22,36.36363636363637,0.0,0.0,36.36363636363637,[0],0.0,,0.0,,Algebra B
+23883,Range,48,body29ShortAnswerProblem,84,83.33333333333333,9.523809523809524,0.0,11.904761904761903,"""[0, $\\infty$)""",7.142857142857143,"""(-$\\infty$, $\\infty$)""",7.142857142857143,"""[-$\\infty$, $\\infty$]""",Algebra B
+23883,Range,48,body2body1MultiAnswerProblem,46,34.78260869565217,8.695652173913043,0.0,26.08695652173913,"[1,3,7]",4.3478260869565215,"[2,4]",4.3478260869565215,[7],Algebra B
+23883,Range,48,body31ShortAnswerProblem,24,50.0,0.0,0.0,25.0,"""-1""",16.666666666666668,"""-2""",8.333333333333334,""".""",Algebra B
+23883,Range,48,body32ShortAnswerProblem,8,25.0,25.0,0.0,25.0,"""..""",0.0,,0.0,,Algebra B
+23883,Range,48,body33ShortAnswerProblem,12,33.333333333333336,16.666666666666668,0.0,16.666666666666668,""".""",16.666666666666668,"""-7/6""",0.0,,Algebra B
+23883,Range,48,body34ShortAnswerProblem,8,25.0,0.0,0.0,25.0,"""0""",0.0,,0.0,,Algebra B
+23883,Range,48,body35MathjaxBlank,28,42.857142857142854,0.0,0.0,14.285714285714286,"[""0""]",14.285714285714286,"[""2""]",7.142857142857143,"[""6""]",Algebra B
+23883,Range,48,body4ShortAnswerProblem,16,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23883,Range,48,body5ShortAnswerProblem,16,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23883,Range,48,body6ShortAnswerProblem,78,61.53846153846154,0.0,0.0,23.076923076923077,"""pi/3""",20.512820512820515,"""no""",15.384615384615383,"""1/3 pi""",Algebra B
+23883,Range,48,body7ShortAnswerProblem,30,13.333333333333334,0.0,0.0,6.666666666666667,"""a/x""",6.666666666666667,"""x/3""",0.0,,Algebra B
+23883,Range,48,body8ShortAnswerProblem,22,9.090909090909092,0.0,0.0,9.090909090909092,"""r""",0.0,,0.0,,Algebra B
+23884,Composition,32,body10body1ShortAnswerProblem,16,12.5,0.0,0.0,12.5,"""1/(x^2+x)""",0.0,,0.0,,Algebra B
+23884,Composition,32,body11ShortAnswerProblem,28,57.142857142857146,0.0,0.0,14.285714285714286,"""(-inf, inf)""",7.142857142857143,"""(-inf, -1) u (-1, 0) u (0, inf)""",7.142857142857143,"""(-inf,-1)u(-1,-inf)""",Algebra B
+23884,Composition,32,body12ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23884,Composition,32,body13ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23884,Composition,32,body14ShortAnswerProblem,6,33.333333333333336,33.333333333333336,0.0,33.333333333333336,"""(-inf, -1)u(-1, 0)u(0, inf)""",0.0,,0.0,,Algebra B
+23884,Composition,32,body16ShortAnswerProblem,26,46.15384615384615,0.0,0.0,15.384615384615383,"""2""",15.384615384615383,"""5/4""",7.6923076923076925,"""all real numbers""",Algebra B
+23884,Composition,32,body1MultiAnswerProblem,50,56.0,0.0,0.0,28.0,[1],16.0,[3],12.0,[0],Algebra B
+23884,Composition,32,body21body5ShortAnswerProblem,20,30.0,0.0,0.0,20.0,"""y+1+n""",10.0,"""s combined n times""",0.0,,Algebra B
+23884,Composition,32,body22ShortAnswerProblem,18,33.333333333333336,0.0,0.0,22.22222222222222,"""4x+12""",11.11111111111111,"""4x^2+36""",0.0,,Algebra B
+23884,Composition,32,body23body1ShortAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23884,Composition,32,body24MultiAnswerProblem,8,75.0,0.0,0.0,25.0,[2],25.0,[0],25.0,[3],Algebra B
+23884,Composition,32,body25ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23884,Composition,32,body26ShortAnswerProblem,4,50.0,50.0,0.0,50.0,"""19""",0.0,,0.0,,Algebra B
+23884,Composition,32,body4body2ShortAnswerProblem,16,12.5,0.0,0.0,12.5,"""15""",0.0,,0.0,,Algebra B
+23884,Composition,32,body6ShortAnswerProblem,16,12.5,0.0,0.0,12.5,"""-119""",0.0,,0.0,,Algebra B
+23884,Composition,32,body7ShortAnswerProblem,38,52.63157894736842,0.0,0.0,15.789473684210526,"""g(x^3-2x^2+3x-6)""",15.789473684210526,"""g(x^2+3)""",5.2631578947368425,"""x^2-1""",Algebra B
+23884,Composition,32,body8ShortAnswerProblem,18,22.22222222222222,0.0,0.0,11.11111111111111,"""17""",11.11111111111111,"""5""",0.0,,Algebra B
+23884,Composition,32,body9ShortAnswerProblem,56,67.85714285714286,0.0,0.0,32.142857142857146,"""x+1""",10.714285714285714,"""x^2+1""",10.714285714285714,"""x^2-4x+5""",Algebra B
+23885,Inverse Functions,31,body10ShortAnswerProblem,12,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body11ShortAnswerProblem,22,72.72727272727273,0.0,0.0,27.272727272727273,"""ux - 2u - 1""",9.090909090909092,"""xy-x-y-1""",9.090909090909092,"""(-2x-1)/(1-x)""",Algebra B
+23885,Inverse Functions,31,body12body2MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body13ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body14ShortAnswerProblem,18,22.22222222222222,44.44444444444444,0.0,11.11111111111111,"""b^-1""",11.11111111111111,"""(2x+1)(x-1)""",0.0,,Algebra B
+23885,Inverse Functions,31,body16body1DragDropMathjax,12,16.666666666666668,0.0,0.0,16.666666666666668,"[0,4,2,3,5,1]",0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body17DragDropMathjax,10,0.0,20.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body18body2ShortAnswerProblem,10,0.0,0.0,40.0,0.0,,0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body18body3ShortAnswerProblem,6,0.0,0.0,33.333333333333336,0.0,,0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body18body4ShortAnswerProblem,8,50.0,0.0,50.0,50.0,"""5""",0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body1ShortAnswerProblem,18,22.22222222222222,11.11111111111111,0.0,11.11111111111111,"""-23,-10,64""",11.11111111111111,"""5""",0.0,,Algebra B
+23885,Inverse Functions,31,body21body2ShortAnswerProblem,14,28.571428571428573,14.285714285714286,0.0,14.285714285714286,"""all reals""",14.285714285714286,"""-x,x""",0.0,,Algebra B
+23885,Inverse Functions,31,body22ShortAnswerProblem,14,28.571428571428573,0.0,0.0,14.285714285714286,"""3,-3""",14.285714285714286,""",-""",0.0,,Algebra B
+23885,Inverse Functions,31,body23ShortAnswerProblem,12,16.666666666666668,0.0,0.0,16.666666666666668,"""-3""",0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body25MultiAnswerProblem,22,54.54545454545455,0.0,0.0,18.181818181818183,"[1,2,3]",9.090909090909092,"[1,2]",9.090909090909092,"[0,1]",Algebra B
+23885,Inverse Functions,31,body27MultiAnswerProblem,16,37.5,0.0,0.0,12.5,[0],12.5,[1],12.5,"[2,3]",Algebra B
+23885,Inverse Functions,31,body2ShortAnswerProblem,16,12.5,12.5,0.0,12.5,"""5""",0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body3body1MultiAnswerProblem,16,12.5,0.0,0.0,12.5,[1],0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body4body3ShortAnswerProblem,14,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body5ShortAnswerProblem,20,20.0,10.0,0.0,10.0,"""5""",10.0,"""1/5x + 3""",0.0,,Algebra B
+23885,Inverse Functions,31,body6ShortAnswerProblem,28,42.857142857142854,7.142857142857143,0.0,14.285714285714286,"""(u-3)/5""",7.142857142857143,"""(x-3)/5""",7.142857142857143,"""4""",Algebra B
+23885,Inverse Functions,31,body7ShortAnswerProblem,26,38.46153846153846,30.76923076923077,0.0,15.384615384615383,"""(u+3)/5""",7.6923076923076925,"""r(x)""",7.6923076923076925,"""3""",Algebra B
+23885,Inverse Functions,31,body8ShortAnswerProblem,12,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23885,Inverse Functions,31,body9body1ShortAnswerProblem,12,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23964,Anatomy Class,3,body0DynamicGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body10MultiAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"[0,1]",0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body14MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body16MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body1DragDropCategories,10,20.0,0.0,0.0,20.0,"[""0: 0"",""0: 1"",""1: 2""]",0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body21MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body24ShortAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"""4/5""",0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body27MultiAnswerProblem,18,66.66666666666667,0.0,0.0,33.333333333333336,[0],22.22222222222222,[1],11.11111111111111,[4],Algebra B
+23966,Addition and Subtraction of Polynomials,44,body28ShortAnswerProblem,8,50.0,0.0,0.0,25.0,"""3x^2-2x+1""",25.0,"""3x^2+3x+2x""",0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body29MultiAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,[1],0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body4ShortAnswerProblem,8,25.0,0.0,0.0,25.0,"""3x^2-5x^2-7x+4""",0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body5ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body6ShortAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"""2x^4+6x^3+7""",0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body7ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23966,Addition and Subtraction of Polynomials,44,body8MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body16MultiAnswerProblem,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body18ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body19MathjaxBlank,4,50.0,0.0,0.0,50.0,"[""2x^2"",""5"",""x^2"",""x""]",0.0,,0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body23ColumnConnection,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body24ShortAnswerProblem,8,50.0,0.0,0.0,25.0,"""-6x^11""",25.0,"""-6x^9""",0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body29MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body31MultiAnswerProblem,16,75.0,0.0,0.0,25.0,[3],25.0,[2],12.5,[1],Algebra B
+23967,Multiplication of Polynomials,49,body32MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body33MultiAnswerProblem,8,50.0,0.0,0.0,25.0,[2],25.0,[1],0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body34ShortAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"""29""",0.0,,0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body4MathjaxBlank,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body6ShortAnswerProblem,8,25.0,0.0,0.0,25.0,"""2000+300+10+400+60+2""",0.0,,0.0,,Algebra B
+23967,Multiplication of Polynomials,49,body9ShortAnswerProblem,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body10MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body12MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body13MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body14MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body15MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body18ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body21MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body23ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body24ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body25ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body3DynamicGraph,4,0.0,50.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body3DynamicGraphgive-up-trigger0MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body4DynamicGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body5MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body7DynamicGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body8SelectGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23983,Standard Form of Quadratics,10,body9SelectGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23989,Introduction to Polynomials,27,body11ShortAnswerProblem,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23989,Introduction to Polynomials,27,body12ShortAnswerProblem,12,33.333333333333336,0.0,0.0,33.333333333333336,"""3""",0.0,,0.0,,Algebra B
+23989,Introduction to Polynomials,27,body13ShortAnswerProblem,10,20.0,0.0,0.0,20.0,"""1""",0.0,,0.0,,Algebra B
+23989,Introduction to Polynomials,27,body14ShortAnswerProblem,10,20.0,0.0,0.0,20.0,"""5""",0.0,,0.0,,Algebra B
+23989,Introduction to Polynomials,27,body15body4MultiAnswerProblem,10,20.0,0.0,0.0,20.0,[0],0.0,,0.0,,Algebra B
+23989,Introduction to Polynomials,27,body16ShortAnswerProblem,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23989,Introduction to Polynomials,27,body18MultiAnswerProblem,12,33.333333333333336,0.0,0.0,16.666666666666668,[1],16.666666666666668,[0],0.0,,Algebra B
+23989,Introduction to Polynomials,27,body19MultiAnswerProblem,18,55.55555555555556,0.0,0.0,22.22222222222222,[1],11.11111111111111,[2],11.11111111111111,[0],Algebra B
+23989,Introduction to Polynomials,27,body21ShortAnswerProblem,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23989,Introduction to Polynomials,27,body2MultiAnswerProblem,18,55.55555555555556,0.0,0.0,22.22222222222222,[0],22.22222222222222,"[0,2]",11.11111111111111,"[0,3]",Algebra B
+23989,Introduction to Polynomials,27,body3MultiAnswerProblem,28,71.42857142857143,0.0,0.0,14.285714285714286,"[0,1,2,3]",14.285714285714286,"[1,2,3]",14.285714285714286,[1],Algebra B
+23989,Introduction to Polynomials,27,body7MathjaxBlank,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23989,Introduction to Polynomials,27,body8ShortAnswerProblem,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+23989,Introduction to Polynomials,27,body9ShortAnswerProblem,10,20.0,0.0,0.0,20.0,"""1""",0.0,,0.0,,Algebra B
+24041,Challenging Polynomial Problems,59,body16ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24041,Challenging Polynomial Problems,59,body1ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24041,Challenging Polynomial Problems,59,body20ShortAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"""x^2-1""",0.0,,0.0,,Algebra B
+24041,Challenging Polynomial Problems,59,body27MultiAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24041,Challenging Polynomial Problems,59,body28SelectGraph,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24041,Challenging Polynomial Problems,59,body30MultiAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24041,Challenging Polynomial Problems,59,body31DynamicGraph,6,33.333333333333336,0.0,0.0,33.333333333333336,"[""1"",""0"",""-1""]",0.0,,0.0,,Algebra B
+24041,Challenging Polynomial Problems,59,body32ShortAnswerProblem,8,50.0,0.0,0.0,25.0,"""none""",25.0,"""1.2x^2-1""",0.0,,Algebra B
+24041,Challenging Polynomial Problems,59,body37body6DynamicGraph,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24124,Arithmetic Sequences,27,body17ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24124,Arithmetic Sequences,27,body19MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24124,Arithmetic Sequences,27,body25ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24124,Arithmetic Sequences,27,body27ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24124,Arithmetic Sequences,27,body2body4ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""0.5""",0.0,,0.0,,Algebra B
+24124,Arithmetic Sequences,27,body30ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24124,Arithmetic Sequences,27,body3MultiAnswerProblem,4,50.0,0.0,0.0,50.0,"[0,4]",0.0,,0.0,,Algebra B
+24124,Arithmetic Sequences,27,body5ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24124,Arithmetic Sequences,27,body7ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24124,Arithmetic Sequences,27,body9ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body11MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body12MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body13MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body14ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body17ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body18ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body20MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body24body5MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body26ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body2MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body38MathjaxBlank,4,0.0,0.0,50.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body3MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body40ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body42ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body47ShortAnswerProblem,6,66.66666666666667,0.0,0.0,33.333333333333336,"""0.7""",33.333333333333336,"""3.5""",0.0,,Algebra B
+24183,Arithmetic Series,51,body4MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body5MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body7ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24183,Arithmetic Series,51,body9ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24184,Geometric Sequences,28,body11ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24184,Geometric Sequences,28,body13ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24184,Geometric Sequences,28,body15ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24184,Geometric Sequences,28,body17ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24184,Geometric Sequences,28,body19ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""15sqrt(6), 90, 90sqrt(6)""",0.0,,0.0,,Algebra B
+24184,Geometric Sequences,28,body29ShortAnswerProblem,12,83.33333333333333,0.0,0.0,16.666666666666668,"""15(r/15)""",16.666666666666668,"""r(15n-15)""",16.666666666666668,"""15r^(n+1)""",Algebra B
+24184,Geometric Sequences,28,body2ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24184,Geometric Sequences,28,body31ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24184,Geometric Sequences,28,body4MultiAnswerProblem,4,50.0,0.0,50.0,50.0,[2],0.0,,0.0,,Algebra B
+24184,Geometric Sequences,28,body6MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24184,Geometric Sequences,28,body8MultiAnswerProblem,4,50.0,0.0,0.0,50.0,"[0,1,2]",0.0,,0.0,,Algebra B
+24185,A Curious Geometry Problem,55,body12ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24185,A Curious Geometry Problem,55,body14ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24185,A Curious Geometry Problem,55,body16ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24185,A Curious Geometry Problem,55,body18MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24185,A Curious Geometry Problem,55,body20MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24185,A Curious Geometry Problem,55,body22ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24185,A Curious Geometry Problem,55,body24MathjaxBlank,4,50.0,0.0,0.0,50.0,"[""0"",""1"",""2"",""3""]",0.0,,0.0,,Algebra B
+24185,A Curious Geometry Problem,55,body26ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24185,A Curious Geometry Problem,55,body4ShortAnswerProblem,6,66.66666666666667,0.0,0.0,33.333333333333336,"""sqrt""",33.333333333333336,"""sqrt(2)/4""",0.0,,Algebra B
+24186,Finite Geometric Series,57,body11ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24186,Finite Geometric Series,57,body14ShortAnswerProblem,6,66.66666666666667,0.0,0.0,33.333333333333336,"""(3^20+1)/3""",33.333333333333336,"""(3^20-1)/3""",0.0,,Algebra B
+24186,Finite Geometric Series,57,body1ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""1/3""",0.0,,0.0,,Algebra B
+24186,Finite Geometric Series,57,body20ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24186,Finite Geometric Series,57,body37ShortAnswerProblem,6,66.66666666666667,0.0,0.0,33.333333333333336,"""a""",33.333333333333336,"""1/a""",0.0,,Algebra B
+24186,Finite Geometric Series,57,body38MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24186,Finite Geometric Series,57,body40ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""ar^n-a""",0.0,,0.0,,Algebra B
+24186,Finite Geometric Series,57,body42ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24186,Finite Geometric Series,57,body45ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""381/64""",0.0,,0.0,,Algebra B
+24186,Finite Geometric Series,57,body6MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24186,Finite Geometric Series,57,body7MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24186,Finite Geometric Series,57,body9ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""3/4b=1/4""",0.0,,0.0,,Algebra B
+24187,Geometric Series Problems,39,body18MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24187,Geometric Series Problems,39,body19MathjaxBlank,12,16.666666666666668,0.0,0.0,16.666666666666668,"[""$\\text{diverges}$"",""$\\text{converges}$""]",0.0,,0.0,,Algebra B
+24187,Geometric Series Problems,39,body5MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24187,Geometric Series Problems,39,body6ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24187,Geometric Series Problems,39,body8ShortAnswerProblem,30,53.333333333333336,0.0,0.0,46.666666666666664,"""1/1+x""",6.666666666666667,"""0""",0.0,,Algebra B
+24249,Division of Polynomials (Optional),20,body3ShortAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24249,Division of Polynomials (Optional),20,body5ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24249,Division of Polynomials (Optional),20,body7ShortAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"""3x^2+20x-7""",0.0,,0.0,,Algebra B
+24361,Exponential Functions,60,body10MathjaxBlank,8,25.0,0.0,75.0,25.0,"[""10""]",0.0,,0.0,,Algebra B
+24361,Exponential Functions,60,body13MathjaxBlank,22,72.72727272727273,9.090909090909092,0.0,18.181818181818183,"[""5000"",""1267650600200000000000000000000""]",9.090909090909092,"[""5050"",""2048^10""]",9.090909090909092,"[""5050"",""1.2980742e+33""]",Algebra B
+24361,Exponential Functions,60,body16MathjaxBlank,6,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24361,Exponential Functions,60,body20MathjaxBlank,8,25.0,0.0,0.0,25.0,"[""2"",""3"",""4""]",0.0,,0.0,,Algebra B
+24361,Exponential Functions,60,body21MathjaxBlank,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24361,Exponential Functions,60,body23MathjaxBlank,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24361,Exponential Functions,60,body25MathjaxBlank,14,57.142857142857146,14.285714285714286,28.571428571428573,14.285714285714286,"[""4"",""5"",""6""]",14.285714285714286,"[""3"",""3"",""3""]",14.285714285714286,"[""2"",""2"",""2""]",Algebra B
+24361,Exponential Functions,60,body27MathjaxBlank,10,40.0,0.0,0.0,20.0,"[""3""]",20.0,"[""5""]",0.0,,Algebra B
+24361,Exponential Functions,60,body29MathjaxBlank,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24361,Exponential Functions,60,body30MultiAnswerProblem,10,40.0,0.0,0.0,20.0,[0],20.0,[1],0.0,,Algebra B
+24361,Exponential Functions,60,body32MathjaxBlank,8,25.0,0.0,0.0,25.0,"[""20""]",0.0,,0.0,,Algebra B
+24361,Exponential Functions,60,body6MathjaxBlank,8,25.0,0.0,0.0,25.0,"[""16"",""200""]",0.0,,0.0,,Algebra B
+24361,Exponential Functions,60,body9MathjaxBlank,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24367,Infinite Geometric Series,33,body12MathjaxBlank,4,50.0,0.0,0.0,50.0,"[""1"",""1/2"",""1000""]",0.0,,0.0,,Algebra B
+24367,Infinite Geometric Series,33,body14MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24367,Infinite Geometric Series,33,body15MathjaxBlank,4,50.0,0.0,0.0,50.0,"[""2"",""0""]",0.0,,0.0,,Algebra B
+24367,Infinite Geometric Series,33,body19MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24367,Infinite Geometric Series,33,body1ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24367,Infinite Geometric Series,33,body20MultiAnswerProblem,6,66.66666666666667,0.0,0.0,33.333333333333336,"[0,1,2,3]",33.333333333333336,"[2,3]",0.0,,Algebra B
+24367,Infinite Geometric Series,33,body22ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24367,Infinite Geometric Series,33,body24ShortAnswerProblem,14,85.71428571428571,0.0,0.0,14.285714285714286,"""0""",14.285714285714286,"""a""",14.285714285714286,"""1""",Algebra B
+24367,Infinite Geometric Series,33,body26ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""undefined""",0.0,,0.0,,Algebra B
+24367,Infinite Geometric Series,33,body9ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body14ShortAnswerProblem,4,50.0,0.0,50.0,50.0,"""2""",0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body1MathjaxBlank,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body22MultiAnswerProblem,4,50.0,0.0,0.0,50.0,[1],0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body23ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body26ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body2MathjaxBlank,6,33.333333333333336,0.0,66.66666666666667,33.333333333333336,"[""inputs""]",0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body46MultiAnswerProblem,4,50.0,0.0,50.0,50.0,[1],0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body48ShortAnswerProblem,4,50.0,0.0,50.0,50.0,"""216""",0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body4ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body61ShortAnswerProblem,4,50.0,0.0,50.0,50.0,"""2""",0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body71MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24396,Algebra with Exponential Functions,58,body8ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body10MultiAnswerProblem,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body12MathjaxBlank,12,50.0,0.0,0.0,16.666666666666668,"[""k"",""a"",""x""]",16.666666666666668,"[""a"",""ka"",""x""]",16.666666666666668,"[""a"",""a"",""x""]",Algebra B
+24397,More Graphing Exponential Functions,50,body13MathjaxBlank,10,40.0,0.0,0.0,20.0,"[""k""]",20.0,"[""x""]",0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body16MathjaxBlank,10,40.0,0.0,60.0,40.0,"[""2/"",""3""]",0.0,,0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body20MultiAnswerProblem,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body22MultiAnswerProblem,8,25.0,0.0,0.0,25.0,[1],0.0,,0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body29MathjaxBlank,16,62.5,0.0,0.0,12.5,"[""increasing"",""decreasing"",""increasing"",""decreasing""]",12.5,"[""increasing"",""increasing"",""decreasing"",""decreasing""]",12.5,"[""increasing"",""decreasing"",""increasing"",""decreasing""]",Algebra B
+24397,More Graphing Exponential Functions,50,body2MultiAnswerProblem,10,40.0,0.0,0.0,20.0,[1],20.0,[0],0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body32MultiAnswerProblem,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body3MathjaxBlank,8,25.0,0.0,25.0,25.0,"[""beeep""]",0.0,,0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body4MathjaxBlank,8,25.0,0.0,75.0,25.0,"[""-3"",""3""]",0.0,,0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body6ColumnConnection,6,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24397,More Graphing Exponential Functions,50,body8MathjaxBlank,8,25.0,25.0,0.0,25.0,"[""1"",""1/9"",""4"",""16""]",0.0,,0.0,,Algebra B
+24440,Telescoping,35,body10MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24440,Telescoping,35,body12ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""192/715""",0.0,,0.0,,Algebra B
+24440,Telescoping,35,body14ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""51/50""",0.0,,0.0,,Algebra B
+24440,Telescoping,35,body1MultiAnswerProblem,16,87.5,0.0,12.5,12.5,[5],12.5,[1],12.5,[6],Algebra B
+24440,Telescoping,35,body29ShortAnswerProblem,6,66.66666666666667,0.0,0.0,33.333333333333336,"""9/10""",33.333333333333336,"""3sqrt(11)/10""",0.0,,Algebra B
+24440,Telescoping,35,body3ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24440,Telescoping,35,body45body1MultiAnswerProblemoptions0trigger2MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24440,Telescoping,35,body46ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24440,Telescoping,35,body6MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24440,Telescoping,35,body8MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24445,A Brief Intermission - Tortoise v. Hare,15,body5MathjaxBlank,30,66.66666666666667,20.0,13.333333333333334,40.0,"[""1024"",""1.0201"",""59049"",""1.030301"",""1,048,576"",""1.04060401""]",20.0,"[""1024"",""1.0201"",""59,049"",""1.030301"",""1,048,576"",""1.04060401""]",6.666666666666667,"[""2^10"",""1.01^2"",""3^10"",""1.01^3"",""4^10"",""1.01^4""]",Algebra B
+24462,Graphing Functions,46,body10MultiAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24462,Graphing Functions,46,body11MathjaxBlank,12,16.666666666666668,0.0,0.0,16.666666666666668,"[""up"",""2"",""0""]",0.0,,0.0,,Algebra B
+24462,Graphing Functions,46,body15body1DynamicGraph,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24462,Graphing Functions,46,body16ShortAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24462,Graphing Functions,46,body17body1DynamicGraph,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24462,Graphing Functions,46,body18ShortAnswerProblem,14,28.571428571428573,0.0,0.0,14.285714285714286,"""0.78""",14.285714285714286,"""0""",0.0,,Algebra B
+24462,Graphing Functions,46,body18ShortAnswerProblemoptions1trigger1DynamicGraph,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24462,Graphing Functions,46,body3MultiAnswerProblem,12,16.666666666666668,0.0,0.0,16.666666666666668,[0],0.0,,0.0,,Algebra B
+24462,Graphing Functions,46,body7MultiAnswerProblem,12,16.666666666666668,0.0,0.0,16.666666666666668,[1],0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body11SelectGraph,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body12SelectGraph,20,30.0,0.0,0.0,20.0,"[4,7,24,32,39,68]",10.0,"[4,16,24,32,39,59]",0.0,,Algebra B
+24500,Vertical Line Test,32,body15MultiAnswerProblem,18,33.333333333333336,0.0,0.0,22.22222222222222,[3],11.11111111111111,[1],0.0,,Algebra B
+24500,Vertical Line Test,32,body16DragDropMathjax,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body21MultiAnswerProblem,14,14.285714285714286,0.0,0.0,14.285714285714286,[0],0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body23DragDropMathjax,16,12.5,0.0,0.0,12.5,"[2,3,5,4]",0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body26DynamicGraph,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body29MultiAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body30MultiAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body31MultiAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body4MultiAnswerProblem,18,22.22222222222222,0.0,0.0,22.22222222222222,[1],0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body5MultiAnswerProblem,14,14.285714285714286,0.0,0.0,14.285714285714286,[2],0.0,,0.0,,Algebra B
+24500,Vertical Line Test,32,body8DragDropCategories,14,28.571428571428573,0.0,0.0,14.285714285714286,"[""0: 0"",""0: 2"",""1: 1"",""1: 3"",""1: 4""]",14.285714285714286,"[""0: 2"",""0: 3"",""1: 0"",""1: 1"",""1: 4""]",0.0,,Algebra B
+24506,Introduction to Interest,67,body10MathjaxBlank,6,33.333333333333336,0.0,66.66666666666667,33.333333333333336,"[""620"",""660"",""900""]",0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body17MathjaxBlank,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body37DragDropMathjax,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body46ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body47MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body48ShortAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"""58.32""",0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body50ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body52ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body53ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body54MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body55MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body56MathjaxBlank,8,75.0,0.0,0.0,25.0,"[""1.08"",""100"",""1099880.62""]",25.0,"[""1.08"",""100"",""109,988.06""]",25.0,"[""1.08"",""100"",""109988.06""]",Algebra B
+24506,Introduction to Interest,67,body58MultiAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,[0],0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body59MathjaxBlank,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body7ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body80DragDropMathjax,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body86MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body8ShortAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24506,Introduction to Interest,67,body9ShortAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"""583.2""",0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body11MultiAnswerProblem,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body12MultiAnswerProblem,8,25.0,0.0,0.0,25.0,[0],0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body14ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body15ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body16ShortAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"""54.12""",0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body18MathjaxBlank,6,33.333333333333336,33.333333333333336,0.0,33.333333333333336,"[""585.83"",""686.39"",""742.97""]",0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body19MathjaxBlank,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body24MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body25MathjaxBlank,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body39DragDropMathjax,10,60.0,0.0,40.0,20.0,"[4,5,0,3]",20.0,"[4,2,6,3]",20.0,"[4,1,6,3]",Algebra B
+24508,Interest-ing Problems,45,body45MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body49ShortAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body56DragDropMathjax,8,75.0,0.0,25.0,25.0,"[3,2,1,0]",25.0,"[2,3,1,0]",25.0,"[2,1,3,0]",Algebra B
+24508,Interest-ing Problems,45,body57ShortAnswerProblem,4,50.0,50.0,0.0,50.0,"""1,013,638.72""",0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body58ShortAnswerProblem,4,50.0,50.0,0.0,50.0,"""2,436""",0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body59ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24508,Interest-ing Problems,45,body5ShortAnswerProblem,18,66.66666666666667,0.0,33.333333333333336,11.11111111111111,"""114.7%""",11.11111111111111,"""52.8%""",11.11111111111111,"""73.21%""",Algebra B
+24508,Interest-ing Problems,45,body60ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body10MathjaxBlank,12,33.333333333333336,0.0,66.66666666666667,16.666666666666668,"[""2^1.5"",""2^2.5"",""2^3.5""]",16.666666666666668,"[""2 2"",""4 2"",""8 2""]",0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body13MultiAnswerProblem,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body14MultiAnswerProblem,10,60.0,0.0,40.0,40.0,[1],20.0,[3],0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body21MultiAnswerProblem,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body22ShortAnswerProblem,12,33.333333333333336,16.666666666666668,50.0,33.333333333333336,"""(-inf, inf)""",0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body25MathjaxBlank,16,50.0,0.0,50.0,37.5,"[""15"",""0.6"",""4"",""7""]",12.5,"[""16"",""0.6"",""4"",""7""]",0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body27DragDropMathjax,10,20.0,0.0,0.0,20.0,"[1,3,0,2]",0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body29DragDropMathjax,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body31MultiAnswerProblem,10,20.0,0.0,0.0,20.0,[1],0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body32ShortAnswerProblem,14,42.857142857142854,14.285714285714286,0.0,14.285714285714286,"""1""",14.285714285714286,"""a+1""",14.285714285714286,"""x+1""",Algebra B
+24578,Graphing Exponential Functions,11,body33MathjaxBlank,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body34MathjaxBlank,16,50.0,0.0,0.0,37.5,"[""1""]",12.5,"[""0.1""]",0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body36MathjaxBlank,10,20.0,0.0,80.0,20.0,"[""all positive numbers"",""all real numbers"",""$(0,1)$""]",0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body39MathjaxBlank,10,20.0,0.0,0.0,20.0,"[""1/8"",""1/4"",""1/2"",""1"",""2"",""3"",""4""]",0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body3SelectGraph,10,20.0,0.0,0.0,20.0,"[19,28,45,78]",0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body41MultiAnswerProblem,10,20.0,0.0,0.0,20.0,[0],0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body42MultiAnswerProblem,10,20.0,0.0,0.0,20.0,[1],0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body43MultiAnswerProblem,8,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body44MathjaxBlank,8,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body5MathjaxBlank,8,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body7MultiAnswerProblem,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24578,Graphing Exponential Functions,11,body8MathjaxBlank,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24626,Chapter 1 Feedback,2,body2MultiAnswerProblem,48,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24626,Chapter 1 Feedback,2,body3ShortAnswerProblem,48,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24630,Raising Equations to Powers,19,body16ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24630,Raising Equations to Powers,19,body1ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24630,Raising Equations to Powers,19,body20MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24630,Raising Equations to Powers,19,body22ShortAnswerProblem,6,66.66666666666667,0.0,0.0,33.333333333333336,"""(-29-sqrt(721))/6""",33.333333333333336,"""(-29-sqrt(721)/6""",0.0,,Algebra B
+24630,Raising Equations to Powers,19,body31MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24630,Raising Equations to Powers,19,body7MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24630,Raising Equations to Powers,19,body8ShortAnswerProblem,14,57.142857142857146,0.0,0.0,42.857142857142854,"""r^3+3r+3/x+1/x^3""",14.285714285714286,"""r^3+3r^2+3/r^2+1/r^3""",0.0,,Algebra B
+24631,Self-similarity,14,body12ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24631,Self-similarity,14,body2ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24632,Symmetry,24,body10ShortAnswerProblem,10,80.0,0.0,20.0,20.0,"""28/9""",20.0,"""22/3""",20.0,"""3""",Algebra B
+24632,Symmetry,24,body1ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24721,Introduction to Logarithms,35,body1MathjaxBlank,4,0.0,100.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24722,Graphing Logarithmic Functions,43,body12MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24722,Graphing Logarithmic Functions,43,body16MultiAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,[1],0.0,,0.0,,Algebra B
+24722,Graphing Logarithmic Functions,43,body19DragDropMathjax,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24722,Graphing Logarithmic Functions,43,body1DragDropMathjax,6,33.333333333333336,0.0,0.0,33.333333333333336,"[""0: 0"",""1: 2"",""2: 1""]",0.0,,0.0,,Algebra B
+24722,Graphing Logarithmic Functions,43,body2MultiAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,[2],0.0,,0.0,,Algebra B
+24722,Graphing Logarithmic Functions,43,body3MultiAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,[0],0.0,,0.0,,Algebra B
+24722,Graphing Logarithmic Functions,43,body6SelectGraph,6,33.333333333333336,0.0,0.0,33.333333333333336,"[40,54,70]",0.0,,0.0,,Algebra B
+24722,Graphing Logarithmic Functions,43,body9MathjaxBlank,4,0.0,50.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24756,bug testing stuff,1,body0DynamicGraph,26,46.15384615384615,53.84615384615385,0.0,38.46153846153846,,7.6923076923076925,"[""1"",""0"",""0""]",0.0,,Algebra B
+24779,Logarithms,37,body10MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body11ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""cube root""",0.0,,0.0,,Algebra B
+24779,Logarithms,37,body16MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body17MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body19DragDropMathjax,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body1MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body22MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body24ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body28ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body29ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body2MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body32ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body36ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body39ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body45MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body46ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body48MathjaxBlank,8,75.0,0.0,0.0,50.0,"[""log"",""4"",""64"",""6""]",25.0,"[""log"",""4"",""64"",""6""]",0.0,,Algebra B
+24779,Logarithms,37,body49MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body51DragDropMathjax,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body53MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body55ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body58ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body65MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body66ShortAnswerProblem,4,50.0,0.0,50.0,50.0,"""-7/2""",0.0,,0.0,,Algebra B
+24779,Logarithms,37,body6ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body72MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body75MathjaxBlank,8,75.0,25.0,0.0,25.0,"[""variable"",""b"",""a""]",25.0,"[""x"",""b"",""a""]",25.0,"[""number"",""b"",""a""]",Algebra B
+24779,Logarithms,37,body78ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body7MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body81ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body84ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body87ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body8MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body91MultiAnswerProblem,4,50.0,0.0,0.0,50.0,[2],0.0,,0.0,,Algebra B
+24779,Logarithms,37,body92DragDropMathjax,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body93MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body94MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body95ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24779,Logarithms,37,body9ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body12MultiAnswerProblem,8,25.0,0.0,0.0,25.0,[0],0.0,,0.0,,Algebra B
+24798,Radicals,36,body13MultiAnswerProblem,8,25.0,0.0,0.0,25.0,[1],0.0,,0.0,,Algebra B
+24798,Radicals,36,body14ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body15MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body16ShortAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body19ShortAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body23MultiAnswerProblem,10,40.0,0.0,0.0,40.0,[2],0.0,,0.0,,Algebra B
+24798,Radicals,36,body27MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body28ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body31MathjaxBlank,28,78.57142857142857,0.0,0.0,21.428571428571427,"[""+,-"",""=""]",14.285714285714286,"[""+,-"",""+""]",14.285714285714286,"[""<"",""<""]",Algebra B
+24798,Radicals,36,body32MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body33MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body36MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body39MultiAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body41ShortAnswerProblem,8,25.0,50.0,0.0,25.0,"""3,5,(12-√3)/3,(12+√3)/3""",0.0,,0.0,,Algebra B
+24798,Radicals,36,body43MultiAnswerProblem,10,40.0,0.0,0.0,40.0,[2],0.0,,0.0,,Algebra B
+24798,Radicals,36,body44MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24798,Radicals,36,body45ShortAnswerProblem,14,57.142857142857146,0.0,42.857142857142854,14.285714285714286,"""1""",14.285714285714286,"""1,-4""",14.285714285714286,"""-1,4""",Algebra B
+24798,Radicals,36,body4MultiAnswerProblem,10,40.0,0.0,0.0,40.0,[2],0.0,,0.0,,Algebra B
+24798,Radicals,36,body5MultiAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,[0],0.0,,0.0,,Algebra B
+24798,Radicals,36,body6SelectGraph,6,33.333333333333336,0.0,66.66666666666667,33.333333333333336,"[26,41,58]",0.0,,0.0,,Algebra B
+24812,Completing the Square II,9,body2MathjaxBlank,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24812,Completing the Square II,9,body5MathjaxBlank,10,60.0,0.0,20.0,40.0,"[""14"",""316"",""4""]",20.0,"[""14"",""316"",""2""]",0.0,,Algebra B
+24814,Completing the Square I,8,body2MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24814,Completing the Square I,8,body4MathjaxBlank,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24815,Proving the Quadratic Formula,2,body10MultiAnswerProblem,32,12.5,0.0,0.0,6.25,[1],6.25,[2],0.0,,Algebra B
+24815,Proving the Quadratic Formula,2,body12MathjaxBlank,50,20.0,8.0,0.0,12.0,"[""b"",""2a""]",4.0,"[""-b"",""-2a""]",4.0,"[""-a"",""2a""]",Algebra B
+24815,Proving the Quadratic Formula,2,body14MathjaxBlank,42,33.333333333333336,9.523809523809524,0.0,19.047619047619047,"[""$\\text{multiply by }$"",""2""]",14.285714285714286,"[""$\\text{multiply by }$"",""1""]",0.0,,Algebra B
+24815,Proving the Quadratic Formula,2,body17MathjaxBlank,44,72.72727272727273,0.0,0.0,18.181818181818183,"[""$\\text{multiply by }$"",""b""]",13.636363636363637,"[""$\\text{multiply by }$"",""2""]",13.636363636363637,"[""$\\text{add }$"",""2""]",Algebra B
+24815,Proving the Quadratic Formula,2,body17MathjaxBlankhints1trigger1MultiAnswerProblem,10,20.0,0.0,0.0,20.0,[0],0.0,,0.0,,Algebra B
+24815,Proving the Quadratic Formula,2,body19MultiAnswerProblem,16,25.0,0.0,0.0,12.5,[1],12.5,[2],0.0,,Algebra B
+24815,Proving the Quadratic Formula,2,body21MathjaxBlank,58,55.172413793103445,24.13793103448276,0.0,10.344827586206897,"[""x"",""2a""]",10.344827586206897,"[""2ax"",""b""]",10.344827586206897,"[""c"",""2a""]",Algebra B
+24815,Proving the Quadratic Formula,2,body22body1MultiAnswerProblem,48,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24815,Proving the Quadratic Formula,2,body4MathjaxBlank,88,29.545454545454547,20.454545454545453,2.272727272727273,6.818181818181818,"[""2"",""1"",""0""]",6.818181818181818,"[""2"",""-14"",""15""]",6.818181818181818,"[""2"",""14"",""-15""]",Algebra B
+24815,Proving the Quadratic Formula,2,body5MultiAnswerProblem,142,47.88732394366197,0.0,0.0,18.309859154929576,[3],16.901408450704224,[0],12.67605633802817,[2],Algebra B
+24815,Proving the Quadratic Formula,2,body6MathjaxBlank,78,56.41025641025641,0.0,43.58974358974359,15.384615384615383,"[""$\\text{add }$"",""c""]",7.6923076923076925,"[""$\\text{add }$"",""a""]",7.6923076923076925,"[""$\\text{add }$"",""c""]",Algebra B
+24815,Proving the Quadratic Formula,2,body6MathjaxBlankhints1trigger1MultiAnswerProblem,52,42.30769230769231,0.0,57.69230769230769,23.076923076923077,[0],11.538461538461538,[2],7.6923076923076925,[4],Algebra B
+24815,Proving the Quadratic Formula,2,body8MathjaxBlank,56,71.42857142857143,0.0,0.0,14.285714285714286,"[""$\\text{add }$"",""b^2"",""a^2""]",10.714285714285714,"[""$\\text{add }$"",""b"",""2a""]",7.142857142857143,"[""$\\text{add }$"",""b"",""a""]",Algebra B
+24815,Proving the Quadratic Formula,2,body8MathjaxBlankhints1trigger1MultiAnswerProblem,28,42.857142857142854,0.0,0.0,21.428571428571427,[0],21.428571428571427,[1],0.0,,Algebra B
+24816,Using the Quadratic Formula,7,body2MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24816,Using the Quadratic Formula,7,body7MathjaxBlank,2,0.0,100.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24816,Using the Quadratic Formula,7,body9MathjaxBlank,4,50.0,0.0,50.0,50.0,"[""3"",""7""]",0.0,,0.0,,Algebra B
+24817,The Discriminant,20,body11MathjaxBlank,54,29.62962962962963,22.22222222222222,0.0,7.407407407407407,"[""-35"",""0""]",7.407407407407407,"[""a positive"",""2""]",3.703703703703704,"[""7"",""2""]",Algebra B
+24817,The Discriminant,20,body13ShortAnswerProblem,38,89.47368421052632,0.0,10.526315789473683,15.789473684210526,"""no""",5.2631578947368425,"""no""",5.2631578947368425,"""i""",Algebra B
+24817,The Discriminant,20,body15ShortAnswerProblem,42,23.80952380952381,0.0,0.0,4.761904761904762,"""-2""",4.761904761904762,"""15""",4.761904761904762,"""2""",Algebra B
+24817,The Discriminant,20,body17MultiAnswerProblem,8,25.0,0.0,75.0,25.0,[2],0.0,,0.0,,Algebra B
+24817,The Discriminant,20,body18ShortAnswerProblem,14,71.42857142857143,14.285714285714286,0.0,14.285714285714286,"""26""",14.285714285714286,"""16""",14.285714285714286,"""ok""",Algebra B
+24817,The Discriminant,20,body1ShortAnswerProblem,40,15.0,0.0,0.0,5.0,"""2/3""",5.0,"""0""",5.0,"""16/9""",Algebra B
+24817,The Discriminant,20,body20ShortAnswerProblem,6,33.333333333333336,33.333333333333336,0.0,33.333333333333336,"""0""",0.0,,0.0,,Algebra B
+24817,The Discriminant,20,body23MultiAnswerProblem,116,36.206896551724135,0.0,63.793103448275865,13.79310344827586,[0],13.79310344827586,[1],8.620689655172415,[3],Algebra B
+24817,The Discriminant,20,body6DragDropCategories,152,67.10526315789474,5.2631578947368425,0.0,9.210526315789474,"[""0: 1"",""0: 2"",""0: 3"",""1: 0"",""2: 4""]",6.578947368421052,"[""0: 1"",""0: 3"",""1: 0"",""1: 2"",""1: 4""]",5.2631578947368425,"[""0: 1"",""0: 3"",""1: 0"",""1: 4"",""2: 2""]",Algebra B
+24817,The Discriminant,20,body8MultiAnswerProblem,38,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24817,The Discriminant,20,body9DragDropMathjax,54,25.925925925925927,18.51851851851852,0.0,7.407407407407407,"[0,3,1]",3.703703703703704,"[0,2,3]",3.703703703703704,"[2,3,1]",Algebra B
+24818,Absolute Value,71,body10MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body11DragDropMathjax,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body15MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body16MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body17MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body19SelectGraph,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body23ShortAnswerProblem,8,50.0,25.0,0.0,25.0,"""6,2""",25.0,"""2,6""",0.0,,Algebra B
+24818,Absolute Value,71,body26MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body28MultiAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,[2],0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body36ShortAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"""|t^2-5t|=2""",0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body38ShortAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body44MultiAnswerProblem,10,60.0,0.0,0.0,40.0,[1],20.0,[2],0.0,,Algebra B
+24818,Absolute Value,71,body47MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body49ShortAnswerProblem,10,60.0,0.0,40.0,20.0,"""1, -5""",20.0,"""1, -3""",20.0,"""1,-5""",Algebra B
+24818,Absolute Value,71,body4MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body53MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body54MultiAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,[2],0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body55ShortAnswerProblem,14,71.42857142857143,0.0,0.0,28.571428571428573,"""x^2-10x+15=0""",14.285714285714286,"""x^2-8x+16=2x+1""",14.285714285714286,"""x^2-10x+15""",Algebra B
+24818,Absolute Value,71,body6MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24818,Absolute Value,71,body8MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24855,i,5,body2ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""(3^.5)i""",0.0,,0.0,,Algebra B
+24855,i,5,body3ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body11ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body12ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body13ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body14ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body15ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body16ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body18ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body19ShortAnswerProblem,8,25.0,0.0,0.0,25.0,"""9""",0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body20ShortAnswerProblem,8,25.0,0.0,0.0,25.0,"""10""",0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body21MultiAnswerProblem,8,25.0,0.0,0.0,25.0,[0],0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body22ShortAnswerProblem,8,25.0,0.0,0.0,25.0,"""[3,4.5)""",0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body23MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body25MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body26ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body27MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body2MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body30MultiAnswerProblem,4,50.0,0.0,0.0,50.0,[1],0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body31ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""8.4""",0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body35MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body37ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body42MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body43MultiAnswerProblem,4,50.0,0.0,0.0,50.0,[1],0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body4MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body6MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body8ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24862,Floor and Ceiling,35,body9ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body11MultiAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body12MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body15ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body19ShortAnswerProblem,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body26MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body28ShortAnswerProblem,4,50.0,0.0,0.0,50.0,"""-1""",0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body29ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body30ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body32MultiAnswerProblem,4,50.0,0.0,0.0,50.0,[1],0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body33MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body35MathjaxBlank,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body37ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body39MultiAnswerProblem,4,50.0,0.0,0.0,50.0,[0],0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body44MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body5MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body7MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24894,Rational Functions,36,body9MultiAnswerProblem,4,50.0,0.0,0.0,50.0,[0],0.0,,0.0,,Algebra B
+24921,Piecewise Functions,18,body10MultiAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,[2],0.0,,0.0,,Algebra B
+24921,Piecewise Functions,18,body15MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24921,Piecewise Functions,18,body16MathjaxBlank,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24921,Piecewise Functions,18,body22ShortAnswerProblem,6,33.333333333333336,0.0,66.66666666666667,33.333333333333336,"""-2,1""",0.0,,0.0,,Algebra B
+24921,Piecewise Functions,18,body3ShortAnswerProblem,6,33.333333333333336,0.0,66.66666666666667,33.333333333333336,"""5""",0.0,,0.0,,Algebra B
+24921,Piecewise Functions,18,body5ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24921,Piecewise Functions,18,body6ShortAnswerProblem,6,33.333333333333336,0.0,0.0,33.333333333333336,"""-21""",0.0,,0.0,,Algebra B
+24921,Piecewise Functions,18,body8MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body11MathjaxBlank,60,40.0,10.0,0.0,3.3333333333333335,"[""left"",""2"",""0, 2""]",3.3333333333333335,"[""right"",""2"",""(2,0)""]",3.3333333333333335,"[""up"",""2"",""2""]",Algebra B
+24953,"Quadratic Optimization, Part I",48,body12ShortAnswerProblem,98,53.06122448979592,16.3265306122449,0.0,14.285714285714286,"""-inf""",12.244897959183673,"""x^2""",10.20408163265306,"""-inf-x^2""",Algebra B
+24953,"Quadratic Optimization, Part I",48,body13ShortAnswerProblem,86,44.18604651162791,6.976744186046512,0.0,6.976744186046512,"""-9""",6.976744186046512,"""9""",6.976744186046512,"""3""",Algebra B
+24953,"Quadratic Optimization, Part I",48,body14ShortAnswerProblem,90,53.333333333333336,0.0,46.666666666666664,15.555555555555555,"""7""",11.11111111111111,"""-2""",6.666666666666667,"""2""",Algebra B
+24953,"Quadratic Optimization, Part I",48,body15MultiAnswerProblem,8,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body16MathjaxBlank,8,0.0,50.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body17ShortAnswerProblem,12,33.333333333333336,33.333333333333336,0.0,16.666666666666668,"""0""",16.666666666666668,"""-2""",0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body20ShortAnswerProblem,76,47.36842105263158,2.6315789473684212,0.0,10.526315789473683,"""2,3""",7.894736842105263,"""4,2""",7.894736842105263,"""3,2""",Algebra B
+24953,"Quadratic Optimization, Part I",48,body21MathjaxBlank,58,31.03448275862069,13.79310344827586,0.0,10.344827586206897,"[""an upward"",""minimum"",""-2,3"",""-2""]",3.4482758620689653,"[""an upward"",""minimum"",""-2,3"",""3""]",3.4482758620689653,"[""a downward"",""minimum"",""3"",""3""]",Algebra B
+24953,"Quadratic Optimization, Part I",48,body23MultiAnswerProblem,36,5.555555555555555,0.0,0.0,5.555555555555555,[1],0.0,,0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body24MathjaxBlank,38,5.2631578947368425,5.2631578947368425,0.0,5.2631578947368425,"[""down"",""minimum"",""maximum""]",0.0,,0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body26DragDropMathjax,54,11.11111111111111,3.703703703703704,0.0,11.11111111111111,"[0,2]",0.0,,0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body27ShortAnswerProblem,100,76.0,0.0,24.0,10.0,"""22""",10.0,"""32""",10.0,"""-22""",Algebra B
+24953,"Quadratic Optimization, Part I",48,body28MathjaxBlank,52,46.15384615384615,46.15384615384615,0.0,19.23076923076923,"[""-9"",""9"",""-9"",""3"",""3"",""-4""]",19.23076923076923,"[""-9"",""-9"",""-9"",""-3"",""-3"",""-4""]",3.8461538461538463,"[""9"",""9"",""9"",""3"",""3"",""-4""]",Algebra B
+24953,"Quadratic Optimization, Part I",48,body29ShortAnswerProblem,60,66.66666666666667,20.0,0.0,13.333333333333334,"""-3,4""",10.0,"""4,-3""",10.0,"""4,3""",Algebra B
+24953,"Quadratic Optimization, Part I",48,body33MathjaxBlank,24,25.0,0.0,75.0,8.333333333333334,"[""24"",""16""]",8.333333333333334,"[""10"",""3""]",8.333333333333334,"[""25"",""0""]",Algebra B
+24953,"Quadratic Optimization, Part I",48,body34MathjaxBlank,88,65.9090909090909,27.272727272727273,0.0,11.363636363636363,"[""-3/4"",""9/16"",""3/4"",""3/4"",""3/4"",""7/4""]",11.363636363636363,"[""-3/4"",""-9/16"",""-3/4"",""-3/4"",""-3/4"",""7/4""]",11.363636363636363,"[""-3/4"",""9/16"",""-3/4"",""3/4"",""3/4"",""7/4""]",Algebra B
+24953,"Quadratic Optimization, Part I",48,body35MathjaxBlank,32,6.25,31.25,0.0,6.25,"[""-10"",""10""]",0.0,,0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body5MathjaxBlank,40,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body6MultiAnswerProblem,72,33.333333333333336,0.0,0.0,19.444444444444443,[0],13.88888888888889,[2],0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body7MultiAnswerProblem,54,22.22222222222222,0.0,3.703703703703704,14.814814814814817,[2],7.407407407407407,[1],0.0,,Algebra B
+24953,"Quadratic Optimization, Part I",48,body8MathjaxBlank,74,37.83783783783784,2.702702702702702,0.0,27.027027027027028,"[""an upward"",""minimum"",""$x$""]",2.702702702702702,"[""a downward"",""maximum"",""$x$""]",2.702702702702702,"[""a downward"",""minimum"",""$y$""]",Algebra B
+24953,"Quadratic Optimization, Part I",48,body9ShortAnswerProblem,38,5.2631578947368425,5.2631578947368425,0.0,5.2631578947368425,"""3""",0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body11DynamicGraph,136,4.411764705882353,0.0,4.411764705882353,4.411764705882353,,0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body13SelectGraph,276,42.028985507246375,12.318840579710145,1.4492753623188406,5.797101449275362,"[[-1,1],[1,1],[0,4]]",2.898550724637681,"[[0,-4],[-1,-3],[1,-3]]",2.1739130434782608,"[[1,-1],[3,-1],[2,0]]",Algebra B
+24959,Parabola Transformations: Part 1,17,body15MultiAnswerProblem,128,4.6875,0.0,0.0,3.125,[2],1.5625,[1],0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body18MultiAnswerProblem,144,11.11111111111111,0.0,0.0,8.333333333333334,[1],2.7777777777777777,[0],0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body20MultiAnswerProblem,186,24.731182795698924,0.0,0.0,10.75268817204301,[1],9.67741935483871,[2],4.301075268817204,[3],Algebra B
+24959,Parabola Transformations: Part 1,17,body22MultiAnswerProblem,210,29.52380952380953,0.0,0.0,20.952380952380953,[3],4.761904761904762,[1],3.8095238095238098,[0],Algebra B
+24959,Parabola Transformations: Part 1,17,body25DynamicGraph,118,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body26MultiAnswerProblem,150,21.333333333333332,0.0,78.66666666666667,10.666666666666666,[1],10.666666666666666,[2],0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body28DynamicGraph,74,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body2SelectGraph,274,35.76642335766423,5.109489051094891,0.0,5.839416058394161,"[[1,0],[0,1],[2,1]]",5.109489051094891,"[[0,0],[-1,2],[1,2]]",2.9197080291970803,"[[1,0],[2,1],[-1,3]]",Algebra B
+24959,Parabola Transformations: Part 1,17,body30ShortAnswerProblem,94,17.02127659574468,0.0,0.0,12.76595744680851,"""4""",2.127659574468085,"""5""",2.127659574468085,"""-4""",Algebra B
+24959,Parabola Transformations: Part 1,17,body31ShortAnswerProblem,132,40.90909090909091,6.0606060606060606,0.0,9.090909090909092,"""y=(x-3)^2""",6.0606060606060606,"""y=x^2-3""",1.5151515151515151,"""y=(x-3)^2""",Algebra B
+24959,Parabola Transformations: Part 1,17,body32DynamicGraph,74,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body33MultiAnswerProblem,80,2.5,0.0,0.0,2.5,[2],0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body34ShortAnswerProblem,74,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body35ShortAnswerProblem,102,27.45098039215686,9.803921568627452,62.74509803921568,3.92156862745098,"""y=(x+3)^2+4""",3.92156862745098,"""y = x^2 + 6x + 6""",1.96078431372549,"""y = x^2 -4""",Algebra B
+24959,Parabola Transformations: Part 1,17,body37DynamicGraph,52,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body38ShortAnswerProblem,52,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body39ShortAnswerProblem,80,22.5,12.5,0.0,7.5,"""x^2 - 4""",5.0,"""y=x-4""",2.5,"""(x+4)^2""",Algebra B
+24959,Parabola Transformations: Part 1,17,body40DynamicGraph,52,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body41MultiAnswerProblem,72,22.22222222222222,0.0,0.0,11.11111111111111,[1],8.333333333333334,[2],2.7777777777777777,[3],Algebra B
+24959,Parabola Transformations: Part 1,17,body42ShortAnswerProblem,72,16.666666666666668,8.333333333333334,0.0,8.333333333333334,"""4""",8.333333333333334,"""099""",0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body43ShortAnswerProblem,146,56.16438356164384,13.6986301369863,30.136986301369863,5.47945205479452,"""y=(x+3)^2""",5.47945205479452,"""3""",4.109589041095891,"""-3""",Algebra B
+24959,Parabola Transformations: Part 1,17,body44DynamicGraph,12,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body4MathjaxBlank,122,1.639344262295082,0.0,0.0,1.639344262295082,"[""up"",""2""]",0.0,,0.0,,Algebra B
+24959,Parabola Transformations: Part 1,17,body6ShortAnswerProblem,142,11.267605633802816,0.0,0.0,4.225352112676056,"""1,0""",1.408450704225352,"""(0,0)""",1.408450704225352,"""(0.1)""",Algebra B
+24959,Parabola Transformations: Part 1,17,body9ShortAnswerProblem,196,21.428571428571427,3.061224489795918,0.0,9.183673469387756,"""x^2-3""",4.081632653061225,"""y=x^2-4""",1.020408163265306,"""-y=x^2-4""",Algebra B
+24960,Completing the Square Revisited,16,body11ShortAnswerProblem,108,59.25925925925926,25.925925925925927,0.0,11.11111111111111,"""-2,-3""",9.25925925925926,"""-10,-15""",7.407407407407407,"""(-2,-3)""",Algebra B
+24960,Completing the Square Revisited,16,body14ShortAnswerProblem,40,50.0,0.0,0.0,5.0,"""(-3,3.5""",5.0,"""3,1/2""",5.0,"""3,3.5""",Algebra B
+24960,Completing the Square Revisited,16,body17MathjaxBlank,32,50.0,25.0,0.0,6.25,"[""2"",""3/2"",""1/2""]",6.25,"[""2"",""6"",""1""]",6.25,"[""-"",""-6"",""2""]",Algebra B
+24960,Completing the Square Revisited,16,body18body2MultiAnswerProblem,20,20.0,0.0,0.0,10.0,[0],10.0,[1],0.0,,Algebra B
+24960,Completing the Square Revisited,16,body19MathjaxBlank,18,11.11111111111111,44.44444444444444,11.11111111111111,11.11111111111111,"[""+"",""2"",""+"",""+4""]",0.0,,0.0,,Algebra B
+24960,Completing the Square Revisited,16,body21ShortAnswerProblem,34,47.05882352941177,35.294117647058826,0.0,11.764705882352942,"""3""",5.882352941176471,"""3,-7""",5.882352941176471,"""0""",Algebra B
+24960,Completing the Square Revisited,16,body23MathjaxBlank,46,21.73913043478261,17.391304347826086,60.869565217391305,4.3478260869565215,"[""-3"",""3.5"",""downward"",""steeper""]",4.3478260869565215,"[""-3"",""3/5"",""downward"",""less steep""]",4.3478260869565215,"[""-3"",""3.5"",""upward"",""less steep""]",Algebra B
+24960,Completing the Square Revisited,16,body2ColumnConnection,44,4.545454545454546,4.545454545454546,0.0,4.545454545454546,"""[[0,4],[1,5],[2,6],[3,7]]""",0.0,,0.0,,Algebra B
+24960,Completing the Square Revisited,16,body5MultiAnswerProblem,66,36.36363636363637,0.0,3.0303030303030303,18.181818181818183,[1],18.181818181818183,[2],0.0,,Algebra B
+24960,Completing the Square Revisited,16,body6MathjaxBlank,42,4.761904761904762,23.80952380952381,0.0,4.761904761904762,"[""$-$"",""h"",""$+$"",""1""]",0.0,,0.0,,Algebra B
+24960,Completing the Square Revisited,16,body8MathjaxBlank,64,25.0,12.5,0.0,6.25,"[""$+$"",""1""]",6.25,"[""$+$"",""3""]",6.25,"[""$+$"",""4""]",Algebra B
+24962,AM-GM Inequality,50,body12MultiAnswerProblem,32,6.25,0.0,6.25,6.25,[0],0.0,,0.0,,Algebra B
+24962,AM-GM Inequality,50,body13MultiAnswerProblem,42,23.80952380952381,0.0,0.0,19.047619047619047,[1],4.761904761904762,[0],0.0,,Algebra B
+24962,AM-GM Inequality,50,body15MathjaxBlank,44,22.727272727272727,0.0,0.0,4.545454545454546,"[""5/2"",""2"",""5"",""25"",""73"",""30"",""35"",""21"",""5050"",""1000""]",4.545454545454546,"[""5/2"",""2"",""5"",""5"",""78"",""30"",""35"",""21"",""5050"",""100""]",4.545454545454546,"[""3"",""2"",""5"",""5"",""78"",""30"",""35"",""21"",""5050"",""1000""]",Algebra B
+24962,AM-GM Inequality,50,body16MultiAnswerProblem,38,26.31578947368421,0.0,0.0,21.05263157894737,[0],5.2631578947368425,[2],0.0,,Algebra B
+24962,AM-GM Inequality,50,body21MultiAnswerProblem,38,26.31578947368421,0.0,0.0,15.789473684210526,[0],10.526315789473683,[1],0.0,,Algebra B
+24962,AM-GM Inequality,50,body22MultiAnswerProblem,26,7.6923076923076925,0.0,0.0,7.6923076923076925,[1],0.0,,0.0,,Algebra B
+24962,AM-GM Inequality,50,body23MultiAnswerProblem,36,22.22222222222222,0.0,0.0,16.666666666666668,[1],5.555555555555555,[2],0.0,,Algebra B
+24962,AM-GM Inequality,50,body24MathjaxBlank,36,33.333333333333336,11.11111111111111,5.555555555555555,11.11111111111111,"[""0""]",5.555555555555555,"[""0\\""]",5.555555555555555,"[""1""]",Algebra B
+24962,AM-GM Inequality,50,body25MultiAnswerProblem,32,25.0,0.0,0.0,18.75,[0],6.25,[2],0.0,,Algebra B
+24962,AM-GM Inequality,50,body27MultiAnswerProblem,38,31.57894736842105,0.0,0.0,31.57894736842105,[0],0.0,,0.0,,Algebra B
+24962,AM-GM Inequality,50,body30ShortAnswerProblem,40,20.0,0.0,80.0,10.0,"""40000""",5.0,"""400""",5.0,"""100""",Algebra B
+24962,AM-GM Inequality,50,body35MathjaxBlank,24,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24962,AM-GM Inequality,50,body38ShortAnswerProblem,42,33.333333333333336,14.285714285714286,0.0,9.523809523809524,"""x=-y""",9.523809523809524,"""x=0, y=0""",4.761904761904762,"""0,0""",Algebra B
+24962,AM-GM Inequality,50,body3MathjaxBlank,100,60.0,16.0,0.0,10.0,"[""5"",""8""]",10.0,"[""4"",""6""]",8.0,"[""2"",""2""]",Algebra B
+24962,AM-GM Inequality,50,body44ShortAnswerProblem,28,78.57142857142857,0.0,21.428571428571427,28.571428571428573,"""25""",14.285714285714286,"""26""",7.142857142857143,"""54""",Algebra B
+24962,AM-GM Inequality,50,body45MultiAnswerProblem,32,31.25,0.0,0.0,18.75,[2],12.5,[0],0.0,,Algebra B
+24962,AM-GM Inequality,50,body46ShortAnswerProblem,44,45.45454545454545,22.727272727272727,0.0,13.636363636363637,"""0""",9.090909090909092,"""12""",4.545454545454546,"""12.5""",Algebra B
+24962,AM-GM Inequality,50,body48ShortAnswerProblem,72,58.333333333333336,22.22222222222222,0.0,8.333333333333334,"""3""",5.555555555555555,"""1""",5.555555555555555,"""sqrt2/2""",Algebra B
+24962,AM-GM Inequality,50,body4ShortAnswerProblem,84,52.38095238095238,9.523809523809524,0.0,11.904761904761903,"""8""",11.904761904761903,"""4""",7.142857142857143,"""2+""",Algebra B
+24962,AM-GM Inequality,50,body6MathjaxBlank,52,38.46153846153846,26.923076923076923,0.0,7.6923076923076925,"[""2+r"",""2r +r""]",3.8461538461538463,"[""5"",""8""]",3.8461538461538463,"[""r+2"",""2r+2""]",Algebra B
+24962,AM-GM Inequality,50,body7ShortAnswerProblem,38,10.526315789473683,5.2631578947368425,0.0,5.2631578947368425,"""88""",5.2631578947368425,"""2""",0.0,,Algebra B
+24962,AM-GM Inequality,50,body9MathjaxBlank,46,30.434782608695652,21.73913043478261,0.0,8.695652173913043,"[""$\\times$"",""$\\times$""]",8.695652173913043,"[""$\\times$"",""$\\div$""]",8.695652173913043,"[""$\\div$"",""$\\times$""]",Algebra B
+24965,Beyond Quadratics,38,body11MultiAnswerProblem,60,23.333333333333332,0.0,0.0,23.333333333333332,[1],0.0,,0.0,,Algebra B
+24965,Beyond Quadratics,38,body13ShortAnswerProblem,68,61.76470588235294,0.0,38.23529411764706,8.823529411764707,"""[-inf, 1] u [2, 3]""",5.882352941176471,"""[-inf, 1] u [2,3""",5.882352941176471,"""[-inf, 1] u [2,3)""",Algebra B
+24965,Beyond Quadratics,38,body14MathjaxBlank,22,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24965,Beyond Quadratics,38,body15MathjaxBlank,30,26.666666666666668,0.0,0.0,6.666666666666667,"[""$+$"",""$-$"",""$-$"",""$+$""]",6.666666666666667,"[""$-$"",""$-$"",""$+$"",""$+$""]",6.666666666666667,"[""$+$"",""$-$"",""$-$"",""$-$""]",Algebra B
+24965,Beyond Quadratics,38,body16ShortAnswerProblem,74,56.75675675675676,18.91891891891892,0.0,10.81081081081081,"""(-inf,1]u[2,3]""",8.108108108108109,"""12""",8.108108108108109,"""[-inf, 1] u [2, 3)""",Algebra B
+24965,Beyond Quadratics,38,body18ShortAnswerProblem,44,50.0,0.0,50.0,9.090909090909092,"""(-inf,9)""",4.545454545454546,"""(-inf, 9)""",4.545454545454546,"""(-1,2)""",Algebra B
+24965,Beyond Quadratics,38,body20ShortAnswerProblem,60,33.333333333333336,20.0,46.666666666666664,10.0,"""23""",6.666666666666667,"""(-inf,2)u(9,inf)""",3.3333333333333335,"""ok""",Algebra B
+24965,Beyond Quadratics,38,body2ShortAnswerProblem,60,53.333333333333336,0.0,46.666666666666664,6.666666666666667,"""(-2,4,-7)""",3.3333333333333335,"""(-7, inf)""",3.3333333333333335,"""(-inf,-7]u[-2,4]""",Algebra B
+24965,Beyond Quadratics,38,body4ShortAnswerProblem,36,16.666666666666668,0.0,0.0,11.11111111111111,"""-2,2""",5.555555555555555,"""-3, 5, -8""",0.0,,Algebra B
+24965,Beyond Quadratics,38,body5MathjaxBlank,32,12.5,31.25,0.0,6.25,"[""-"",""-"",""+"",""+"",""-"",""-"",""-"",""+"",""="",""+"",""+"",""+""]",6.25,"[""-"",""-"",""-"",""+"",""-"",""-"",""-"",""+"",""-"",""+"",""+"",""+""]",0.0,,Algebra B
+24965,Beyond Quadratics,38,body6MultiAnswerProblem,78,51.282051282051285,12.82051282051282,0.0,15.384615384615383,"[0,2,3]",12.82051282051282,"[1,2]",12.82051282051282,[2],Algebra B
+24965,Beyond Quadratics,38,body8ShortAnswerProblem,44,36.36363636363637,36.36363636363637,27.272727272727273,22.727272727272727,"""aw""",4.545454545454546,""".""",4.545454545454546,"""-,+,-+""",Algebra B
+24966,"Quadratic Optimization, Part II",55,body11MathjaxBlank,110,60.0,12.727272727272728,27.272727272727273,21.818181818181817,"[""-b/a"",""-b/2a""]",9.090909090909092,"[""-b"",""-b/2""]",7.272727272727272,"[""b"",""b/2""]",Algebra B
+24966,"Quadratic Optimization, Part II",55,body13ShortAnswerProblem,64,65.625,21.875,0.0,15.625,"""-b/2a""",9.375,"""-2b/4a""",6.25,"""-b/a""",Algebra B
+24966,"Quadratic Optimization, Part II",55,body16MultiAnswerProblem,36,33.333333333333336,0.0,66.66666666666667,16.666666666666668,[0],16.666666666666668,[1],0.0,,Algebra B
+24966,"Quadratic Optimization, Part II",55,body18MathjaxBlank,42,19.047619047619047,38.095238095238095,0.0,14.285714285714286,"[""b/2"",""a/2"",""b/4"",""a/4""]",4.761904761904762,"[""b"",""c"",""c"",""a""]",0.0,,Algebra B
+24966,"Quadratic Optimization, Part II",55,body19ShortAnswerProblem,100,62.0,24.0,0.0,12.0,"""b^2/4a""",6.0,"""a(b^2/4a^3)""",6.0,"""a(b^2/4a^2)""",Algebra B
+24966,"Quadratic Optimization, Part II",55,body1MultiAnswerProblem,74,21.62162162162162,0.0,0.0,10.81081081081081,[0],10.81081081081081,[1],0.0,,Algebra B
+24966,"Quadratic Optimization, Part II",55,body21DragDropMathjax,32,12.5,6.25,0.0,6.25,"[1,2]",6.25,"[0,3]",0.0,,Algebra B
+24966,"Quadratic Optimization, Part II",55,body25MultiAnswerProblem,22,18.181818181818183,0.0,0.0,18.181818181818183,[0],0.0,,0.0,,Algebra B
+24966,"Quadratic Optimization, Part II",55,body2MathjaxBlank,74,24.324324324324323,29.72972972972973,0.0,10.81081081081081,"[""25"",""25"",""25"",""5"",""5"",""-17""]",5.405405405405405,"[""50"",""25"",""8"",""5"",""5"",""8""]",5.405405405405405,"[""25"",""25"",""25"",""5"",""5"",""8""]",Algebra B
+24966,"Quadratic Optimization, Part II",55,body30MathjaxBlank,108,50.0,18.51851851851852,0.0,5.555555555555555,"[""-3/4"",""-31/4""]",5.555555555555555,"[""-3/4"",""-31/44""]",5.555555555555555,"[""-3/4"",""-29/4""]",Algebra B
+24966,"Quadratic Optimization, Part II",55,body31MathjaxBlank,62,35.483870967741936,16.129032258064516,0.0,6.451612903225806,"[""-1"",""7""]",6.451612903225806,"[""1"",""7""]",6.451612903225806,"[""1"",""-7""]",Algebra B
+24966,"Quadratic Optimization, Part II",55,body33ShortAnswerProblem,44,50.0,0.0,50.0,13.636363636363637,"""3.6""",9.090909090909092,"""6""",9.090909090909092,"""8""",Algebra B
+24966,"Quadratic Optimization, Part II",55,body35ShortAnswerProblem,38,36.8421052631579,31.57894736842105,0.0,15.789473684210526,"""p - c""",5.2631578947368425,"""435""",5.2631578947368425,"""c(240-p)""",Algebra B
+24966,"Quadratic Optimization, Part II",55,body36MathjaxBlank,50,60.0,24.0,0.0,16.0,"[""c"",""40""]",12.0,"[""c"",""1\\""]",8.0,"[""c"",""1""]",Algebra B
+24966,"Quadratic Optimization, Part II",55,body38MultiAnswerProblem,86,44.18604651162791,0.0,0.0,23.25581395348837,[1],20.930232558139537,[2],0.0,,Algebra B
+24966,"Quadratic Optimization, Part II",55,body39ShortAnswerProblem,74,37.83783783783784,21.62162162162162,0.0,5.405405405405405,"""0""",5.405405405405405,""".""",5.405405405405405,"""6,-6""",Algebra B
+24966,"Quadratic Optimization, Part II",55,body3MathjaxBlank,102,37.25490196078432,13.72549019607843,0.0,11.764705882352942,"[""25"",""42""]",7.84313725490196,"[""5"",""-8""]",3.92156862745098,"[""5"",""2""]",Algebra B
+24966,"Quadratic Optimization, Part II",55,body40ShortAnswerProblem,64,31.25,3.125,0.0,15.625,"""6""",6.25,"""0""",6.25,"""0,6""",Algebra B
+24966,"Quadratic Optimization, Part II",55,body44MultiAnswerProblem,34,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24966,"Quadratic Optimization, Part II",55,body5ShortAnswerProblem,84,26.19047619047619,2.380952380952381,0.0,7.142857142857143,"""(-5,8)""",4.761904761904762,"""-5,8""",2.380952380952381,"""5,-8""",Algebra B
+24966,"Quadratic Optimization, Part II",55,body7MultiAnswerProblem,94,40.42553191489362,0.0,6.382978723404255,25.53191489361702,[0],14.893617021276595,[2],0.0,,Algebra B
+24966,"Quadratic Optimization, Part II",55,body8ShortAnswerProblem,118,50.84745762711864,15.254237288135592,0.0,8.474576271186441,"""2(r-s)""",8.474576271186441,"""0""",5.084745762711864,"""rs""",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body11ShortAnswerProblem,214,49.532710280373834,21.49532710280374,0.0,6.542056074766355,"""(inf, 4)""",4.672897196261682,"""(4, -inf)""",4.672897196261682,"""(inf,4)""",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body13ShortAnswerProblem,130,47.69230769230769,0.0,52.30769230769231,7.6923076923076925,"""(0,4)""",4.615384615384615,"""[-1,4]""",3.076923076923077,"""x<4""",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body14MultiAnswerProblem,36,27.77777777777778,0.0,0.0,16.666666666666668,[0],5.555555555555555,[1],5.555555555555555,[3],Algebra B
+24981,"Quadratic Inequalities, Part I",151,body15MultiAnswerProblem,42,33.333333333333336,0.0,0.0,19.047619047619047,[2],14.285714285714286,[0],0.0,,Algebra B
+24981,"Quadratic Inequalities, Part I",151,body16MultiAnswerProblem,62,54.83870967741935,0.0,0.0,32.25806451612903,[0],22.580645161290324,[1],0.0,,Algebra B
+24981,"Quadratic Inequalities, Part I",151,body19MathjaxBlank,96,27.083333333333332,6.25,0.0,6.25,"[""up"",""-4"",""1""]",6.25,"[""up"",""4"",""-4""]",4.166666666666667,"[""up"",""1"",""4""]",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body22MultiAnswerProblem,134,43.28358208955224,0.0,1.492537313432836,22.388059701492537,[1],20.895522388059703,[2],0.0,,Algebra B
+24981,"Quadratic Inequalities, Part I",151,body23MultiAnswerProblem,80,15.0,0.0,0.0,12.5,[1],2.5,[2],0.0,,Algebra B
+24981,"Quadratic Inequalities, Part I",151,body24DragDropMathjax,248,67.74193548387096,4.032258064516129,0.0,15.32258064516129,"[1,7]",12.903225806451612,"[1,6]",6.451612903225806,"[1,5]",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body27MultiAnswerProblem,118,37.28813559322034,0.0,0.0,23.728813559322035,[2],13.559322033898304,[1],0.0,,Algebra B
+24981,"Quadratic Inequalities, Part I",151,body28MathjaxBlank,110,36.36363636363637,29.09090909090909,0.0,5.454545454545454,"[""+"",""-"",""+"",""-"",""+"",""-""]",3.636363636363636,"[""+"",""+"",""-"",""+"",""-"",""-""]",3.636363636363636,"[""+"",""+"",""+"",""+"",""+"",""+""]",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body29MathjaxBlank,72,13.88888888888889,5.555555555555555,0.0,5.555555555555555,"[""$+$"",""$-$"",""$+$""]",2.7777777777777777,"[""$+$"",""$+$"",""$-$""]",2.7777777777777777,"[""$-$"",""$+$"",""$+$""]",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body2MultiAnswerProblem,80,7.5,0.0,2.5,5.0,[0],2.5,[2],0.0,,Algebra B
+24981,"Quadratic Inequalities, Part I",151,body30ShortAnswerProblem,148,52.7027027027027,22.972972972972972,0.0,5.405405405405405,"""(1,2.5)""",5.405405405405405,"""[1,2.5]""",2.702702702702702,"""(-inf,1)u(2.5,inf)""",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body31MathjaxBlank,102,43.13725490196079,9.803921568627452,0.0,7.84313725490196,"[""down"",""2.5"",""-1""]",3.92156862745098,"[""up"",""2.5"",""1""]",1.96078431372549,"[""down"",""-2"",""-1""]",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body32MultiAnswerProblem,66,12.12121212121212,0.0,0.0,9.090909090909092,[2],3.0303030303030303,[0],0.0,,Algebra B
+24981,"Quadratic Inequalities, Part I",151,body33DragDropMathjax,190,63.1578947368421,8.421052631578947,0.0,10.526315789473683,"[1,7]",7.368421052631579,"[3,6]",7.368421052631579,"[1,6]",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body3MultiAnswerProblem,70,2.857142857142857,0.0,0.0,2.857142857142857,[1],0.0,,0.0,,Algebra B
+24981,"Quadratic Inequalities, Part I",151,body4MultiAnswerProblem,66,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+24981,"Quadratic Inequalities, Part I",151,body6ShortAnswerProblem,110,21.818181818181817,14.545454545454543,1.818181818181818,3.636363636363636,"""x>0""",1.818181818181818,"""x>0""",1.818181818181818,"""x >=0""",Algebra B
+24981,"Quadratic Inequalities, Part I",151,body7MultiAnswerProblem,82,12.195121951219512,0.0,0.0,9.75609756097561,[2],2.4390243902439024,[1],0.0,,Algebra B
+24981,"Quadratic Inequalities, Part I",151,body9MultiAnswerProblem,198,43.43434343434343,0.0,0.0,23.232323232323232,[2],13.131313131313131,[1],7.070707070707071,[0],Algebra B
+25046,Placement Test,6,body12MathjaxBlank,2,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+25046,Placement Test,6,body15MathjaxBlank,2,0.0,100.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25046,Placement Test,6,body5ShortAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+25046,Placement Test,6,body8ShortAnswerProblem,4,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+25046,Placement Test,6,body9ShortAnswerProblem,8,25.0,50.0,25.0,25.0,"""7""",0.0,,0.0,,Algebra B
+25087,Translations,53,body10DynamicGraph,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25087,Translations,53,body11body1MathjaxBlank,22,27.272727272727273,0.0,0.0,18.181818181818183,"[""x"",""y+k""]",9.090909090909092,"[""a"",""y+k""]",0.0,,Algebra B
+25087,Translations,53,body12MathjaxBlank,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25087,Translations,53,body13body1MathjaxBlank,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25087,Translations,53,body14MathjaxBlank,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25087,Translations,53,body18MultiAnswerProblem,14,28.571428571428573,0.0,0.0,14.285714285714286,[0],14.285714285714286,[1],0.0,,Algebra B
+25087,Translations,53,body19MultiAnswerProblem,28,42.857142857142854,0.0,0.0,35.714285714285715,[1],7.142857142857143,[0],0.0,,Algebra B
+25087,Translations,53,body20MathjaxBlank,30,46.666666666666664,13.333333333333334,0.0,20.0,"[""-3"",""1"",""0"",""1"",""-1"",""3"",""2"",""3""]",13.333333333333334,"[""-3"",""1"",""0"",""1"",""-3"",""3"",""2"",""3""]",6.666666666666667,"[""-3"",""1"",""0"",""1"",""-3"",""-2"",""2"",""3""]",Algebra B
+25087,Translations,53,body21SelectGraph,18,44.44444444444444,11.11111111111111,0.0,33.333333333333336,"[2,14,50,86]",11.11111111111111,"[2,39,47,53]",0.0,,Algebra B
+25087,Translations,53,body22MathjaxBlank,12,16.666666666666668,0.0,0.0,16.666666666666668,"[""to the right of"",""a+2"",""b""]",0.0,,0.0,,Algebra B
+25087,Translations,53,body23MultiAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25087,Translations,53,body24DynamicGraph,12,16.666666666666668,0.0,0.0,16.666666666666668,"[""-2""]",0.0,,0.0,,Algebra B
+25087,Translations,53,body25DynamicGraph,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25087,Translations,53,body26body1MathjaxBlank,28,42.857142857142854,0.0,0.0,28.571428571428573,"[""a-h"",""y""]",7.142857142857143,"[""x-h"",""y""]",7.142857142857143,"[""a+h"",""b""]",Algebra B
+25087,Translations,53,body27MathjaxBlank,28,42.857142857142854,0.0,0.0,28.571428571428573,"[""left"",""right""]",7.142857142857143,"[""right"",""right""]",7.142857142857143,"[""right"",""left""]",Algebra B
+25087,Translations,53,body28body1MathjaxBlank,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25087,Translations,53,body29MathjaxBlank,30,46.666666666666664,0.0,0.0,40.0,"[""right"",""left""]",6.666666666666667,"[""left"",""right""]",0.0,,Algebra B
+25087,Translations,53,body31body0ColumnConnection,68,76.47058823529412,11.764705882352942,0.0,17.647058823529413,"""[[0,4],[1,6],[2,5],[3,7]]""",11.764705882352942,"""[[0,6],[1,4],[2,7],[3,5]]""",11.764705882352942,"""[[0,7],[1,5],[2,6],[3,4]]""",Algebra B
+25087,Translations,53,body33MathjaxBlank,36,55.55555555555556,22.22222222222222,0.0,22.22222222222222,"[""$+ $"",""2"",""$ -$"",""1""]",22.22222222222222,"[""$- $"",""1"",""$ +$"",""2""]",5.555555555555555,"[""$+ $"",""1"",""$ -$"",""2""]",Algebra B
+25087,Translations,53,body5MathjaxBlank,12,16.666666666666668,0.0,0.0,16.666666666666668,"[""1"",""`-2"",""-2"",""-5"",""0"",""-3"",""3"",""0""]",0.0,,0.0,,Algebra B
+25087,Translations,53,body6SelectGraph,12,16.666666666666668,0.0,0.0,16.666666666666668,"[36,60,67,96]",0.0,,0.0,,Algebra B
+25087,Translations,53,body7MathjaxBlank,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25087,Translations,53,body8MultiAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25087,Translations,53,body9DynamicGraph,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25109,Inverse Functions Revisited,21,body12ShortAnswerProblem,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25109,Inverse Functions Revisited,21,body17MathjaxBlank,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25109,Inverse Functions Revisited,21,body20MultiAnswerProblem,10,0.0,0.0,20.0,0.0,,0.0,,0.0,,Algebra B
+25109,Inverse Functions Revisited,21,body21ShortAnswerProblem,18,33.333333333333336,33.333333333333336,0.0,22.22222222222222,"""n""",11.11111111111111,"""y=a""",0.0,,Algebra B
+25109,Inverse Functions Revisited,21,body28MultiAnswerProblem,14,14.285714285714286,0.0,0.0,14.285714285714286,[1],0.0,,0.0,,Algebra B
+25109,Inverse Functions Revisited,21,body30MultiAnswerProblem,26,46.15384615384615,0.0,0.0,15.384615384615383,[0],15.384615384615383,[2],15.384615384615383,[3],Algebra B
+25109,Inverse Functions Revisited,21,body34DynamicGraph,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25109,Inverse Functions Revisited,21,body3ShortAnswerProblem,24,50.0,16.666666666666668,0.0,16.666666666666668,"""1/3x-1""",16.666666666666668,"""(1/3)(x)-1""",8.333333333333334,"""i like when beast academy characters are """,Algebra B
+25109,Inverse Functions Revisited,21,body40MultiAnswerProblem,16,25.0,0.0,0.0,12.5,[1],12.5,[2],0.0,,Algebra B
+25109,Inverse Functions Revisited,21,body42MultiAnswerProblem,24,41.666666666666664,0.0,0.0,25.0,[1],16.666666666666668,[0],0.0,,Algebra B
+25109,Inverse Functions Revisited,21,body44MultiAnswerProblem,14,14.285714285714286,0.0,0.0,14.285714285714286,[2],0.0,,0.0,,Algebra B
+25109,Inverse Functions Revisited,21,body9MathjaxBlank,14,14.285714285714286,28.571428571428573,0.0,14.285714285714286,"[""b"",""a'""]",0.0,,0.0,,Algebra B
+25117,Scalings,69,body10MathjaxBlank,12,16.666666666666668,33.333333333333336,0.0,16.666666666666668,"[""3r"",""3s""]",0.0,,0.0,,Algebra B
+25117,Scalings,69,body13ShortAnswerProblem,16,25.0,25.0,0.0,12.5,"""(-inf, 0) u (0, inf)""",12.5,"""a>0""",0.0,,Algebra B
+25117,Scalings,69,body16SelectGraph,10,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+25117,Scalings,69,body19MathjaxBlank,12,16.666666666666668,0.0,0.0,16.666666666666668,"[""h"",""s/2""]",0.0,,0.0,,Algebra B
+25117,Scalings,69,body23MultiAnswerProblem,14,14.285714285714286,0.0,0.0,14.285714285714286,[1],0.0,,0.0,,Algebra B
+25117,Scalings,69,body24MathjaxBlank,14,14.285714285714286,0.0,0.0,14.285714285714286,"[""0""]",0.0,,0.0,,Algebra B
+25117,Scalings,69,body29MathjaxBlank,22,45.45454545454545,0.0,0.0,18.181818181818183,"[""-1""]",18.181818181818183,"[""-8""]",9.090909090909092,"[""2""]",Algebra B
+25117,Scalings,69,body30SelectGraph,22,45.45454545454545,0.0,54.54545454545455,27.272727272727273,"[63,89,99,110,125]",9.090909090909092,"[29,89,99,127,159]",9.090909090909092,"[67,85,110,123]",Algebra B
+25117,Scalings,69,body33MathjaxBlank,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25117,Scalings,69,body36ShortAnswerProblem,12,16.666666666666668,0.0,0.0,16.666666666666668,"""b<1""",0.0,,0.0,,Algebra B
+25117,Scalings,69,body3MultiAnswerProblem,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25117,Scalings,69,body40SelectGraph,10,0.0,0.0,100.0,0.0,,0.0,,0.0,,Algebra B
+25117,Scalings,69,body43MathjaxBlank,10,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25117,Scalings,69,body46MultiAnswerProblem,18,33.333333333333336,0.0,0.0,22.22222222222222,[0],11.11111111111111,[2],0.0,,Algebra B
+25117,Scalings,69,body47MathjaxBlank,18,33.333333333333336,0.0,0.0,22.22222222222222,"[""2""]",11.11111111111111,"[""0""]",0.0,,Algebra B
+25117,Scalings,69,body49ColumnConnection,28,57.142857142857146,14.285714285714286,0.0,14.285714285714286,"""[[0,5],[1,4],[2,6],[3,7]]""",14.285714285714286,"""[[0,4],[1,6],[2,5],[3,7]]""",7.142857142857143,"""[[0,5],[1,7],[2,4],[3,6]]""",Algebra B
+25117,Scalings,69,body4MultiAnswerProblem,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25117,Scalings,69,body51ShortAnswerProblem,22,54.54545454545455,9.090909090909092,9.090909090909092,9.090909090909092,"""(0, 21)""",9.090909090909092,"""(-3,-1)""",9.090909090909092,"""j""",Algebra B
+25117,Scalings,69,body53ShortAnswerProblem,18,55.55555555555556,22.22222222222222,0.0,11.11111111111111,"""(6, 3)""",11.11111111111111,"""(6, -5?""",11.11111111111111,"""2/3,3""",Algebra B
+25117,Scalings,69,body7SelectGraph,10,20.0,0.0,80.0,20.0,"[46,145,195,244]",0.0,,0.0,,Algebra B
+25137,Reflections,36,body10MathjaxBlank,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25137,Reflections,36,body11MathjaxBlank,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25137,Reflections,36,body12DragDropMathjax,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25137,Reflections,36,body14MathjaxBlank,28,71.42857142857143,7.142857142857143,0.0,14.285714285714286,"[""4""]",14.285714285714286,"[""-(x-2)^2""]",7.142857142857143,"[""-4""]",Algebra B
+25137,Reflections,36,body16MultiAnswerProblem,10,20.0,0.0,0.0,20.0,[1],0.0,,0.0,,Algebra B
+25137,Reflections,36,body17DynamicGraph,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25137,Reflections,36,body19MultiAnswerProblem,10,20.0,0.0,0.0,20.0,[0],0.0,,0.0,,Algebra B
+25137,Reflections,36,body20DynamicGraph,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25137,Reflections,36,body22DynamicGraph,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25137,Reflections,36,body25DynamicGraph,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25137,Reflections,36,body26DynamicGraph,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25137,Reflections,36,body3MathjaxBlank,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25137,Reflections,36,body5MathjaxBlank,10,20.0,0.0,0.0,20.0,"[""-6"",""2"",""-1"",""-3"",""-5"",""-3""]",0.0,,0.0,,Algebra B
+25137,Reflections,36,body6MathjaxBlank,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25137,Reflections,36,body7DragDropMathjax,8,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25149,Chapter 13 Feedback,1,body2MultiAnswerProblem,12,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25149,Chapter 13 Feedback,1,body3ShortAnswerProblem,12,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25154,Circles,22,body12MathjaxBlank,94,14.893617021276595,10.638297872340424,0.0,10.638297872340424,"[""4"",""8"",""49""]",2.127659574468085,"[""4"",""-8"",""7""]",2.127659574468085,"[""-4"",""-8"",""7""]",Algebra B
+25154,Circles,22,body14MathjaxBlank,190,31.57894736842105,13.68421052631579,1.0526315789473684,9.473684210526317,"[""x-h"",""x-k"",""r^2""]",6.315789473684211,"[""x-h"",""y-k"",""r""]",5.2631578947368425,"[""h"",""k"",""r^2""]",Algebra B
+25154,Circles,22,body16MathjaxBlank,262,82.44274809160305,0.0,1.5267175572519085,14.50381679389313,"[""1+3"",""1-6"",""41""]",11.450381679389311,"[""1+3"",""6-1"",""41""]",6.870229007633588,"[""4"",""-5"",""41""]",Algebra B
+25154,Circles,22,body18ShortAnswerProblem,70,31.428571428571427,14.285714285714286,0.0,8.571428571428571,"""41""",5.714285714285714,"""sqrt31""",2.857142857142857,"""m""",Algebra B
+25154,Circles,22,body20MathjaxBlank,280,73.57142857142857,22.142857142857142,0.0,23.571428571428573,"[""4"",""-5"",""41""]",12.142857142857142,"[""1-(-3)"",""1-6"",""41""]",10.0,"[""1-(-3)"",""1-6"",""41, -41""]",Algebra B
+25154,Circles,22,body23MultiAnswerProblem,82,34.146341463414636,0.0,65.85365853658537,24.390243902439025,[3],9.75609756097561,[1],0.0,,Algebra B
+25154,Circles,22,body24MathjaxBlank,92,65.21739130434783,0.0,0.0,8.695652173913043,"[""2"",""-4"",""-4""]",8.695652173913043,"[""-2"",""4"",""4""]",6.521739130434782,"[""2"",""-4"",""4""]",Algebra B
+25154,Circles,22,body26ShortAnswerProblem,22,27.272727272727273,0.0,72.72727272727273,9.090909090909092,"""0""",9.090909090909092,"""factor""",9.090909090909092,"""pythageron theorum""",Algebra B
+25154,Circles,22,body27ShortAnswerProblem,56,21.428571428571427,10.714285714285714,0.0,3.5714285714285716,"""32""",3.5714285714285716,"""2""",3.5714285714285716,"""9""",Algebra B
+25154,Circles,22,body29ShortAnswerProblem,60,23.333333333333332,10.0,0.0,13.333333333333334,"""2""",3.3333333333333335,"""90""",3.3333333333333335,"""-2""",Algebra B
+25154,Circles,22,body31MathjaxBlank,58,13.79310344827586,10.344827586206897,0.0,10.344827586206897,"[""2"",""-4"",""6""]",3.4482758620689653,"[""-2"",""3"",""6""]",0.0,,Algebra B
+25154,Circles,22,body3MathjaxBlank,136,26.470588235294116,4.411764705882353,0.0,10.294117647058824,"[""5"",""$\\textbf{is}$""]",2.9411764705882355,"[""√11"",""$\\textbf{is not}$""]",1.4705882352941178,"[""sqrt13"",""$\\textbf{is}$""]",Algebra B
+25154,Circles,22,body7MathjaxBlank,84,9.523809523809524,4.761904761904762,0.0,2.380952380952381,"[""√20"",""$\\textbf{is not}$""]",2.380952380952381,"[""√58"",""$\\textbf{is not}$""]",2.380952380952381,"[""sqrt 58"",""$\\textbf{is not}$""]",Algebra B
+25154,Circles,22,body9MathjaxBlank,186,34.40860215053763,29.032258064516128,0.0,23.655913978494624,"[""x,y"",""3,-1"",""10""]",3.225806451612903,"[""3"",""4"",""5""]",1.075268817204301,"[""x,y"",""3,-1"",""5""]",Algebra B
+25194,Parabola Transformations: Part 2,10,body11MathjaxBlank,172,44.18604651162791,0.0,55.81395348837209,6.976744186046512,"[""5"",""6"",""upward"",""steeper""]",3.488372093023256,"[""0"",""1/3"",""upward"",""steeper""]",3.488372093023256,"[""5"",""6"",""downward"",""less steep""]",Algebra B
+25194,Parabola Transformations: Part 2,10,body12MultiAnswerProblem,72,47.22222222222222,0.0,0.0,25.0,[2],11.11111111111111,[1],11.11111111111111,[0],Algebra B
+25194,Parabola Transformations: Part 2,10,body14MultiAnswerProblem,78,23.076923076923077,0.0,0.0,15.384615384615383,[2],5.128205128205129,[1],2.5641025641025643,[0],Algebra B
+25194,Parabola Transformations: Part 2,10,body16MultiAnswerProblem,102,43.13725490196079,0.0,0.0,29.41176470588235,[2],7.84313725490196,[3],5.882352941176471,[1],Algebra B
+25194,Parabola Transformations: Part 2,10,body20ShortAnswerProblem,204,31.37254901960784,11.764705882352942,0.0,3.92156862745098,"""(-h,k)""",2.9411764705882355,"""(-h, k)""",2.9411764705882355,"""(k, -h)""",Algebra B
+25194,Parabola Transformations: Part 2,10,body3MultiAnswerProblem,410,46.34146341463415,0.0,0.0,17.073170731707318,[3],15.609756097560975,[2],13.658536585365852,[1],Algebra B
+25194,Parabola Transformations: Part 2,10,body5MultiAnswerProblem,232,27.58620689655172,0.0,0.0,18.96551724137931,[1],8.620689655172415,[0],0.0,,Algebra B
+25194,Parabola Transformations: Part 2,10,body7DynamicGraph,128,4.6875,3.125,0.0,1.5625,"[""1.4"",""1.6"",""-2.4""]",1.5625,"[""1.2"",""1.6"",""-2""]",1.5625,"[""1.2"",""1.6"",""-2.2""]",Algebra B
+25194,Parabola Transformations: Part 2,10,body9ShortAnswerProblem,308,29.87012987012987,29.87012987012987,0.0,11.688311688311687,"""-1?""",2.5974025974025974,"""y=x^2*-3""",2.5974025974025974,"""-1""",Algebra B
+25199,Chapter 14 Feedback,1,body2MultiAnswerProblem,24,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25199,Chapter 14 Feedback,1,body3ShortAnswerProblem,22,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25200,Chapter 15 Feedback,1,body2MultiAnswerProblem,12,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25200,Chapter 15 Feedback,1,body3ShortAnswerProblem,12,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25201,Chapter 16 Feedback,1,body2MultiAnswerProblem,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25201,Chapter 16 Feedback,1,body3ShortAnswerProblem,6,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25202,Chapter 17 Feedback,1,body2MultiAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25202,Chapter 17 Feedback,1,body3ShortAnswerProblem,4,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25205,Chapter 20 Feedback,1,body2MultiAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25205,Chapter 20 Feedback,1,body3ShortAnswerProblem,2,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body11ShortAnswerProblem,68,14.705882352941176,5.882352941176471,0.0,11.764705882352942,""" 7890-=""",2.9411764705882355,"""-""",0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body13MathjaxBlank,168,50.0,13.095238095238097,0.0,11.904761904761903,"[""+"",""+"",""+"",""+"",""-"",""+""]",11.904761904761903,"[""-"",""-"",""+"",""+"",""-"",""+""]",10.714285714285714,"[""+"",""-"",""-"",""+"",""-"",""+""]",Algebra B
+25219,"Quadratic Inequalities, Part II",28,body14MathjaxBlank,58,0.0,3.4482758620689653,3.4482758620689653,0.0,,0.0,,0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body15ShortAnswerProblem,192,52.083333333333336,29.166666666666668,0.0,9.375,"""[2,3]""",5.208333333333333,"""2,3""",3.125,"""[3, inf)""",Algebra B
+25219,"Quadratic Inequalities, Part II",28,body16MultiAnswerProblem,88,25.0,0.0,0.0,20.454545454545453,[2],4.545454545454546,[0],0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body18ShortAnswerProblem,124,69.35483870967742,0.0,30.64516129032258,14.516129032258064,"""[-2.5 , 4.5]""",9.67741935483871,"""[-4, 2]""",9.67741935483871,"""(-4.5, 2.5)""",Algebra B
+25219,"Quadratic Inequalities, Part II",28,body19MultiAnswerProblem,44,27.272727272727273,0.0,72.72727272727273,18.181818181818183,[0],9.090909090909092,[2],0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body21MathjaxBlank,28,35.714285714285715,21.428571428571427,0.0,21.428571428571427,"[""-"",""-"",""+"",""-"",""+"",""+""]",7.142857142857143,"[""-"",""-"",""-"",""-"",""+"",""+""]",7.142857142857143,"[""-"",""-"",""+"",""-"",""-"",""+""]",Algebra B
+25219,"Quadratic Inequalities, Part II",28,body22MathjaxBlank,12,0.0,0.0,0.0,0.0,,0.0,,0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body23ShortAnswerProblem,32,43.75,43.75,12.5,12.5,"""(-inf,-4]u[2,-inf)""",6.25,"""(-inf,4],[-2,inf)""",6.25,"""(-inf, -4) u (2, inf)""",Algebra B
+25219,"Quadratic Inequalities, Part II",28,body24MathjaxBlank,32,43.75,37.5,0.0,37.5,"[""down"",""-4"",""2""]",6.25,"[""down"",""4"",""-2""]",0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body26ShortAnswerProblem,34,35.294117647058826,35.294117647058826,29.41176470588235,11.764705882352942,"""5\\""",5.882352941176471,"""ooohhhh""",5.882352941176471,"""(-inf, -4] u [2, inf)""",Algebra B
+25219,"Quadratic Inequalities, Part II",28,body28MultiAnswerProblem,72,19.444444444444443,0.0,0.0,11.11111111111111,[1],8.333333333333334,[0],0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body29MultiAnswerProblem,68,17.647058823529413,0.0,0.0,8.823529411764707,[2],8.823529411764707,[0],0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body31MultiAnswerProblem,94,31.91489361702128,0.0,68.08510638297872,17.02127659574468,[2],14.893617021276595,[1],0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body32MathjaxBlank,86,20.930232558139537,2.3255813953488373,0.0,18.6046511627907,"[""down"",""below""]",2.3255813953488373,"[""down"",""above""]",0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body33ShortAnswerProblem,138,37.68115942028985,34.78260869565217,0.0,4.3478260869565215,"""-inf""",4.3478260869565215,"""[]""",4.3478260869565215,"""(-inf,7)""",Algebra B
+25219,"Quadratic Inequalities, Part II",28,body34MultiAnswerProblem,100,24.0,0.0,0.0,16.0,[0],8.0,[2],0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body35ShortAnswerProblem,78,30.76923076923077,0.0,69.23076923076923,7.6923076923076925,"""(-inf,inf)""",5.128205128205129,"""\\varnothing""",5.128205128205129,"""(-inf, inf)""",Algebra B
+25219,"Quadratic Inequalities, Part II",28,body36MathjaxBlank,16,37.5,50.0,0.0,25.0,"[""249{249}"",""two real roots""]",12.5,"[""sqrt{249}"",""two real roots""]",0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body37MathjaxBlank,12,16.666666666666668,16.666666666666668,0.0,16.666666666666668,"[""up"",""above""]",0.0,,0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body4ShortAnswerProblem,202,49.504950495049506,20.792079207920793,0.0,11.88118811881188,"""-5,0""",8.910891089108912,"""5""",4.9504950495049505,"""5,-5""",Algebra B
+25219,"Quadratic Inequalities, Part II",28,body6MathjaxBlank,136,42.64705882352941,14.705882352941176,0.0,13.235294117647058,"[""$+$"",""$+$"",""$-$""]",13.235294117647058,"[""$-$"",""$+$"",""$-$""]",13.235294117647058,"[""$-$"",""$-$"",""$-$""]",Algebra B
+25219,"Quadratic Inequalities, Part II",28,body7MultiAnswerProblem,204,51.96078431372549,0.0,0.9803921568627452,17.647058823529413,[0],17.647058823529413,[2],16.666666666666668,[1],Algebra B
+25219,"Quadratic Inequalities, Part II",28,body8MultiAnswerProblem,78,15.384615384615383,0.0,0.0,10.256410256410255,[0],5.128205128205129,[1],0.0,,Algebra B
+25219,"Quadratic Inequalities, Part II",28,body9MathjaxBlank,114,19.29824561403509,14.035087719298245,0.0,5.2631578947368425,"[""6"",""s-6"",""s+1""]",3.508771929824561,"[""6"",""s+3"",""s+2""]",1.7543859649122806,"[""6"",""s-=2"",""s-3""]",Algebra B
+25267,Placement Test,3,body12MathjaxBlank,114,19.29824561403509,8.771929824561404,71.9298245614035,3.508771929824561,"[""1""]",3.508771929824561,"[""16""]",3.508771929824561,"[""4""]",Algebra B
+25267,Placement Test,3,body15MathjaxBlank,122,26.229508196721312,9.836065573770492,0.0,6.557377049180328,"[""10"",""68""]",3.278688524590164,"[""5"",""34""]",3.278688524590164,"[""5"",""16""]",Algebra B
+25267,Placement Test,3,body5ShortAnswerProblem,154,24.67532467532467,6.4935064935064934,68.83116883116882,3.896103896103896,"""4x^2+9""",2.5974025974025974,"""4x^2 + 9""",2.5974025974025974,"""2x+9""",Algebra B
+25267,Placement Test,3,body8ShortAnswerProblem,124,12.903225806451612,4.838709677419355,82.25806451612904,1.6129032258064515,"""x(x-8)+15""",1.6129032258064515,"""(x-5)(x+3)""",1.6129032258064515,"""-3 and -5""",Algebra B
+25267,Placement Test,3,body9ShortAnswerProblem,152,28.94736842105263,2.6315789473684212,68.42105263157895,3.9473684210526314,"""7""",2.6315789473684212,"""√-49""",2.6315789473684212,"""(3?22–?)1/2""",Algebra B
